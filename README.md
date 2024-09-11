@@ -29,7 +29,7 @@ AudioBERT uses a retrieval-based framework to inject auditory knowledge into lan
 - **CLAP**: Retrieves relevant audio embeddings from text spans.
 - **LoRA (Low-Rank Adaptation)**: Dynamically adapts the model with auditory embeddings when necessary, ensuring general performance on other language tasks.
 
-![Uploading AudioBERT_model (1)_page-0001.jpg…]()
+![AudioBERT_model (1)_page-0001](https://github.com/user-attachments/assets/e026332d-faf5-4261-bbfe-6062d8c7de0a)
 
 
 ### Training
