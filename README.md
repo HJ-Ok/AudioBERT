@@ -96,7 +96,7 @@ THE SOFTWARE.
 ```
 
 ## Citation
-If you use this code or dataset, please cite the following paper:
+If you use this code, please cite the following paper:
 ```
 @article{ok2024audiobert,
   title={AudioBERT: Audio Knowledge Augmented Language Model},
