@@ -1,10 +1,14 @@
 # AudioBERT 📢 : Audio Knowledge Augmented Language Model
+This repository contains the [model code](model/README.md) and the [dataset](dataset/README.md) of our AudioBERT and AuditoryBench.
 
 ## Introduction
 Language models like BERT, while powerful in text-based tasks, often lack auditory knowledge. This project introduces **AudioBERT**, a method to inject auditory knowledge into language models via a retrieval-based approach, improving performance on auditory knowledge tasks.  
 To evaluate this, we introduce **AuditoryBench**, a dataset featuring tasks like animal sound recognition and sound pitch comparison. AudioBERT leverages **CLAP** (Contrastive Language-Audio Pretraining) for effective audio-text matching.
 
-![AudioBERT_figure1_page-0001](https://github.com/user-attachments/assets/4e2c9d61-cdf0-41d4-a64d-5e9c9121b2a6)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/4e2c9d61-cdf0-41d4-a64d-5e9c9121b2a6" alt="AudioBERT" style="width: 30%; height: auto;">
+</p>
+
 
 ## Dataset
 ### AuditoryBench
@@ -13,6 +17,7 @@ AuditoryBench is the first dataset aimed at evaluating language models' auditory
 - **Sound Pitch Comparison**: Compare the pitch of different sound sources.
 
 This dataset is built using audio-text pairs from the **LAION-Audio-630K** dataset and includes both training, development, and test sets. Further, we augment the data with audio from Wikipedia for broader generalization.
+You can download our dataset and look detailed dataset generation process [here](dataset/README.md).
 
 | Task                  | Train | Dev | Test | Wiki | Total |
 |-----------------------|-------|-----|------|------|-------|
@@ -28,6 +33,8 @@ AudioBERT uses a retrieval-based framework to inject auditory knowledge into lan
 - **Auditory Knowledge Span Detector**: Identifies relevant auditory spans in text.
 - **CLAP**: Retrieves relevant audio embeddings from text spans.
 - **LoRA (Low-Rank Adaptation)**: Dynamically adapts the model with auditory embeddings when necessary, ensuring general performance on other language tasks.
+
+Detailed codes are available [here](model/README.md).
 
 ![AudioBERT_model (1)_page-0001](https://github.com/user-attachments/assets/e026332d-faf5-4261-bbfe-6062d8c7de0a)
 
