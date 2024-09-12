@@ -31,9 +31,9 @@ You can download our dataset and look detailed dataset generation process [here]
 ## Model
 ### AudioBERT
 AudioBERT uses a retrieval-based framework to inject auditory knowledge into language models. Its key components include:
-- **Auditory Knowledge Span Detector**: Identifies relevant auditory spans in text.
-- **CLAP**: Retrieves relevant audio embeddings from text spans.
-- **LoRA (Low-Rank Adaptation)**: Dynamically adapts the model with auditory embeddings when necessary, ensuring general performance on other language tasks.
+- **Auditory Knowledge Span Detector**: This component detects text spans where auditory knowledge is needed, identifying key tokens related to sounds or objects for audio retrieval.
+- **CLAP Retrieval**: Once the span is identified, CLAP retrieves the most relevant audio by matching the text span with audio samples. This embedding is then added to the model to enhance auditory understanding.
+- **AudioBERT (LoRA)**: Dynamically adapts the model with auditory embeddings when necessary, ensuring general performance on other language tasks.
 
 Detailed codes are available [here](model/README.md).
 
