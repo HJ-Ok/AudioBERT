@@ -6,15 +6,15 @@ AuditoryBench is the first dataset aimed at evaluating language models' auditory
 
 ### (Description TBD) 
 Animal Sound Recognition
-- animal:
-- description:
-- sentence:
+- animal: The name of the animal that the sound corresponds to (e.g., cat).
+- description: Description of the animal sound (e.g., meow).
+- sentence: A sentence involving the sound, with a [MASK] placeholder for the animal (e.g., "Meow is the sound a [MASK] makes.").
 
 Sound Pitch Comparison
-- span1:
-- span2:
-- sentence:
-- answer:
+- span1: Description of the first sound (e.g., "sound of a synthesizer").
+- span2: Description of the second sound (e.g., "acoustic bass").
+- sentence: A sentence comparing the two sounds (e.g., "The sound of a synthesizer typically has a [MASK] pitch than an acoustic bass.").
+- answer: The correct comparison (e.g., "higher").
 
 ### Data generation code 
 you need to download [**LAION-Audio-630K** dataset](https://huggingface.co/datasets/Meranti/CLAP_freesound) for generation
