@@ -1,0 +1,69 @@
+You will be given information about specific audio.
+
+Your task is to make a prompt that can measure the auditory knowledge about animals.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+
+Generation Criteria:
+
+Make a prompt if the reference audio information is related to audio knowledge about animals' sounds. For example, a dog makes sounds like a bowwow. So the prompt should be 'Bowwow is the sound a [MASK] makes.' Also, you need to give span that, which is auditory knowledge. e.g. 'Bowwow'.
+
+Generation Steps:
+
+1. Read the reference about specific audio and judge whether it relates to specific animals' onomatopoeic. The reference contains text, tag, description, and category.
+2. If it is related to audio knowledge about animals' sounds, generate prompts that contain [MASK] tokens and measure audio knowledge about animal sounds like 'Bowwow is the sound a [MASK] makes' and give [MASK] token answer. Also, you need to give span that, which is auditory knowledge. e.g. 'Bowwow.'
+3. Your generation prompts answer should be a broad category like 'dog,' not a narrow one like 'Pomeranian.' It should be related to the animal sounds of it.
+
+Example:
+
+Source Text: 
+
+Tag : ['birds', 'field-recording']
+Text : ['Flock of birds rivulet.', 'Recording of a flock of birds on the Hobart Rivulet track, South Hobart, Tasmania, Australia.']
+Description : Recording of a flock of birds on the Hobart Rivulet track, South Hobart, Tasmania, Australia
+Category : animal/birds/field-recording
+
+Generation Form (prompt and answer only): 
+
+Prompt: Chirp is the sound a [MASK] makes
+Answer: bird
+Span: Chirp
+
+
+Source Text: 
+
+Tag : ['insects', 'sound-scape', 'crickets', 'field-recording', 'nature']
+Text : ['CricketEarlyFallMorningSep212012.', '     By mid-September a lot of the migrant songbirds have left southern Illinois, along with their songs.']
+Description :      By mid-September a lot of the migrant songbirds have left southern Illinois, along with their songs.  BUT, the insects and their choruses abound.  This recording made on September 21st, 2012, in a clearing surrounded by heavy forest.     Equipment:  Zoom  H4N recorder and the microphone was the Rode  NTG-2 Shotgun microphone.
+Category : animal/insects/cricket
+
+Generation Form (prompt and answer only):
+
+Prompt: A chirping sound in nature is typically associated with a [MASK].
+Answer: cricket
+Span: chirping
+
+
+Source Text: 
+
+Tag : ['growl', 'dog', 'animal', 'guttural']
+Text : ['Dog growl.', 'Tug of war with my dog sounding like a ferocious beast.']
+Description : Tug of war with my dog sounding like a ferocious beast. Recorded with a Zoom H5
+Category : animal/dog/growl
+
+Generation Form (prompt and answer only):
+
+Prompt: A [MASK] makes a growling bowwow sound.
+Answer: dog
+Span: growling bowwow 
+
+
+Source Text: 
+
+Tag : {{Tag}}
+Text : {{Text}}
+Description : {{Description}}
+Category : {{Category}}
+
+Generation Form (prompt and answer only):

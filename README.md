@@ -1,5 +1,6 @@
 # AudioBERT 📢 : Audio Knowledge Augmented Language Model
 This repository contains the [model code](model/README.md) and the [dataset](dataset/README.md) of our AudioBERT and AuditoryBench.
+Now datasets and generation prompts are available (The detailed and refactored code will be updated after the ICASSP 2025 review.)
 
 ## Introduction
 Language models like BERT, while powerful in text-based tasks, often lack auditory knowledge. This project introduces **AudioBERT**, a method to inject auditory knowledge into language models via a retrieval-based approach, improving performance on auditory knowledge tasks.  
@@ -55,26 +56,13 @@ AudioBERT outperforms baseline models such as BERT, RoBERTa, Gemma2-2B, and LlaM
 | LLaMA3.1-8B     | 21.80              | 62.55             | 48.83          |
 | **AudioBERT**   | **36.69**          | **76.31**         | **62.97**      |
 
+(TBD)
 ## Installation
 To install and run AudioBERT, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/HJ-Ok/AudioBERT.git
     cd AudioBERT
-    ```
-
-
-## Usage
-To run AudioBERT on a sample auditory knowledge task, use the following commands:
-
-1. **Training the Model**:
-    ```bash
-    python train.py
-    ```
-
-2. **Evaluating the Model**:
-    ```bash
-    python evaluate.py
     ```
 
 ## License
