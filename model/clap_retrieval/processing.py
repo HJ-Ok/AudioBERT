@@ -34,7 +34,7 @@ def seed_everything(seed: int):
 
 def processing(args):
 
-    model_path = "/workspace/shyoo/models"
+    model_path = "../models"
     processor = AutoProcessor.from_pretrained("laion/clap-htsat-fused", cache_dir=model_path)
 
     if args.mode == "text":
