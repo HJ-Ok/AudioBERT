@@ -1,5 +1,5 @@
 # AudioBERT 📢 : Audio Knowledge Augmented Language Model
-This repository contains the [model code](model/README.md) and the [dataset](dataset/README.md) of our AudioBERT and AuditoryBench.
+This repository contains the [model code](model/) and the [dataset](dataset/) of our AudioBERT and AuditoryBench.
 Now datasets and generation prompts are available (The detailed and refactored code will be updated after the ICASSP 2025 review.)
 
 ## Introduction
