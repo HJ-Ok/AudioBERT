@@ -38,10 +38,10 @@ def processing(args):
     processor = AutoProcessor.from_pretrained("laion/clap-htsat-fused", cache_dir=model_path)
 
     if args.mode == "text":
-        df_animal = pd.read_csv(f"/workspace/shyoo/data_v2/animal_sounds_{args.set}.csv")
+        df_animal = pd.read_csv(f"../animal_sounds_{args.set}.csv")
         if args.set != 'wiki':
             df_animal['audio_path'] = df_animal['audio_path'].apply(ast.literal_eval).apply(lambda x: x[0])
-        df_height = pd.read_csv(f"/workspace/shyoo/data_v2/height_of_sounds_{args.set}_clap.csv")
+        df_height = pd.read_csv(f"../height_of_sounds_{args.set}_clap.csv")
         if args.data == "combined":
             df = pd.concat([df_height, df_animal], axis=0)
         elif args.data == "animal_sounds":
@@ -51,8 +51,8 @@ def processing(args):
 
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-        model = BertForTokenClassification.from_pretrained('/workspace/shyoo/models/detection_bert/detection_bert_model_combined', num_labels=2).to(device)
-        tokenizer = BertTokenizer.from_pretrained('/workspace/shyoo/models/detection_bert/detection_bert_tokenizer_combined')
+        model = BertForTokenClassification.from_pretrained('../detection_bert/detection_bert_model_combined', num_labels=2).to(device)
+        tokenizer = BertTokenizer.from_pretrained('../detection_bert/detection_bert_tokenizer_combined')
 
         descriptions = [detect_target_word(sentence, tokenizer, model, device) for sentence in tqdm(df['sentence'])]
 
@@ -108,13 +108,13 @@ def processing(args):
             
     elif args.mode == "audio":
         if args.data == "animal_sounds":
-            df_train = pd.read_csv(f"/workspace/shyoo/data_v2/animal_sounds_train.csv")        
-            df_test = pd.read_csv(f"/workspace/shyoo/data_v2/animal_sounds_test.csv")
-            df_dev = pd.read_csv(f"/workspace/shyoo/data_v2/animal_sounds_dev.csv")
+            df_train = pd.read_csv(f"../animal_sounds_train.csv")        
+            df_test = pd.read_csv(f"../animal_sounds_test.csv")
+            df_dev = pd.read_csv(f"../animal_sounds_dev.csv")
         elif args.data == "height_of_sounds":
-            df_train = pd.read_csv(f"/workspace/shyoo/data_v2/height_of_sounds_train.csv")        
-            df_test = pd.read_csv(f"/workspace/shyoo/data_v2/height_of_sounds_test.csv")
-            df_dev = pd.read_csv(f"/workspace/shyoo/data_v2/height_of_sounds_dev.csv")
+            df_train = pd.read_csv(f"../height_of_sounds_train.csv")        
+            df_test = pd.read_csv(f"../height_of_sounds_test.csv")
+            df_dev = pd.read_csv(f"../height_of_sounds_dev.csv")
 
         df = pd.concat([df_train, df_test, df_dev])
         if args.data == "animal_sounds":
@@ -137,7 +137,7 @@ def processing(args):
             dic[idx] = {"inputs": {key: value.tolist() for key, value in dic[idx][0].items()},
                         "audio_path": dic[idx][1]}
 
-    with open(f'/workspace/shyoo/data_v2/{args.mode}_{args.data}_{args.set}_processing.json', 'w') as f:
+    with open(f'../{args.mode}_{args.data}_{args.set}_processing.json', 'w') as f:
             json.dump(dic, f)
 
 if __name__ == "__main__":
