@@ -35,20 +35,20 @@ def retrieval(args):
     
     
     if args.data == "animal_sounds":
-        df = pd.read_csv(f"/workspace/shyoo/data_v2/animal_sounds_{args.set}.csv")
+        df = pd.read_csv(f"../animal_sounds_{args.set}.csv")
         if args.set != 'wiki':
             df['audio_path'] = df['audio_path'].apply(ast.literal_eval).apply(lambda x: x[0])
     elif args.data == "height_of_sounds":
-        df = pd.read_csv(f"/workspace/shyoo/data_v2/height_of_sounds_{args.set}_clap.csv")
+        df = pd.read_csv(f"../height_of_sounds_{args.set}_clap.csv")
 
-    model_path = "/workspace/shyoo/models"
+    model_path = "../models"
     model = ClapModel.from_pretrained("laion/clap-htsat-fused", cache_dir=model_path)
     model.to(device)
 
 
     audio_embeddings = get_retrieval_audio_embeddings(args.data, args.retrieval_set, model, device)
 
-    with open(f'/workspace/shyoo/data_v2/text_{args.data}_{args.set}_processing.json', 'r') as f:
+    with open(f'../text_{args.data}_{args.set}_processing.json', 'r') as f:
         test_process = json.load(f)
 
     class TextDataset(Dataset):
@@ -92,7 +92,7 @@ def retrieval(args):
 
     df = pd.concat([df, top_50_df], axis=1)
 
-    df.to_csv(f'./retrieval_results/{args.data}_{args.set}_retrieval.csv', index=False)
+    df.to_csv(f'../retrieval_results/{args.data}_{args.set}_retrieval.csv', index=False)
 
 
 if __name__ == "__main__":
