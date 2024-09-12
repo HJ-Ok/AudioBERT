@@ -1,0 +1,71 @@
+You will be given information about specific audio.
+
+Your task is to make a prompt to compare the pitch of two suggested auditory objects.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+
+Generation Criteria:
+
+Make a prompt if two references of audio information can compare the pitch of the sound. For example, there are two audio sounds of a dolphin and a dog. The prompt can be 'Sound of a dolphin has a [MASK] pitch than the sound of a dog.' Also, you need to give span that, which is auditory knowledge. e.g., 'Sound of a dolphin' and 'Sound of a dog.' The answer is 'higher' or 'lower' of the mask token.
+
+Generation Steps:
+
+1. Read the reference about two specific audio and judge whether they compare their pitches. The reference contains text, tag, description, and category.
+2. If it is comparable, generate prompts that contain [MASK] tokens and compare their pitch like 'Sound of a dolphin has a [MASK] pitch than the sound of a dog' and give [MASK] token answer. Also, you need to give span that, which is auditory knowledge. e.g., 'Sound of a dolphin' and 'Sound of a dog.'
+3. If it is not comparable, return 0.
+4. The first audio description should be mentioned earlier in the prompt.
+
+Example:
+
+Source Text: 
+
+Tag_1: ['growl', 'dog', 'animal', 'guttural']
+Text_1: ['Dog growl.', 'Tug of war with my dog sounding like a ferocious beast.']
+Description_1: Tug of war with my dog sounding like a ferocious beast. Recorded with a Zoom H5
+Category_1: animal/dog/growl
+
+Tag_2: ['birds,' 'field-recording']
+Text_2: ['Flock of birds rivulet.', 'Recording of a flock of birds on the Hobart Rivulet track, South Hobart, Tasmania, Australia.']
+Description_2: Recording of a flock of birds on the Hobart Rivulet track, South Hobart, Tasmania, Australia
+Category_2: animal/birds/field-recording
+
+Generation Form (prompt and answer only): 
+
+Prompt: A dog's growl typically has a [MASK] pitch than the chirping of a flock of birds.
+Answer: lower
+Spans: "dog's growl", "flock of birds"
+
+
+Source Text: 
+
+Tag_1: ['neumann-U87', 'violin', 'scale', 'Dmajor', 'good-sounds']
+Text_1: ['Violin - D major - bad-timbre-staccato.', 'Recorded in the context of the good-sounds.']
+Description_1: Recorded in the context of the good-sounds.org project from the Music Technology Group, Universitat Pompeu Fabra, Barcelona.Part of the Good-sounds dataset of monophonic instrumental sounds.instrument::violinnote::Dmicrophone::neumann U87tuning reference::442good-sounds-id::6482mode::majorIntentionally played as an example of bad-timbre-staccato
+Category_1: music/instrument/violin
+
+Tag_2: ['bass', 'free', 'guitar', 'live', 'organ', 'session']
+Text_2: ['Live Trampbass Gut 01.', 'bass guitar.']
+Description_2: bass guitar.skankified.
+Category_2: music/instrument/guitar/bass
+
+Generation Form (prompt and answer only):
+
+Prompt: The sound of a violin typically has a [MASK] pitch than a bass guitar.
+Answer: higher
+Spans: "sound of a violin," "bass guitar."
+
+
+Source Text: 
+
+Tag_1: {{Tag_1}}
+Text_1: {{Text_1}}
+Description_1: {{Description_1}}
+Category_1: {{Category_1}}
+
+Tag_2: {{Tag_2}}
+Text_2: {{Text_2}}
+Description_2: {{Description_2}}
+Category_2: {{Category_2}}
+
+Generation Form (prompt and answer only):

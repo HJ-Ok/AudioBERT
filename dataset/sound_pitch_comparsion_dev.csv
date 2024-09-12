@@ -1,0 +1,1179 @@
+sentence,answer,span1,span2
+The sound of men in a locker room typically has a [MASK] pitch than the ambient sound of a steel water tower.,lower,sound of men in a locker room,ambient sound of a steel water tower
+The sound of a tube train typically has a [MASK] pitch than the sound of roadside ambience.,higher,sound of a tube train,sound of roadside ambience
+The sound of ventilation in a subway station typically has a [MASK] pitch than the sound of birds in a city early in the morning.,lower,sound of ventilation in a subway station,sound of birds in a city early in the morning
+The sound of shuffling dirt typically has a [MASK] pitch than the sound of stones sliding.,lower,sound of shuffling dirt,sound of stones sliding
+The sound of floor creak typically has a [MASK] pitch than the sound of walking in gravel.,higher,sound of floor creak,sound of walking in gravel
+The sound of people talking at a campus typically has a [MASK] pitch than the ambient sound of an underground parking lot.,higher,sound of people talking at a campus,ambient sound of an underground parking lot
+The hum of a quiet household typically has a [MASK] pitch than the ambiance of a restaurant terrace.,lower,hum of a quiet household,ambiance of a restaurant terrace
+The sound of a thunderstorm typically has a [MASK] pitch than the sound of wind through trees.,lower,sound of a thunderstorm,sound of wind through trees
+The sound of light rain on a tent typically has a [MASK] pitch than the winter ambience of a forest.,higher,sound of light rain on a tent,winter ambience of a forest
+The sound of a door knocking typically has a [MASK] pitch than the echo in a cave.,higher,door knocking,echo in a cave
+The sound of flowing water in a stream typically has a [MASK] pitch than the ambient noise of city outskirts.,lower,sound of flowing water in a stream,ambient noise of city outskirts
+"The sound of a street in Dijon, France, typically has a [MASK] pitch than the hum of a studio power transformer.",higher,sound of a street in Dijon France,hum of a studio power transformer
+A dog's growl typically has a [MASK] pitch than the chirping of a flock of birds.,lower,dog's growl,flock of birds
+The sound of a water spill typically has a [MASK] pitch than the sound of a quiet mall.,higher,water spill,quiet mall
+The sound of a forest with a river typically has a [MASK] pitch than the sound of a scrapyard.,higher,sound of a forest with a river,scrapyard
+The sound of an elevator ride typically has a [MASK] pitch than the sound of gas burning.,lower,elevator ride,gas burning
+The sound of shoveling snow has a [MASK] pitch than the sound of a photocopier.,lower,shoveling snow,photocopier
+The sound of fire being extinguished by water typically has a [MASK] pitch than the ambient sounds of a city center.,higher,sound of fire being extinguished by water,ambient sounds of a city center
+A dog's growl typically has a [MASK] pitch than the chirping of a flock of birds.,lower,dog's growl,flock of birds
+The sound of a quiet forest typically has a [MASK] pitch than the sound of a skyscraper swaying in the wind.,lower,sound of a quiet forest,sound of a skyscraper swaying in the wind
+The sound of water rinsing typically has a [MASK] pitch than the sound of steps on leaves.,lower,water rinsing,steps on leaves
+The sound of a tornado siren has a [MASK] pitch than the sound of courtyard ambience.,higher,sound of a tornado siren,sound of courtyard ambience
+The sound of birds in a city has a [MASK] pitch than the sound of crickets and dogs in the countryside at night.,higher,sound of birds in a city,sound of crickets and dogs in the countryside at night
+The sound of leaves falling in a forest typically has a [MASK] pitch than the sound of waves and rocks on a beach.,lower,sound of leaves falling in a forest,sound of waves and rocks on a beach
+The sound of a door closing typically has a [MASK] pitch than kitchen ambiance.,higher,door closing,kitchen ambiance
+The sound of a short bus journey has a [MASK] pitch than the sound of machines in a recycling plant.,higher,short bus journey,machines in a recycling plant
+The sound of a boiling water typically has a [MASK] pitch than an air conditioner rumble.,higher,boiling water,air conditioner rumble
+The sound of voices in a cafe has a [MASK] pitch than the sound of cicadas in the country.,higher,sound of voices in a cafe,sound of cicadas in the country
+The sound of a fire in a fireplace typically has a [MASK] pitch than muffled voices.,higher,sound of a fire in a fireplace,muffled voices
+The sound of a lightswitch typically has a [MASK] pitch than water dripping onto a metal barrel.,higher,sound of a lightswitch,water dripping onto a metal barrel
+The sound of heavy traffic in Manila has a [MASK] pitch than the sound in a silent room with some noise.,higher,sound of heavy traffic in Manila,sound in a silent room with some noise
+The sound of a pub atmosphere typically has a [MASK] pitch than the sound of an underground car park ventilation system.,higher,sound of a pub atmosphere,underground car park ventilation system
+The sound of water in a cave has a [MASK] pitch than the sound of air-con and cooling fans.,higher,sound of water in a cave,sound of air-con and cooling fans
+The sound of fire has a [MASK] pitch than the sound of a door opening.,higher,sound of fire,door opening
+The sound of mining machinery typically has a [MASK] pitch than the sound of footsteps in the forest.,higher,sound of mining machinery,sound of footsteps in the forest
+The sound of water dripping typically has a [MASK] pitch than the sound of stairs in a tube station.,lower,sound of water dripping,sound of stairs in a tube station
+The sound of a sprinkler typically has a [MASK] pitch than the sound of paper rustling.,lower,sound of a sprinkler,sound of paper rustling
+The sound of a Mystic Melody has a [MASK] pitch than the sound of wood creaking in the forest.,higher,Mystic Melody,wood creaking in the forest
+The sound of a city typically has a [MASK] pitch than the sound of trickling water.,higher,sound of a city,sound of trickling water
+The sound of a busy road typically has a [MASK] pitch than the sound of an open window campus.,lower,sound of a busy road,open window campus
+The sound of a toilet flushing typically has a [MASK] pitch than industrial machinery.,higher,sound of a toilet flushing,industrial machinery
+The sound of an airport waiting hall has a [MASK] pitch than the sound of a park atmosphere.,higher,sound of an airport waiting hall,sound of a park atmosphere
+The sound of walking on a sandy trail typically has a [MASK] pitch than walking along a gravel path.,lower,walking on a sandy trail,walking along a gravel path
+The sound of fire crackling typically has a [MASK] pitch than the sound of a church atmosphere.,higher,sound of fire crackling,sound of a church atmosphere
+The sound of footsteps in a forest has a [MASK] pitch than the sound inside a sleeping room.,higher,sound of footsteps in a forest,sound inside a sleeping room
+The sound of sports machines in a park typically has a [MASK] pitch than the ticking of a clock.,higher,sports machines in a park,ticking of a clock
+The sound of a metal fence typically has a [MASK] pitch than the background noise of an elevator.,higher,sound of a metal fence,background noise of an elevator
+The hum of a 10000 WATT electric fence typically has a [MASK] pitch than the sound of drops of water hitting a tarp.,higher,hum of a 10000 WATT electric fence,drops of water hitting a tarp
+The sound of writing on a chalkboard typically has a [MASK] pitch than the sound of rain in a city.,higher,sound of writing on a chalkboard,sound of rain in a city
+The sound of wind has a [MASK] pitch than the sound of candles burning.,higher,sound of wind,candles burning
+The sound of water flowing in a bathroom typically has a [MASK] pitch than the sound of a fluorescent light starting up.,lower,water flowing in a bathroom,fluorescent light starting up
+The sound of a computer room typically has a [MASK] pitch than the ambiance of an Italian port town.,higher,sound of a computer room,ambiance of an Italian port town
+The sound of paddling under a bridge typically has a [MASK] pitch than the sound of grass being cut.,lower,sound of paddling under a bridge,sound of grass being cut
+The sound of a tunnel typically has a [MASK] pitch than the chirping of birds in the early morning.,lower,sound of a tunnel,chirping of birds in the early morning
+The sound of fizzy water typically has a [MASK] pitch than the sound of rain.,higher,fizzy water,rain
+The sound of a busy street typically has a [MASK] pitch than the sound of suburban residential traffic.,higher,sound of a busy street,sound of suburban residential traffic
+The sound of a toilet door typically has a [MASK] pitch than the ambient noise in a museum bistro.,higher,toilet door,ambient noise in a museum bistro
+The hum of computer fans in an office typically has a [MASK] pitch than the sound of water flushing in a toilet.,higher,hum of computer fans in an office,sound of water flushing in a toilet
+The sound of birds chirping in the morning has a [MASK] pitch than the dripping sound of a gas furnace.,higher,birds chirping in the morning,dripping sound of a gas furnace
+The sound of fire crackling typically has a [MASK] pitch than the sound of waves and birds.,higher,sound of fire crackling,sound of waves and birds
+A German garden on a sunny day with birds typically has a [MASK] pitch than an empty pasture in September in Holland.,higher,German garden on a sunny day with birds,empty pasture in September in Holland
+The sound of toilet paper being pulled out of a dispenser in a bathroom typically has a [MASK] pitch than the sound of wind chimes.,lower,sound of toilet paper being pulled out of a dispenser in a bathroom,sound of wind chimes
+The sound of cicadas in a forest typically has a [MASK] pitch than the sound of an underground tube station.,higher,sound of cicadas in a forest,underground tube station
+The hum of a high voltage supply typically has a [MASK] pitch than the sound of a Geiger counter.,lower,hum of a high voltage supply,sound of a Geiger counter
+The sound of a classroom with students speaking typically has a [MASK] pitch than the sound of a field recording in Seattle.,lower,sound of a classroom with students speaking,sound of a field recording in Seattle
+The sound of a busy street typically has a [MASK] pitch than the sound of people shoveling snow.,higher,sound of a busy street,people shoveling snow
+The sound of TV in a living room typically has a [MASK] pitch than the sound of beach waves.,higher,sound of TV in a living room,sound of beach waves
+The sound of a river typically has a [MASK] pitch than the sound of a windbell.,lower,sound of a river,windbell
+The sound of bubbling water in a geothermal pool typically has a [MASK] pitch than the ambient sounds of a forest at night.,higher,sound of bubbling water in a geothermal pool,ambient sounds of a forest at night
+The sound of an automatic door typically has a [MASK] pitch than the sound of electrical components.,higher,sound of an automatic door,sound of electrical components
+The sound of a Marrakesh street ambience typically has a [MASK] pitch than the sound of a silent soundwalk.,higher,sound of a Marrakesh street ambience,sound of a silent soundwalk
+The sound of a squeaky floorboard typically has a [MASK] pitch than the ambient noise of a crowded lift.,higher,squeaky floorboard,ambient noise of a crowded lift
+The sound of a train passing typically has a [MASK] pitch than the sound of a windmill.,higher,sound of a train passing,sound of a windmill
+The sound of a fire alarm typically has a [MASK] pitch than the sound of dishes being washed in a pub.,higher,sound of a fire alarm,dishes being washed in a pub
+The sound of a curtain moving typically has a [MASK] pitch than the sound of a forest with birds and wind.,lower,sound of a curtain moving,sound of a forest with birds and wind
+The sound of a playground in a park typically has a [MASK] pitch than the sound of industrial hydraulics.,higher,sound of a playground in a park,sound of industrial hydraulics
+The sound of summer night ambience has a [MASK] pitch than the sound of cracking tree bark.,lower,summer night ambience,cracking tree bark
+The sound of crickets typically has a [MASK] pitch than the general noise in Paris.,higher,sound of crickets,general noise in Paris
+The sound of church bells typically has a [MASK] pitch than the sound of hammering in the neighborhood.,higher,sound of church bells,sound of hammering in the neighborhood
+The sound of a water wheel typically has a [MASK] pitch than the sound of a dark sand cave factory.,higher,sound of a water wheel,sound of a dark sand cave factory
+The sound of gravel underfoot typically has a [MASK] pitch than the ringing of a church bell.,lower,sound of gravel underfoot,ringing of a church bell
+The sound of raindrops typically has a [MASK] pitch than the noise of a busy pedestrian zone.,lower,sound of raindrops,noise of a busy pedestrian zone
+The sound of seagulls at a harbour typically has a [MASK] pitch than people talking in a house.,higher,sound of seagulls at a harbour,people talking in a house
+The sound of a mill race typically has a [MASK] pitch than the sound of water boiling.,lower,sound of a mill race,sound of water boiling
+The sound of a church bell typically has a [MASK] pitch than the sound of footsteps in a stubble field.,higher,church bell,footsteps in a stubble field
+The sound of walking on a windy winter day typically has a [MASK] pitch than the sound of sonar.,higher,sound of walking on a windy winter day,sound of sonar
+The sound of a toilet flush typically has a [MASK] pitch than water dripping into a metal sink.,lower,toilet flush,water dripping into a metal sink
+The sound of a water meter typically has a [MASK] pitch than the sound of steam running into a metal mug.,lower,water meter,steam running into a metal mug
+The sound of an amusement park typically has a [MASK] pitch than the sound of students talking in a school corridor.,higher,sound of an amusement park,sound of students talking in a school corridor
+The sound of a noisy ventilation fan has a [MASK] pitch than the sound of birds in a city.,higher,noisy ventilation fan,birds in a city
+The sound of people talking in an airport's baggage claim typically has a [MASK] pitch than the sound of an elevator.,higher,sound of people talking in an airport's baggage claim,sound of an elevator
+The sound of a sprinkler typically has a [MASK] pitch than the sound of a train station.,higher,sound of a sprinkler,sound of a train station
+The sound of a busy street typically has a [MASK] pitch than the sound of small boulders rolling down a short slope.,higher,busy street,small boulders rolling down a short slope
+The sound of workers forging steel typically has a [MASK] pitch than the sound of raindrops.,higher,workers forging steel,raindrops
+The sound of an elevator door typically has a [MASK] pitch than the sound of a fountain.,higher,elevator door,fountain
+The sound of a museum gallery typically has a [MASK] pitch than the sound of a windy day.,lower,museum gallery,windy day
+The sound of an elevator starting typically has a [MASK] pitch than the sound of rain on a barn roof.,higher,elevator starting,rain on a barn roof
+The sound of a museum exhibition room has a [MASK] pitch than the sound of a town square.,lower,sound of a museum exhibition room,sound of a town square
+The sound of a fire on a stove typically has a [MASK] pitch than the sound of a fountain.,higher,fire on a stove,sound of a fountain
+Room tone of a suburban living room has a [MASK] pitch than the ambient noise in a ferry terminal.,lower,room tone of a suburban living room,ambient noise in a ferry terminal
+The sound of nature in a mountain has a [MASK] pitch than the sound of a city during a winter storm.,higher,sound of nature in a mountain,sound of a city during a winter storm
+The sound of traffic under a steel bridge typically has a [MASK] pitch than the sound of village activity.,higher,sound of traffic under a steel bridge,sound of village activity
+The sound of a rattle bike in a city typically has a [MASK] pitch than the sound of wind in a forest.,higher,rattle bike in a city,wind in a forest
+The sound of a lot of wood falling typically has a [MASK] pitch than the sound of traffic in India.,lower,sound of a lot of wood falling,sound of traffic in India
+The sound of water rushing through a drainage pipe typically has a [MASK] pitch than the crackling of a wood fire.,lower,sound of water rushing through a drainage pipe,crackling of a wood fire
+The sound of tapping water typically has a [MASK] pitch than the sound of stepping on a stone immersed in mud.,higher,sound of tapping water,sound of stepping on a stone immersed in mud
+The sound of a locker in a swimming pool has a [MASK] pitch than the sound of children playing on a beach.,lower,sound of a locker in a swimming pool,sound of children playing on a beach
+The sound of machinery working on a city street repaving typically has a [MASK] pitch than the metallic sounds recorded in an abandoned industrial complex.,lower,machinery working on a city street repaving,metallic sounds recorded in an abandoned industrial complex
+The sound of industrial metalworking typically has a [MASK] pitch than church bells.,lower,industrial metalworking,church bells
+The sound of a tube station typically has a [MASK] pitch than an ambulance.,lower,tube station,ambulance
+A dog's growl typically has a [MASK] pitch than the chirping of a flock of birds.,lower,dog's growl,flock of birds
+The sound of children playing in a city square has a [MASK] pitch than the sound of footsteps on a subway platform.,higher,children playing in a city square,footsteps on a subway platform
+The sound of footsteps on outdoor stairs has a [MASK] pitch than the sound of city traffic.,higher,footsteps on outdoor stairs,city traffic
+The sound of a busy beach typically has a [MASK] pitch than a calm down-town street.,higher,sound of a busy beach,calm down-town street
+The sound of children and birds at a park has a [MASK] pitch than the ambient sound of a public park.,higher,children and birds at a park,ambient sound of a public park
+The sound of water flowing in a drain typically has a [MASK] pitch than the sound of silence in a desert.,higher,water flowing in a drain,silence in a desert
+The sound of a city atmosphere typically has a [MASK] pitch than the sound of a kitchen stove fire.,higher,sound of a city atmosphere,kitchen stove fire
+The sound of a streamlet typically has a [MASK] pitch than the sound of a meadow.,lower,sound of a streamlet,sound of a meadow
+The sound of birds in a public park typically has a [MASK] pitch than the sound of winter snow removal.,higher,birds in a public park,winter snow removal
+The sound of a highway at sunrise has a [MASK] pitch than the sound of crows in a park.,higher,sound of a highway at sunrise,crows in a park
+The sound of a train in the night typically has a [MASK] pitch than the sound of the wind in the desert.,lower,sound of a train in the night,sound of the wind in the desert
+The sound of a bathroom door slamming has a [MASK] pitch than the ambient sounds of Cambridge.,higher,sound of a bathroom door slamming,ambient sounds of Cambridge
+The sound of walking on grass typically has a [MASK] pitch than the sound of crossing a river.,higher,sound of walking on grass,sound of crossing a river
+The sound of waves on a shingle beach typically has a [MASK] pitch than the eerie sound of a dark temple cave.,higher,sound of waves on a shingle beach,eerie sound of a dark temple cave
+The sound of walking near a highway has a [MASK] pitch than a medical alarm.,lower,sound of walking near a highway,medical alarm
+The sound of regular waves made by a wave machine typically has a [MASK] pitch than the sound of strong fire burning.,lower,sound of regular waves made by a wave machine,sound of strong fire burning
+The sound of water running in a bathtub typically has a [MASK] pitch than the ambient noise in a shopping mall restaurant.,higher,water running in a bathtub,ambient noise in a shopping mall restaurant
+The sound of scratching over a heating device typically has a [MASK] pitch than the sound of light waves.,higher,sound of scratching over a heating device,sound of light waves
+The sound of a distorted drone typically has a [MASK] pitch than the sound of a computer lab.,lower,distorted drone,computer lab
+The sound of walking on stones typically has a [MASK] pitch than the sound of a ship's interior.,higher,walking on stones,ship's interior
+An underwater horror soundscape typically has a [MASK] pitch than the sounds of a refurbished gallery.,lower,underwater horror soundscape,refurbished gallery
+The sound of the environment in the Blue Mosque has a [MASK] pitch than the sound of wooden stairs.,lower,sound of the environment in the Blue Mosque,wooden stairs
+The sound of a shower door typically has a [MASK] pitch than the sound of walking on metallic railings.,lower,sound of a shower door,walking on metallic railings
+The sound of rain has a [MASK] pitch than the sound of a quiet cafe.,lower,sound of rain,quiet cafe
+The sound of ocean waves typically has a [MASK] pitch than the morning ambience in a town.,lower,ocean waves,morning ambience in a town
+The sound of a subway rumbling has a [MASK] pitch than the ambiance in a city apartment.,lower,subway rumbling,ambiance in a city apartment
+The sound of a futuristic elevator typically has a [MASK] pitch than the crackling of firewood.,higher,sound of a futuristic elevator,crackling of firewood
+The sound of crumble in a cave typically has a [MASK] pitch than the sound of a door in a stairwell.,lower,crumble in a cave,door in a stairwell
+The sound of children playing in a park typically has a [MASK] pitch than the sound of the ocean at a beach.,higher,sound of children playing in a park,sound of the ocean at a beach
+The sound of filling a bath typically has a [MASK] pitch than the ambiance of an old factory hall.,higher,filling a bath,ambiance of an old factory hall
+The sound of wind in a park has a [MASK] pitch than the sound of walking in the snow.,higher,sound of wind in a park,sound of walking in the snow
+The sound of a man blowing an axe in the jungle typically has a [MASK] pitch than the ambient sound of a living room.,higher,sound of a man blowing an axe in the jungle,ambient sound of a living room
+The sound of an air hammer typically has a [MASK] pitch than the sound of wind in the trees.,higher,sound of an air hammer,sound of wind in the trees
+The sound of a door closing typically has a [MASK] pitch than the sound of gentle lapping water.,higher,sound of a door closing,gentle lapping water
+The sound of a door gate opening has a [MASK] pitch than the sound of quiet distant voices in a library.,higher,door gate opening,quiet distant voices in a library
+The sound of a busy airport typically has a [MASK] pitch than the sound of an indoor arena.,higher,sound of a busy airport,sound of an indoor arena
+The sound of an Italian restaurant typically has a [MASK] pitch than the sound of a busy metal workshop.,lower,sound of an Italian restaurant,sound of a busy metal workshop
+The sound of footsteps on stairs typically has a [MASK] pitch than the sound of construction works.,higher,footsteps on stairs,construction works
+The sound of footsteps in a corridor has a [MASK] pitch than the sound of water dripping.,higher,footsteps in a corridor,water dripping
+The sound of someone walking in the wood typically has a [MASK] pitch than the sound of a backyard.,lower,walking in the wood,sound of a backyard
+The sound of a door slamming in a sauna typically has a [MASK] pitch than the sound of urban traffic.,higher,sound of a door slamming in a sauna,sound of urban traffic
+The sound of Sydney suburban bushland has a [MASK] pitch than the sound of a busy city street.,lower,sound of Sydney suburban bushland,sound of a busy city street
+The sound of a creaking floor typically has a [MASK] pitch than the sound of wind flowing over a car.,lower,sound of a creaking floor,sound of wind flowing over a car
+The sound of a water fountain typically has a [MASK] pitch than the ambient noise in a store.,higher,water fountain,ambient noise in a store
+The sound of footsteps in a city has a [MASK] pitch than high windy rumbling sound.,higher,sound of footsteps in a city,high windy rumbling sound
+The sound of a neighborhood typically has a [MASK] pitch than the sound of birds in a forest.,lower,sound of a neighborhood,sound of birds in a forest
+The sound of a thunderstorm typically has a [MASK] pitch than the ambiance of an internet cafe.,higher,sound of a thunderstorm,ambiance of an internet cafe
+The hum of Rotterdam harbour typically has a [MASK] pitch than the industrial sounds from a virtual machine shop.,lower,hum of Rotterdam harbour,industrial sounds from a virtual machine shop
+The sound of rain while inside a car typically has a [MASK] pitch than the sound of an American bar.,higher,sound of rain while inside a car,sound of an American bar
+The sound of a storm at a river typically has a [MASK] pitch than the ambient sound at a Steak and Shake restaurant.,higher,storm at a river,ambient sound at a Steak and Shake restaurant
+The sound of a metal pipe being hit in a large concrete tunnel typically has a [MASK] pitch than the sound of a toilet being flushed.,higher,metal pipe being hit in a large concrete tunnel,toilet being flushed
+The sound of a far electric train has a [MASK] pitch than the sound of water flowing.,higher,sound of a far electric train,sound of water flowing
+The sound of footsteps in a library has a [MASK] pitch than the sound of a city soundscape.,lower,footsteps in a library,city soundscape
+The sound of a city dock typically has a [MASK] pitch than the sound of air hissing.,lower,city dock,air hissing
+The sound of water draining from a kitchen sink typically has a [MASK] pitch than the sounds of a harbor in Portugal.,lower,sound of water draining from a kitchen sink,sounds of a harbor in Portugal
+The sound of footsteps in an airport terminal typically has a [MASK] pitch than the sound of a mountain torrent.,higher,sound of footsteps in an airport terminal,mountain torrent
+The hum of a power station typically has a [MASK] pitch than the ambient sounds of a subway.,higher,hum of a power station,ambient sounds of a subway
+The hum of a street light typically has a [MASK] pitch than the creaking of a wooden door.,lower,hum of a street light,creaking of a wooden door
+The sound of a river typically has a [MASK] pitch than the sound of a window opening.,lower,sound of a river,window opening
+The sound of ocean waves typically has a [MASK] pitch than the sound of desert insects.,lower,ocean waves,desert insects
+The sound of a big splash typically has a [MASK] pitch than the sound of people chattering at an airport baggage claim.,lower,big splash,people chattering at an airport baggage claim
+The sound of walking on stone steps has a [MASK] pitch than the sound of walking on gravel.,higher,sound of walking on stone steps,sound of walking on gravel
+The sound of birds chirping typically has a [MASK] pitch than an urban soundscape.,higher,sound of birds chirping,urban soundscape
+The sound of a big room typically has a [MASK] pitch than the sound of an automatic hand wash.,lower,sound of a big room,sound of an automatic hand wash
+The sound of crickets on an October night typically has a [MASK] pitch than the sound of footsteps on a rocky path.,higher,sound of crickets on an October night,sound of footsteps on a rocky path
+The sound of a traffic light crossing alert typically has a [MASK] pitch than the creaking of a ship's hull underwater.,higher,traffic light crossing alert,creaking of a ship's hull underwater
+The sound of people chatting in a pub typically has a [MASK] pitch than the sound of automatic doors.,lower,people chatting in a pub,automatic doors
+Kitchen ambience typically has a [MASK] pitch than city noise ambience.,lower,kitchen ambience,city noise ambience
+The sound of a subway announcement typically has a [MASK] pitch than the sound of ocean waves.,higher,sound of a subway announcement,sound of ocean waves
+"The sound of mechanical machinery typically has a [MASK] pitch than the ambient sound of a beach in Gallipoli, Italy.",higher,sound of mechanical machinery,ambient sound of a beach in Gallipoli Italy
+The sound of steam has a [MASK] pitch than the sound of a sliding screen door.,higher,sound of steam,sliding screen door
+The sound of water running in a culvert typically has a [MASK] pitch than the ambient sounds of an estate.,lower,water running in a culvert,ambient sounds of an estate
+The sound of a vent noise typically has a [MASK] pitch than the sound of a train in the forest.,lower,sound of a vent noise,sound of a train in the forest
+The sound of underground noise typically has a [MASK] pitch than the metallic resonance of a bridge.,lower,sound of underground noise,metallic resonance of a bridge
+The sound of a river typically has a [MASK] pitch than the sound of ocean waves.,higher,sound of a river,ocean waves
+The sound of water moving by rocks has a [MASK] pitch than the background noise of an empty classroom.,higher,water moving by rocks,background noise of an empty classroom
+The sound of rain has a [MASK] pitch than the sound of a horse-drawn carriage passing on a street.,lower,sound of rain,horse-drawn carriage passing on a street
+The sound of a storm typically has a [MASK] pitch than the sound of wind in the trees.,higher,sound of a storm,sound of wind in the trees
+The sound of a kitchen cabinet typically has a [MASK] pitch than the sound of a marshland.,higher,sound of a kitchen cabinet,sound of a marshland
+The sound of footsteps on a wooden bridge over a stream typically has a [MASK] pitch than the sound of a parking garage.,higher,footsteps on a wooden bridge over a stream,parking garage
+The sound of a freezer in a convenience store typically has a [MASK] pitch than the howling wind.,lower,sound of a freezer in a convenience store,howling wind
+The sound of a crowd in a high school lounge typically has a [MASK] pitch than the sound of footsteps in a hospital hallway.,higher,crowd in a high school lounge,footsteps in a hospital hallway
+The sound of dripping water in a downspout typically has a [MASK] pitch than the sound of crickets in a public bath.,lower,sound of dripping water in a downspout,sound of crickets in a public bath
+The sound of water from a flushing toilet typically has a [MASK] pitch than the sound of insects in the morning in the Mekong river delta.,higher,sound of water from a flushing toilet,sound of insects in the morning in the Mekong river delta
+The sound of a reactor typically has a [MASK] pitch than the sound of footsteps on stairs.,lower,sound of a reactor,footsteps on stairs
+The sound of a general noise typically has a [MASK] pitch than the hum of bathroom lights.,higher,general noise,hum of bathroom lights
+The sound of a door squealing has a [MASK] pitch than the sound of someone walking through Autumn leaves.,higher,door squealing,walking through Autumn leaves
+The sound of a railway station platform has a [MASK] pitch than the sound of a garden.,higher,sound of a railway station platform,sound of a garden
+The sound of drilling in a city has a [MASK] pitch than the sound of digging through the earth.,higher,sound of drilling in a city,sound of digging through the earth
+The sound of crickets near a highway typically has a [MASK] pitch than the chirping of birds at a lakeshore.,lower,sound of crickets near a highway,chirping of birds at a lakeshore
+The sound of water dripping from a shower head has a [MASK] pitch than the sound of rainwater pouring down a storm drain.,higher,water dripping from a shower head,rainwater pouring down a storm drain
+The sound of a night environment typically has a [MASK] pitch than the whistling sound of a metal door.,lower,night environment,whistling sound of a metal door
+The sound of a hypermarket typically has a [MASK] pitch than industrial drones.,higher,sound of a hypermarket,industrial drones
+The sound of roadworks in a city typically has a [MASK] pitch than the sound of footsteps and voices in a cathedral.,higher,sound of roadworks in a city,sound of footsteps and voices in a cathedral
+The sound of neon lights in a TV studio typically has a [MASK] pitch than the sound of a shopping center door.,lower,neon lights in a TV studio,shopping center door
+The sound of an underground station typically has a [MASK] pitch than the sound of an Ocean City boardwalk.,higher,underground station,Ocean City boardwalk
+The sound of a quiet hallway typically has a [MASK] pitch than the sound of a crowd in front of a club.,lower,quiet hallway,crowd in front of a club
+The sound of a ventilator typically has a [MASK] pitch than the sound of a geyser.,higher,sound of a ventilator,sound of a geyser
+The sound of a boiling towel typically has a [MASK] pitch than a thunderous rockslide.,higher,boiling towel,thunderous rockslide
+The sound of a city wall ambiance typically has a [MASK] pitch than a fire burning.,lower,city wall ambiance,fire burning
+The sound of crackling fire typically has a [MASK] pitch than the sound of outdoor ambience.,lower,sound of crackling fire,sound of outdoor ambience
+The sound of water draining from a basin typically has a [MASK] pitch than the sound of traffic on a busy street in India.,lower,sound of water draining from a basin,sound of traffic on a busy street in India
+The sound of a barking dog has a [MASK] pitch than the sound of an electric fence power box.,higher,sound of a barking dog,sound of an electric fence power box
+The sound of a park in the city by night typically has a [MASK] pitch than the sound of a marina in the morning.,lower,sound of a park in the city by night,sound of a marina in the morning
+The sound of water flowing in tubes has a [MASK] pitch than the sound of a toilet flush.,higher,water flowing in tubes,toilet flush
+The sound of a library typically has a [MASK] pitch than the eerie sound of a cave.,higher,sound of a library,eerie sound of a cave
+The sound of cheering has a [MASK] pitch than the sound of a construction warning sign.,higher,sound of cheering,construction warning sign
+The sound of a small waterfall typically has a [MASK] pitch than the sound of someone walking on dead grass.,higher,small waterfall,walking on dead grass
+The sound of the ocean waves typically has a [MASK] pitch than the sound of walking in the countryside.,lower,ocean waves,walking in the countryside
+A car passing by typically has a [MASK] pitch than the sound of snow blowing.,higher,car passing by,sound of snow blowing
+The sound of a London lift typically has a [MASK] pitch than the ambiance of a Chinese restaurant in Shanghai.,lower,sound of a London lift,ambiance of a Chinese restaurant in Shanghai
+A dog's growl typically has a [MASK] pitch than the chirping of a flock of birds.,lower,dog's growl,flock of birds
+The sound of bubbling water typically has a [MASK] pitch than the creaking of a wooden floor.,higher,sound of bubbling water,creaking of a wooden floor
+The sound of water being poured typically has a [MASK] pitch than the sound of a freight train.,higher,sound of water being poured,sound of a freight train
+The sound of city traffic in Graz has a [MASK] pitch than the sound of waves on a beach in Fehmarn.,higher,sound of city traffic in Graz,sound of waves on a beach in Fehmarn
+The sound of a piano typically has a [MASK] pitch than a bass drum.,higher,sound of a piano,bass drum
+The sound of a metronome typically has a [MASK] pitch than a song with a mix of tragedy and joy.,lower,sound of a metronome,song with a mix of tragedy and joy
+The sound of a synthesizer typically has a [MASK] pitch than an electronic kick drum.,higher,sound of a synthesizer,electronic kick drum
+The sound of chimes from a grandfather clock typically has a [MASK] pitch than a hard ragga style beat.,higher,chimes from a grandfather clock,hard ragga style beat
+The sound of a slide whistle typically has a [MASK] pitch than an electroacoustic granular synthesis.,higher,sound of a slide whistle,electroacoustic granular synthesis
+The sound of a medieval guitar typically has a [MASK] pitch than a reversed guitar clip.,higher,sound of a medieval guitar,reversed guitar clip
+The sound of a closed hihat typically has a [MASK] pitch than a distorted metal guitar riff.,higher,sound of a closed hihat,distorted metal guitar riff
+The sound of a music box typically has a [MASK] pitch than a solo contrabass.,higher,sound of a music box,solo contrabass
+The sound of a glitchy drum loop typically has a [MASK] pitch than mysterious piano music.,lower,sound of a glitchy drum loop,mysterious piano music
+The sound of a distorted bass drone has a [MASK] pitch than the sound of a rusty mbira.,lower,sound of a distorted bass drone,rusty mbira
+The sound of a large clock tower bell typically has a [MASK] pitch than an electro melody.,lower,sound of a large clock tower bell,electro melody
+The sound of an acoustic piano typically has a [MASK] pitch than a slow bouncy RnB style beat.,higher,sound of an acoustic piano,slow bouncy RnB style beat
+A very low-pitched bass sound has a [MASK] pitch than a drum sound.,lower,very low-pitched bass sound,drum sound
+The sound of a distorted 808 typically has a [MASK] pitch than a hand clap.,lower,distorted 808,hand clap
+The sound of a dubstep bass loop typically has a [MASK] pitch than an electronic rhythmic loop.,lower,sound of a dubstep bass loop,electronic rhythmic loop
+The sound of a Doumbek drum typically has a [MASK] pitch than the sound of a darbuka loop.,lower,sound of a Doumbek drum,sound of a darbuka loop
+The sound of a binaural beat typically has a [MASK] pitch than the sound of a Daluo instrument.,higher,binaural beat,Daluo instrument
+The sound of small bells typically has a [MASK] pitch than the sound of an epic orchestra.,higher,sound of small bells,sound of an epic orchestra
+The sound of a synthesizer typically has a [MASK] pitch than a drum.,higher,sound of a synthesizer,drum
+The sound of deconstruction set typically has a [MASK] pitch than the sound of rim percussion.,higher,sound of deconstruction set,sound of rim percussion
+The sound of a MicroKorg synth typically has a [MASK] pitch than a raggatronic beat.,higher,MicroKorg synth,raggatronic beat
+The sound of a Fender Chroma Polaris synthesizer typically has a [MASK] pitch than high-end electronic percussion.,lower,Fender Chroma Polaris synthesizer,high-end electronic percussion
+The sound of a jing'erhu typically has a [MASK] pitch than a glass synth.,higher,sound of a jing'erhu,glass synth
+The sound of epic synth/orchestral music typically has a [MASK] pitch than a synthesised cartoon tune.,higher,epic synth/orchestral music,synthesised cartoon tune
+The sound of a Fender Chroma Polaris synthesizer typically has a [MASK] pitch than a short beep sound.,lower,Fender Chroma Polaris synthesizer,short beep sound
+The sound of a ride cymbal typically has a [MASK] pitch than the sound of an old vinyl noise.,higher,ride cymbal,old vinyl noise
+The sound of a slap bass typically has a [MASK] pitch than a deep synthetic gong.,higher,sound of a slap bass,deep synthetic gong
+The sound of a bugle typically has a [MASK] pitch than a drum beat.,higher,sound of a bugle,drum beat
+The sound of harsh electronic music typically has a [MASK] pitch than the rhythm of a paint can being rolled.,higher,sound of harsh electronic music,rhythm of a paint can being rolled
+The sound of classical music typically has a [MASK] pitch than the sound of demolishing a piano.,higher,sound of classical music,demolishing a piano
+The sound of a glass harp has a [MASK] pitch than the sound of a flute.,lower,sound of a glass harp,sound of a flute
+The sound of a bass guitar typically has a [MASK] pitch than a trombone.,lower,sound of a bass guitar,trombone
+"The sound of a hazelwood being slit typically has a [MASK] pitch than the most not nasty BD for Triple Kicks, Double Time Triplets, or Speed Metal Stuff.",lower,sound of a hazelwood being slit,most not nasty BD for Triple Kicks Double Time Triplets or Speed Metal Stuff
+The sound of a stalling platter needle noise typically has a [MASK] pitch than a higher-register gong strike.,lower,sound of a stalling platter needle noise,higher-register gong strike
+The sound of a synthesizer typically has a [MASK] pitch than a drum kit.,higher,sound of a synthesizer,drum kit
+The sound of a Microbrute clap typically has a [MASK] pitch than a quick lazer beam.,lower,Microbrute clap,quick lazer beam
+The sound of a guitar tuned like a tanpura typically has a [MASK] pitch than a cheesy dream transition sound effect.,lower,sound of a guitar tuned like a tanpura,cheesy dream transition sound effect
+The sound of mixed basses typically has a [MASK] pitch than chimes.,lower,sound of mixed basses,chimes
+The sound of a Jew's harp typically has a [MASK] pitch than electronic glitches.,higher,sound of a Jew's harp,electronic glitches
+The sound of vinyl noise typically has a [MASK] pitch than the sound of a sopranino recorder.,lower,sound of vinyl noise,sound of a sopranino recorder
+The sound of a kick drum typically has a [MASK] pitch than a tribal bass drum.,lower,sound of a kick drum,tribal bass drum
+The sound of dreamy jazz typically has a [MASK] pitch than the sound of Asian drums.,higher,sound of dreamy jazz,Asian drums
+An atonal drone has a [MASK] pitch than blips from a retro videogame.,lower,atonal drone,blips from a retro videogame
+The sound of drumsticks typically has a [MASK] pitch than the music of Titan Fall.,higher,sound of drumsticks,music of Titan Fall
+The sound of a drum typically has a [MASK] pitch than the high register skonk on a gourdophone.,lower,sound of a drum,high register skonk on a gourdophone
+The sound of a music box typically has a [MASK] pitch than a slowed-down music box.,higher,sound of a music box,slowed-down music box
+The sound of a mixloop typically has a [MASK] pitch than a thrashy guitar riff.,higher,sound of a mixloop,thrashy guitar riff
+The sound of a stinger typically has a [MASK] pitch than a glitching electronic sound.,higher,sound of a stinger,glitching electronic sound
+The sound of a piano typically has a [MASK] pitch than the sound of a harp.,higher,sound of a piano,sound of a harp
+The sound of a small wooden güiro typically has a [MASK] pitch than an atmospheric synth sound.,lower,sound of a small wooden güiro,atmospheric synth sound
+The sound of a toy typically has a [MASK] pitch than a lofi drum.,higher,sound of a toy,lofi drum
+The sound of a panning effect typically has a [MASK] pitch than a repetitive brassy sound.,lower,sound of a panning effect,repetitive brassy sound
+The sound of a cello typically has a [MASK] pitch than a bell.,lower,sound of a cello,bell
+The sound of a baby playing a xylophone typically has a [MASK] pitch than an industrial noise.,higher,sound of a baby playing a xylophone,industrial noise
+The sound of a Chinese Zither typically has a [MASK] pitch than a snare drum.,higher,sound of a Chinese Zither,snare drum
+The sound of a drum kit typically has a [MASK] pitch than an analog synth.,lower,sound of a drum kit,analog synth
+The sound of a PAD typically has a [MASK] pitch than a ragga drum pattern.,higher,sound of a PAD,ragga drum pattern
+The sound of a weird guitar typically has a [MASK] pitch than a Dholak hand drum's treble skin.,higher,sound of a weird guitar,Dholak hand drum's treble skin
+A metronome typically has a [MASK] pitch than a 48 second loop of folk-rock music.,lower,metronome,48 second loop of folk-rock music
+The sound of a Shekere has a [MASK] pitch than a sad sounding pad patch.,higher,sound of a Shekere,sad sounding pad patch
+The sound of a vintage Korg Mini Pops 45 drum machine typically has a [MASK] pitch than a digital flute effect.,lower,sound of a vintage Korg Mini Pops 45 drum machine,digital flute effect
+The sound of a white key chord sequence typically has a [MASK] pitch than an orchestral hit.,higher,white key chord sequence,orchestral hit
+The sound of a mandolin typically has a [MASK] pitch than backing vocals.,lower,sound of a mandolin,backing vocals
+The sound of a clarinet typically has a [MASK] pitch than chaotic music.,higher,sound of a clarinet,chaotic music
+An electronic dance melody loop typically has a [MASK] pitch than a 140 bpm drum loop.,higher,electronic dance melody loop,140 bpm drum loop
+The sound of a female voice typically has a [MASK] pitch than a muted cornet.,higher,sound of a female voice,muted cornet
+The sound of a pop guitar typically has a [MASK] pitch than a wooden frog percussion.,higher,sound of a pop guitar,wooden frog percussion
+The sound of a musical box typically has a [MASK] pitch than a heavy rock guitar riff.,higher,sound of a musical box,heavy rock guitar riff
+The sound of a house/trance tune typically has a [MASK] pitch than a creepy guitar drone.,higher,sound of a house/trance tune,creepy guitar drone
+The sound of a bass guitar typically has a [MASK] pitch than a scary cinematic sound.,lower,sound of a bass guitar,scary cinematic sound
+The sound of a double bass typically has a [MASK] pitch than a record scratch.,lower,sound of a double bass,record scratch
+The sound of a 100bpm loop typically has a [MASK] pitch than a Dubstep Wobble Bass.,higher,sound of a 100bpm loop,Dubstep Wobble Bass
+The sound of a framedrum typically has a [MASK] pitch than a forest drum sound.,higher,sound of a framedrum,forest drum sound
+An acid bass line typically has a [MASK] pitch than pop music.,lower,acid bass line,pop music
+The sound of a cello typically has a [MASK] pitch than a broken music render.,higher,sound of a cello,broken music render
+The sound of a piccolo typically has a [MASK] pitch than ambient music.,higher,sound of a piccolo,ambient music
+The sound of a string instrument typically has a [MASK] pitch than white noise.,higher,sound of a string instrument,white noise
+The sound of a trumpet typically has a [MASK] pitch than the sound of a kalimba.,higher,sound of a trumpet,sound of a kalimba
+The sound of an acoustic guitar typically has a [MASK] pitch than a piano and bass.,lower,sound of an acoustic guitar,piano and bass
+The sound of a vocal base loop has a [MASK] pitch than a single note from an analogue synthesizer.,higher,sound of a vocal base loop,single note from an analogue synthesizer
+The sound of a synth accordion typically has a [MASK] pitch than a processed sound effect.,lower,sound of a synth accordion,processed sound effect
+The sound of a Roland Jupiter 4 synthesizer typically has a [MASK] pitch than the tapping on a metal table.,higher,sound of a Roland Jupiter 4 synthesizer,tapping on a metal table
+The sound of a hip-hop drum loop typically has a [MASK] pitch than an electro bassline.,higher,hip-hop drum loop,electro bassline
+The sound of a woodpecker remix typically has a [MASK] pitch than a strange female vocal.,lower,sound of a woodpecker remix,strange female vocal
+The sound of traditional Indian music typically has a [MASK] pitch than a metal cover.,lower,sound of traditional Indian music,metal cover
+The sound of a distorted techno sequence typically has a [MASK] pitch than a vocoded vocal loop.,lower,distorted techno sequence,vocoded vocal loop
+The sound of strings typically has a [MASK] pitch than a deep bass tone.,higher,sound of strings,deep bass tone
+The sound of a Nepalese singing bowl typically has a [MASK] pitch than a boatswain's whistle.,lower,sound of a Nepalese singing bowl,boatswain's whistle
+The sound of drums typically has a [MASK] pitch than the sound of a guitar.,lower,sound of drums,sound of a guitar
+The sound of a cello typically has a [MASK] pitch than a keyboard pad.,lower,sound of a cello,keyboard pad
+The sound of a classical retro intro has a [MASK] pitch than a moombahton bass loop.,higher,sound of a classical retro intro,moombahton bass loop
+The sound of a laser pulse typically has a [MASK] pitch than a classic hip-hop drum loop.,higher,laser pulse,classic hip-hop drum loop
+"A droning guitar typically has a [MASK] pitch than an interpretation of the classic old-school dreamlike tremolo vibes effect commonly used for dream sequences, flashbacks, and general dramatic impact.",lower,droning guitar,interpretation of the classic old-school dreamlike tremolo vibes effect commonly used for dream sequences flashbacks and general dramatic impact
+The sound of a hi-hat typically has a [MASK] pitch than a sweeping filter sound effect.,higher,sound of a hi-hat,sweeping filter sound effect
+The sound of sadness music typically has a [MASK] pitch than the singing of elderly people.,lower,sound of sadness music,singing of elderly people
+The sound of a violin typically has a [MASK] pitch than a bass drum.,higher,sound of a violin,bass drum
+The sound of a pocket-clarinet typically has a [MASK] pitch than the raspy vocal texture from an elektron sfx60.,higher,sound of a pocket-clarinet,raspy vocal texture from an elektron sfx60
+The sound of a hurdy-gurdy typically has a [MASK] pitch than a pad sample.,higher,sound of a hurdy-gurdy,pad sample
+"The sound of a 13"" TAMA mid-tom drum typically has a [MASK] pitch than a glitch loop from a bent Casio CT460 keyboard.",lower,sound of a 13, 
+The sound of a guitar in a metal loop typically has a [MASK] pitch than the melodic music for a magical scene.,lower,sound of a guitar in a metal loop,melodic music for a magical scene
+The sound of a piano typically has a [MASK] pitch than a hip-hop kick drum.,higher,sound of a piano,hip-hop kick drum
+The sound of a flute typically has a [MASK] pitch than a drum loop.,higher,sound of a flute,drum loop
+The sound of 8-bit video game music typically has a [MASK] pitch than a hip-hop snare drum loop.,higher,8-bit video game music,hip-hop snare drum loop
+The sound of a Fender Chroma Polaris synthesizer typically has a [MASK] pitch than a Juno synthesizer.,higher,sound of a Fender Chroma Polaris synthesizer,Juno synthesizer
+The sound of processed noise typically has a [MASK] pitch than the talker dry made with the AniMoog anisotropic synth.,lower,processed noise,talker dry made with the AniMoog anisotropic synth
+The sound of a synthesizer typically has a [MASK] pitch than a hat loop.,higher,sound of a synthesizer,hat loop
+The sound of a childish voice singing has a [MASK] pitch than a chaotic mix of synthesizers.,higher,sound of a childish voice singing,chaotic mix of synthesizers
+The sound of a 12-inch diameter Zildjian EFX#1 Bell/Splash cymbal typically has a [MASK] pitch than a high-pitched tone from oscillation feedback.,lower,sound of a 12-inch diameter Zildjian EFX#1 Bell/Splash cymbal,high-pitched tone from oscillation feedback
+The sound of a DJ's sound effect typically has a [MASK] pitch than the Amen Break.,higher,sound of a DJ's sound effect,Amen Break
+The sound of bells typically has a [MASK] pitch than the drone sound.,higher,sound of bells,drone sound
+The sound of a drum typically has a [MASK] pitch than the sound of a xylophone.,lower,sound of a drum,sound of a xylophone
+The sound of a chiptone from a video game typically has a [MASK] pitch than the tone from a club sound.,higher,chiptone from a video game,tone from a club sound
+The sound of a monotron typically has a [MASK] pitch than a wooden blown sound.,higher,sound of a monotron,wooden blown sound
+The sound of a shaman frame drum typically has a [MASK] pitch than the notes in a J.S. Bach composition.,lower,sound of a shaman frame drum,notes in a JS Bach composition
+The sound of a waterphone typically has a [MASK] pitch than a folk whistle.,lower,sound of a waterphone,folk whistle
+The sound of a wineglass typically has a [MASK] pitch than a drum beat.,higher,sound of a wineglass,drum beat
+The sound of a saw-wave typically has a [MASK] pitch than a cymbal sizzle.,lower,sound of a saw-wave,cymbal sizzle
+The sound of a crash effect typically has a [MASK] pitch than traditional Turkish music.,lower,sound of a crash effect,traditional Turkish music
+The sound of a ride bell typically has a [MASK] pitch than a low C tone.,higher,ride bell,low C tone
+The sound of a soccer game typically has a [MASK] pitch than an electronic burbling percussion roll.,lower,sound of a soccer game,electronic burbling percussion roll
+The sound of a heavy metal loop has a [MASK] pitch than the sound of an egg shaker.,lower,heavy metal loop,egg shaker
+The sound of a trombone typically has a [MASK] pitch than an electronic high muffled stuttering rattling ringing sound.,lower,sound of a trombone,electronic high muffled stuttering rattling ringing sound
+The sound of a saw loop typically has a [MASK] pitch than an atmospheric swell.,higher,sound of a saw loop,atmospheric swell
+The sound of a horror soundtrack typically has a [MASK] pitch than a hard bassline.,higher,horror soundtrack,hard bassline
+The sound of a minimal dance drum loop typically has a [MASK] pitch than the sound of a detuned banjo.,lower,sound of a minimal dance drum loop,detuned banjo
+The sound of a thumb piano typically has a [MASK] pitch than a trance melody.,lower,sound of a thumb piano,trance melody
+An epic synth pad has a [MASK] pitch than rippling contrapuntal pianos.,lower,epic synth pad,rippling contrapuntal pianos
+The sound of a throaty digital didjeridoo pad typically has a [MASK] pitch than a snare drum played with brush sticks.,lower,sound of a throaty digital didjeridoo pad,snare drum played with brush sticks
+The sound of a piano typically has a [MASK] pitch than a synthesizer.,higher,sound of a piano,synthesizer
+The sound of a horror-themed synth typically has a [MASK] pitch than a Lo-Fi 8-bit glitch loop.,higher,horror-themed synth,Lo-Fi 8-bit glitch loop
+The sound of a circuit bent Roland DR-550 drum machine typically has a [MASK] pitch than a single snap with a ping-pong delay.,lower,sound of a circuit bent Roland DR-550 drum machine,single snap with a ping-pong delay
+An edited song trying to sound calm has a [MASK] pitch than a fight song with guitar and drum.,lower,edited song trying to sound calm,fight song with guitar and drum
+The sound of a gaming intro typically has a [MASK] pitch than a piece of looping electronic music.,higher,sound of a gaming intro,piece of looping electronic music
+The sound of a trombone typically has a [MASK] pitch than the sound of a ceramic tap.,higher,sound of a trombone,sound of a ceramic tap
+The sound of a trumpet typically has a [MASK] pitch than a reversed punk song.,higher,sound of a trumpet,reversed punk song
+The sound of a two-tone bleep typically has a [MASK] pitch than a clap in electronic music.,higher,two-tone bleep,clap in electronic music
+The sound of a human beatbox kick drum typically has a [MASK] pitch than a professional quality drum sample.,higher,sound of a human beatbox kick drum,professional quality drum sample
+The sound of slap tongueing on an alto sax typically has a [MASK] pitch than the sound of percussive scissors.,higher,slap tongueing on an alto sax,percussive scissors
+The sound of a downlifter typically has a [MASK] pitch than a synth keyboard sequence.,lower,sound of a downlifter,synth keyboard sequence
+The sound of a sampled kick typically has a [MASK] pitch than an emo type sound.,lower,sampled kick,emo type sound
+The sound of a piano typically has a [MASK] pitch than a music box.,lower,sound of a piano,music box
+The sound of a 808 monster kick bass typically has a [MASK] pitch than the vocals in an indie folk collection.,lower,sound of a 808 monster kick bass,vocals in an indie folk collection
+The sound of a bassline typically has a [MASK] pitch than a single bongo hit.,lower,sound of a bassline,single bongo hit
+The sound of granular synthesis typically has a [MASK] pitch than orchestral strings.,lower,sound of granular synthesis,orchestral strings
+An ear-warning broken loop in electro music typically has a [MASK] pitch than the plucking of a nylon guitar.,higher,ear-warning broken loop in electro music,plucking of a nylon guitar
+The melody of a trance track typically has a [MASK] pitch than the driving beat of a metal song.,higher,melody of a trance track,driving beat of a metal song
+The sound of a bell in a hiphop beat typically has a [MASK] pitch than a synthesized bassdrum.,higher,sound of a bell in a hiphop beat,synthesized bassdrum
+The sound of a bass loop typically has a [MASK] pitch than the sound of a saw cutting through a guitar.,lower,bass loop,saw cutting through a guitar
+The sound of a female vocal typically has a [MASK] pitch than a jaguar whistle.,lower,sound of a female vocal,jaguar whistle
+The sound of a resonating synthesizer typically has a [MASK] pitch than the sound of a drum machine.,higher,sound of a resonating synthesizer,sound of a drum machine
+The sound of a piano typically has a [MASK] pitch than the sound of an electro house beat.,higher,sound of a piano,electro house beat
+A dark ambient pad has a [MASK] pitch than a carnival whistle.,lower,dark ambient pad,carnival whistle
+The sound of a Jungle beat typically has a [MASK] pitch than church bells.,lower,sound of a Jungle beat,church bells
+The sound of a toy percussion kit typically has a [MASK] pitch than a synth air ambience.,higher,sound of a toy percussion kit,synth air ambience
+The sound of an Indian bamboo flute typically has a [MASK] pitch than a composition challenge intro.,higher,sound of an Indian bamboo flute,composition challenge intro
+The sound of a nylon guitar typically has a [MASK] pitch than a drum beat.,higher,sound of a nylon guitar,drum beat
+The sound of a chime bar has a [MASK] pitch than the sound of a jew's harp.,higher,sound of a chime bar,jew's harp
+The sound of a piano typically has a [MASK] pitch than a looped percussive sound.,higher,sound of a piano,looped percussive sound
+The sound of a guitar typically has a [MASK] pitch than the sound of a flute.,lower,sound of a guitar,sound of a flute
+The sound of a Fender Chroma Polaris synthesizer typically has a [MASK] pitch than a synthesizer processed sound.,higher,sound of a Fender Chroma Polaris synthesizer,synthesizer processed sound
+The sound of a ride cymbal and snare drum typically has a [MASK] pitch than heroic inspiring uplifting sport music.,lower,sound of a ride cymbal and snare drum,heroic inspiring uplifting sport music
+The sound of a gigantic machine throbbing underground typically has a [MASK] pitch than a classic 60s space lazer loop.,lower,sound of a gigantic machine throbbing underground,classic 60s space lazer loop
+The sound of a house organ typically has a [MASK] pitch than a drum beat.,higher,sound of a house organ,drum beat
+The sound of a record player typically has a [MASK] pitch than a lo-fi beat.,higher,sound of a record player,lo-fi beat
+The sound of a plucking string of a plastic acoustic guitar typically has a [MASK] pitch than a bell.,lower,plucking string of a plastic acoustic guitar,bell
+The sound of a Roland Jupiter 4 synthesizer typically has a [MASK] pitch than a kick drum.,higher,sound of a Roland Jupiter 4 synthesizer,kick drum
+The sound of a bass clarinet slapping typically has a [MASK] pitch than a single long note from a clarinet.,lower,sound of a bass clarinet slapping,single long note from a clarinet
+An electronic dark pulse typically has a [MASK] pitch than a video game music loop.,lower,electronic dark pulse,video game music loop
+The sound of a cinematic thriller background typically has a [MASK] pitch than a piano sweep.,lower,cinematic thriller background,piano sweep
+The sound of a tech loop typically has a [MASK] pitch than a glitch step.,higher,sound of a tech loop,glitch step
+The sound of record scratches typically has a [MASK] pitch than a percussion loop.,lower,sound of record scratches,percussion loop
+A melody typically has a [MASK] pitch than a grindy filtery sweep sound.,higher,melody,grindy filtery sweep sound
+The sound of a 9 ms delay effect with strong feedback typically has a [MASK] pitch than a distorted synth sound.,lower,9 ms delay effect with strong feedback,distorted synth sound
+The sound of a detuned oscillator saw typically has a [MASK] pitch than an oriental rhythmic string sound.,higher,sound of a detuned oscillator saw,oriental rhythmic string sound
+The sound of a tape delay effect typically has a [MASK] pitch than a flamenco song.,lower,sound of a tape delay effect,flamenco song
+The sound of a rhythmic effect in electro house music typically has a [MASK] pitch than the sound of a xylophone.,lower,sound of a rhythmic effect in electro house music,sound of a xylophone
+The sound of a synthesizer typically has a [MASK] pitch than a soldier song.,higher,sound of a synthesizer,soldier song
+The sound of a drum loop typically has a [MASK] pitch than a handmade analog synth.,lower,sound of a drum loop,handmade analog synth
+The sound of drums in a ska style typically has a [MASK] pitch than 8-bit drum loops.,higher,drums in a ska style,8-bit drum loops
+The sound of a wind harp typically has a [MASK] pitch than a synth glockenspiel.,lower,sound of a wind harp,synth glockenspiel
+An 8-bit melody typically has a [MASK] pitch than the strumming of an Intonarumori.,higher,8-bit melody,strumming of an Intonarumori
+The sound of a piano typically has a [MASK] pitch than a dubstep track.,higher,sound of a piano,dubstep track
+The sound of a viola typically has a [MASK] pitch than hand percussion.,higher,sound of a viola,hand percussion
+The sound of sheet music typically has a [MASK] pitch than the sound of a digital synthesizer.,lower,sound of sheet music,digital synthesizer
+The sound of a music box typically has a [MASK] pitch than a sampled piano.,higher,sound of a music box,sampled piano
+The sound of a flute typically has a [MASK] pitch than a hi-hat drum.,higher,sound of a flute,hi-hat drum
+The sound of a thick and tight kick drum in EDM typically has a [MASK] pitch than the music of Batucada.,lower,sound of a thick and tight kick drum in EDM,music of Batucada
+The sound of a lead in a house track typically has a [MASK] pitch than an intro piece.,higher,sound of a lead in a house track,an intro piece
+"The sound of a dark ambient, rhythmic part typically has a [MASK] pitch than an upright piano.",lower,dark ambient rhythmic part,upright piano
+"The sound of synthesised bleeps and beeps typically has a [MASK] pitch than a low, bassy deactivation sound.",higher,sound of synthesised bleeps and beeps,low bassy deactivation sound
+The sound of a short musical intro has a [MASK] pitch than a magic mallet.,higher,short musical intro,magic mallet
+The sound of layered bright loops typically has a [MASK] pitch than the sound of granular synthesis.,higher,sound of layered bright loops,sound of granular synthesis
+The sound of a guiro typically has a [MASK] pitch than a tech house beat.,higher,sound of a guiro,tech house beat
+The sound of a blip typically has a [MASK] pitch than the sound of a koshi toy.,higher,sound of a blip,koshi toy
+The sound of a synthesizer typically has a [MASK] pitch than a water bowl.,higher,sound of a synthesizer,water bowl
+The sound of a synthesizer typically has a [MASK] pitch than a classical music piece.,higher,sound of a synthesizer,classical music piece
+The sound of a piano in a hiphop loop typically has a [MASK] pitch than the sound of a synth created with square and triangle waveform.,higher,sound of a piano in a hiphop loop,sound of a synth created with square and triangle waveform
+The sound of a shaker typically has a [MASK] pitch than an extreme frequency modulation effect.,lower,sound of a shaker,extreme frequency modulation effect
+The sound of a drum machine typically has a [MASK] pitch than a raw single oscillator tone from a Yamaha TX81z synthesizer.,lower,sound of a drum machine,raw single oscillator tone from a Yamaha TX81z synthesizer
+The sound of a balalaika-esque guitar typically has a [MASK] pitch than a digital VOX Pad.,higher,sound of a balalaika-esque guitar,digital VOX Pad
+The sound of a symphonic concert bass drum typically has a [MASK] pitch than an Alesis Micron synth.,lower,sound of a symphonic concert bass drum,Alesis Micron synth
+The sound of a simple chord typically has a [MASK] pitch than a vintage organ.,lower,sound of a simple chord,vintage organ
+The sound of a fairytale atmosphere typically has a [MASK] pitch than the beat of a clay udu drum.,higher,sound of a fairytale atmosphere,beat of a clay udu drum
+The sound of a harsh bleep typically has a [MASK] pitch than a boing sound.,higher,sound of a harsh bleep,boing sound
+An 8-bit beat typically has a [MASK] pitch than a dubstep sound effect.,higher,8-bit beat,dubstep sound effect
+The sound of Kudüm typically has a [MASK] pitch than high-pitched sparkles.,lower,sound of Kudüm,high-pitched sparkles
+The sound of a carillon typically has a [MASK] pitch than a drum loop.,higher,sound of a carillon,drum loop
+The sound of a guitar-like/sitar-like synth typically has a [MASK] pitch than the sound of clicking and gurgling.,higher,sound of a guitar-like/sitar-like synth,sound of clicking and gurgling
+The sound of a group of drummers typically has a [MASK] pitch than a melodramatic synth.,lower,sound of a group of drummers,melodramatic synth
+The sound of a movie logo typically has a [MASK] pitch than a drum and bass loop.,higher,sound of a movie logo,drum and bass loop
+The sound of a police game theme song typically has a [MASK] pitch than the sound of an electronic hihat.,higher,police game theme song,electronic hihat
+The sound of a choir typically has a [MASK] pitch than binaural beats.,higher,sound of a choir,binaural beats
+The sound of a 8-bit game effect typically has a [MASK] pitch than a synth sound.,higher,8-bit game effect,synth sound
+The sound of a piano typically has a [MASK] pitch than the sound of an accordion.,higher,sound of a piano,sound of an accordion
+The sound of a loop typically has a [MASK] pitch than the sound of a pad.,higher,sound of a loop,sound of a pad
+The sound of a piano typically has a [MASK] pitch than the sound of FM synthesis.,higher,sound of a piano,sound of FM synthesis
+The sound of a synth hit typically has a [MASK] pitch than an EDM drum loop.,higher,sound of a synth hit,EDM drum loop
+The sound of a distorted electric guitar has a [MASK] pitch than the sound of a Casiotone 405 synthesizer.,lower,sound of a distorted electric guitar,sound of a Casiotone 405 synthesizer
+The sound of a violin typically has a [MASK] pitch than a synthesized wobble effect.,higher,sound of a violin,synthesized wobble effect
+An eerie swell typically has a [MASK] pitch than a beat-box kick.,higher,eerie swell,beat-box kick
+The sound of a dark bass typically has a [MASK] pitch than an underground breakbeat.,lower,sound of a dark bass,underground breakbeat
+The sound of a vuvuzela typically has a [MASK] pitch than a Hindu style lost ding.,lower,sound of a vuvuzela,Hindu style lost ding
+The sound of drums in a dance track typically has a [MASK] pitch than the sound of an 808 loop.,higher,sound of drums in a dance track,sound of an 808 loop
+The sound of a bent toy typically has a [MASK] pitch than a drumstick.,higher,sound of a bent toy,drumstick
+The sound of the Centralword typically has a [MASK] pitch than the sound of a nylon string guitar fret noises.,higher,sound of the Centralword,nylon string guitar fret noises
+The sound of a strange digital tearing noise typically has a [MASK] pitch than a wispy whistling loop.,lower,sound of a strange digital tearing noise,wispy whistling loop
+The sound of a drum skin stretching has a [MASK] pitch than a broken merry go round loop.,higher,sound of a drum skin stretching,broken merry go round loop
+The sound of a synthesizer typically has a [MASK] pitch than the scratching sounds on an Erhu.,higher,sound of a synthesizer,scratching sounds on an Erhu
+An industrial ambient loop has a [MASK] pitch than a woosh transition sound.,lower,industrial ambient loop,woosh transition sound
+The sound of piano chords typically has a [MASK] pitch than the tuning of an orchestra.,higher,sound of piano chords,tuning of an orchestra
+The sound of Carribean style singing typically has a [MASK] pitch than the sound of a kick drum.,higher,Carribean style singing,kick drum
+The sound of a metal spawn typically has a [MASK] pitch than a sword clash.,higher,sound of a metal spawn,sword clash
+The sound of a pitch-shifted organ typically has a [MASK] pitch than a thin cymbal.,lower,sound of a pitch-shifted organ,thin cymbal
+The sound of a distorted synthetic guitar chord typically has a [MASK] pitch than the sound of a stereo tape flange remix.,higher,sound of a distorted synthetic guitar chord,sound of a stereo tape flange remix
+The sound of a cinematic transition typically has a [MASK] pitch than a heavenly pad.,lower,cinematic transition,heavenly pad
+"The sound of a thin ""Jupiter 8"" pad typically has a [MASK] pitch than an old-fashioned auto piano.",higher,sound of a thin 'Jupiter 8' pad,old-fashioned auto piano
+The sound of elegant glitchy introduction has a [MASK] pitch than the sound of horror music.,higher,sound of elegant glitchy introduction,sound of horror music
+The sound of a synthesizer typically has a [MASK] pitch than the sound of hitting a metallic string.,higher,sound of a synthesizer,hitting a metallic string
+The sound of a space harp has a [MASK] pitch than a fanfare made with trumpets.,lower,space harp,fanfare made with trumpets
+A sine wave typically has a [MASK] pitch than a deep house loop.,lower,sine wave,deep house loop
+The sound of a cowbell typically has a [MASK] pitch than an electro dance beat.,higher,sound of a cowbell,electro dance beat
+The sound of a trombone typically has a [MASK] pitch than a death metal guitar.,lower,sound of a trombone,death metal guitar
+The sound of a synthesised hat has a [MASK] pitch than a single note from an analog synthesizer.,lower,sound of a synthesised hat,single note from an analog synthesizer
+The sound of digital shakers typically has a [MASK] pitch than a simple music track representing an achievement.,higher,sound of digital shakers,simple music track representing an achievement
+The sound of a symphony orchestra typically has a [MASK] pitch than a synthesized bubbling chime.,lower,symphony orchestra,synthesized bubbling chime
+The sound of a hi-end electronic effect typically has a [MASK] pitch than a glockenspiel ringtone.,higher,sound of a hi-end electronic effect,glockenspiel ringtone
+The sound of a distorted organ typically has a [MASK] pitch than a soft beat.,higher,sound of a distorted organ,soft beat
+The sound of a guitar in D5 typically has a [MASK] pitch than a square lead in C.,higher,sound of a guitar in D5,square lead in C
+The sound of dark ambient electronic music has a [MASK] pitch than chill music.,lower,sound of dark ambient electronic music,chill music
+The sound of a piano in a silent movie soundtrack typically has a [MASK] pitch than an orchestral sound created with a Nord Modular synthesizer.,lower,sound of a piano in a silent movie soundtrack,orchestral sound created with a Nord Modular synthesizer
+The sound of a piano hammer typically has a [MASK] pitch than a quena.,lower,sound of a piano hammer,quena
+A dog's growl typically has a [MASK] pitch than the chirping of a flock of birds.,lower,dog's growl,flock of birds
+The sound of the Arcano R3 Chiptune Synthesizer has a [MASK] pitch than the low bassy thing.,higher,sound of the Arcano R3 Chiptune Synthesizer,low bassy thing
+An orchestral hit has a [MASK] pitch than a DnB drum loop.,higher,orchestral hit,DnB drum loop
+The sound of a deep bassy noise typically has a [MASK] pitch than a tight drum loop.,lower,sound of a deep bassy noise,tight drum loop
+The sound of a game music loop typically has a [MASK] pitch than a human voice singing the G2 tone.,higher,sound of a game music loop,human voice singing the G2 tone
+The sound of the sea in ambient music typically has a [MASK] pitch than the note G5 from a Roland Jupiter 4 synthesizer.,lower,sound of the sea in ambient music,note G5 from a Roland Jupiter 4 synthesizer
+The sound of a piano playing the C octave note has a [MASK] pitch than the sound of a pressure cooker whistle.,lower,sound of a piano playing the C octave note,sound of a pressure cooker whistle
+The sound of an oboe has a [MASK] pitch than a low-end rumble.,higher,sound of an oboe,low-end rumble
+The sound of a synth and drum typically has a [MASK] pitch than a soundscape created with NI Absynth 5.,higher,sound of a synth and drum,soundscape created with NI Absynth 5
+The sound of a piano in a boogie genre typically has a [MASK] pitch than the sound of chimes in a horror drone effect.,higher,sound of a piano in a boogie genre,sound of chimes in a horror drone effect
+The sound of a solo acoustic guitar typically has a [MASK] pitch than a synthesizer in the EBM genre.,lower,sound of a solo acoustic guitar,synthesizer in the EBM genre
+The sound of strange voices formed from smoke typically has a [MASK] pitch than the AFM (Advanced FM) operators of Yamaha SY99 synthesizer.,lower,sound of strange voices formed from smoke,AFM (Advanced FM) operators of Yamaha SY99 synthesizer
+The sound of a processed clarinet typically has a [MASK] pitch than a bamboo didgeridoo.,higher,processed clarinet,bamboo didgeridoo
+The sound of a synthesizer typically has a [MASK] pitch than a welcome screen sound effect.,higher,sound of a synthesizer,welcome screen sound effect
+The sound of a spectral generator typically has a [MASK] pitch than a drum sample from a Yamaha PSR-36 digital synthetizer.,higher,sound of a spectral generator,drum sample from a Yamaha PSR-36 digital synthetizer
+The sound of a Macedonian Kaval typically has a [MASK] pitch than an electronic quick downer.,higher,sound of a Macedonian Kaval,electronic quick downer
+The sound of a bass trumpet typically has a [MASK] pitch than a drum loop.,lower,sound of a bass trumpet,drum loop
+The sound of a Tumbadora has a [MASK] pitch than a beatbox drum loop.,lower,sound of a Tumbadora,beatbox drum loop
+The sound of a reggae typically has a [MASK] pitch than an 80s mix.,lower,sound of a reggae,80s mix
+The sound of granular synthesis typically has a [MASK] pitch than a shake effect on a trumpet.,lower,sound of granular synthesis,shake effect on a trumpet
+The sound of a distorted kick typically has a [MASK] pitch than a power chord played on the A-string of an electric guitar.,lower,sound of a distorted kick,power chord played on the A-string of an electric guitar
+The sound of electropunk typically has a [MASK] pitch than drum and bass.,higher,sound of electropunk,drum and bass
+The sound of a synthesizer typically has a [MASK] pitch than a sound effect riser.,higher,sound of a synthesizer,sound effect riser
+The sound of a piano typically has a [MASK] pitch than a distorted kick drum.,higher,sound of a piano,distorted kick drum
+The sound of a leaf being played as a musical instrument typically has a [MASK] pitch than a lullaby.,lower,sound of a leaf being played as a musical instrument,lullaby
+The sound of a cymbal crash typically has a [MASK] pitch than the sound of an electronic drum.,higher,sound of a cymbal crash,sound of an electronic drum
+The sound of a tribal beat typically has a [MASK] pitch than a snare drum echoing in a cave.,lower,tribal beat,snare drum echoing in a cave
+The sound of a vocal loop typically has a [MASK] pitch than an orchestral drum.,higher,sound of a vocal loop,orchestral drum
+The sound of a solo trumpet typically has a [MASK] pitch than a heavy kick.,higher,sound of a solo trumpet,heavy kick
+The sound of a cello typically has a [MASK] pitch than a pitched vocal.,lower,sound of a cello,pitched vocal
+The sound of pitched-down distorted metal reverberation typically has a [MASK] pitch than a time-stretched saw wave.,lower,pitched-down distorted metal reverberation,time-stretched saw wave
+The sound of house groove percussion typically has a [MASK] pitch than a funky guitar riff.,lower,sound of house groove percussion,funky guitar riff
+The sound of harsh gabber kicks has a [MASK] pitch than an experimental electronic loop.,lower,sound of harsh gabber kicks,experimental electronic loop
+The sound of a large hand drum typically has a [MASK] pitch than a polyphonic choir.,lower,sound of a large hand drum,polyphonic choir
+The sound of a guitar typically has a [MASK] pitch than the sound of a drum machine.,higher,sound of a guitar,sound of a drum machine
+The sound of a Fender Stratocaster's open A-string typically has a [MASK] pitch than an eerie sci-fi ambiance.,higher,sound of a Fender Stratocaster's open A-string,eerie sci-fi ambiance
+The sound of a distorted chord typically has a [MASK] pitch than the sound of a Kokiriko.,higher,sound of a distorted chord,sound of a Kokiriko
+The sound of a drum loop typically has a [MASK] pitch than a silly vocal tune.,lower,sound of a drum loop,silly vocal tune
+An ethnic melody typically has a [MASK] pitch than a hardcore kick.,higher,ethnic melody,hardcore kick
+The sound of a Hip-hop funk style beat typically has a [MASK] pitch than game music.,higher,Hip-hop funk style beat,game music
+The sound of a cymbal has a [MASK] pitch than the sound of guitar strings.,higher,sound of a cymbal,sound of guitar strings
+The sound of a music box typically has a [MASK] pitch than a love sweep sound effect.,higher,sound of a music box,love sweep sound effect
+The sound of a distorted vocal typically has a [MASK] pitch than a beatbox explosion.,higher,sound of a distorted vocal,beatbox explosion
+The sound of a vintage electric piano typically has a [MASK] pitch than a cross-modulated electronic noise.,lower,vintage electric piano,cross-modulated electronic noise
+The sound of a Fender Chroma Polaris synthesizer typically has a [MASK] pitch than a happy whistle.,lower,sound of a Fender Chroma Polaris synthesizer,happy whistle
+The sound of a music box typically has a [MASK] pitch than an analog synthesizer.,higher,sound of a music box,analog synthesizer
+The sound of a sad piano typically has a [MASK] pitch than a futuristic synth.,lower,sound of a sad piano,futuristic synth
+The sound of a big booming fill typically has a [MASK] pitch than a drum and bass.,lower,sound of a big booming fill,drum and bass
+The sound of a tenor trombone typically has a [MASK] pitch than a dark synth pad.,higher,sound of a tenor trombone,dark synth pad
+The sound of bells typically has a [MASK] pitch than the sound of ritual instruments.,higher,sound of bells,sound of ritual instruments
+The sound of a drum kit typically has a [MASK] pitch than a battle march.,higher,sound of a drum kit,battle march
+The sound of a game over screen typically has a [MASK] pitch than a wet bassline.,higher,sound of a game over screen,wet bassline
+The music for a fight scene typically has a [MASK] pitch than an experimental electronic track.,higher,music for a fight scene,experimental electronic track
+The sound of a processed drill typically has a [MASK] pitch than an old school drum beat.,higher,sound of a processed drill,old school drum beat
+The sound of a synthesizer typically has a [MASK] pitch than a bagpipe.,lower,sound of a synthesizer,bagpipe
+The sound of a game loop typically has a [MASK] pitch than an action music loop.,lower,sound of a game loop,action music loop
+An acidic bleep tone typically has a [MASK] pitch than an organ style rise effect.,lower,acidic bleep tone,organ style rise effect
+The sound of a carousel typically has a [MASK] pitch than a shaker.,higher,sound of a carousel,shaker
+The sound of a Malaysian frame drum typically has a [MASK] pitch than the noise at the end of a 45 record.,higher,sound of a Malaysian frame drum,noise at the end of a 45 record
+The sound of a drum loop typically has a [MASK] pitch than a suspense loop.,higher,sound of a drum loop,suspense loop
+The sound of a glass hi-hat typically has a [MASK] pitch than the humming of a song.,higher,glass hi-hat,humming of a song
+An arpeggiated synth bass has a [MASK] pitch than an electronic bass loop.,higher,arpeggiated synth bass,electronic bass loop
+The sound of a singing bowl typically has a [MASK] pitch than a drum made from a bowl.,higher,singing bowl,drum made from a bowl
+The sound of vocal percussion typically has a [MASK] pitch than the sound of a cardboard box hi-hat.,higher,sound of vocal percussion,cardboard box hi-hat
+The sound of a digital synth typically has a [MASK] pitch than a safari music loop.,higher,sound of a digital synth,safari music loop
+The sound of a clarinet typically has a [MASK] pitch than a violin.,lower,sound of a clarinet,violin
+The sound of electronic modular rhythm typically has a [MASK] pitch than a 90bpm F Dorian loop.,higher,sound of electronic modular rhythm,90bpm F Dorian loop
+The sound of popping lips typically has a [MASK] pitch than the playing of piano keys.,lower,sound of popping lips,playing of piano keys
+An orchestral loop with an oriental touch typically has a [MASK] pitch than a cinematic intro with a dramatic increase.,higher,orchestral loop with an oriental touch,cinematic intro with a dramatic increase
+A sweeping beep typically has a [MASK] pitch than a flamenco clap.,higher,sweeping beep,flamenco clap
+The sound of a simple analog lead typically has a [MASK] pitch than a distorted fagot.,higher,sound of a simple analog lead,distorted fagot
+The sound of a house beat typically has a [MASK] pitch than death industrial noise.,higher,sound of a house beat,death industrial noise
+The sound of a Rebana typically has a [MASK] pitch than a spacey guitar.,lower,sound of a Rebana,spacey guitar
+The sound of a cinematic texture typically has a [MASK] pitch than a synth vsti.,lower,sound of a cinematic texture,synth vsti
+"The sound of electronic, layered low warbling tones typically has a [MASK] pitch than hip hop drums.",lower,sound of electronic layered low warbling tones,hip hop drums
+The sound of a harmonica typically has a [MASK] pitch than an orchestral opening.,lower,sound of a harmonica,orchestral opening
+The sound of a rubber band typically has a [MASK] pitch than a small bamboo maraca.,higher,sound of a rubber band,small bamboo maraca
+The sound of lifting a needle on a vinyl record typically has a [MASK] pitch than the theme music of The Pact.,lower,sound of lifting a needle on a vinyl record,theme music of The Pact
+The sound of a rising bass drone from a movie typically has a [MASK] pitch than the resonance of a wine glass.,lower,rising bass drone from a movie,resonance of a wine glass
+The sound of a wooden tap on a glass bowl typically has a [MASK] pitch than the sound of singing glasses.,lower,wooden tap on a glass bowl,singing glasses
+The sound of a Christmas carol typically has a [MASK] pitch than a drum loop.,higher,sound of a Christmas carol,drum loop
+The sound of a brass/horn has a [MASK] pitch than a kitchen hit.,higher,sound of a brass/horn,kitchen hit
+An electronic soundscape has a [MASK] pitch than a vocal drop from a choir.,lower,electronic soundscape,vocal drop from a choir
+The sound of banging on a garbage can typically has a [MASK] pitch than the beat created from a printer.,lower,sound of banging on a garbage can,beat created from a printer
+The sound of a bongo typically has a [MASK] pitch than a processed snare drum.,lower,sound of a bongo,processed snare drum
+The sound of droplets typically has a [MASK] pitch than a simple C on a Minimoog synthesizer.,lower,sound of droplets,simple C on a Minimoog synthesizer
+The sound of a synthesized clap typically has a [MASK] pitch than a vocally processed sound.,higher,sound of a synthesized clap,vocally processed sound
+The sound of a whirling drum has a [MASK] pitch than an open hihat cymbal.,lower,sound of a whirling drum,open hihat cymbal
+The sound of a synthesised sci-fi music typically has a [MASK] pitch than the sound of a drumset.,higher,sound of a synthesised sci-fi music,sound of a drumset
+The sound of a guitar in mid scream typically has a [MASK] pitch than the sound of a cymbal crash with a squeal behind it.,higher,sound of a guitar in mid scream,sound of a cymbal crash with a squeal behind it
+The sound of a transverse flute has a [MASK] pitch than the sound of an acoustic/electric guitar.,higher,sound of a transverse flute,sound of an acoustic/electric guitar
+The sound of a staccato chord typically has a [MASK] pitch than 8-bit video game music.,higher,staccato chord,8-bit video game music
+A drum loop in electronic dance music typically has a [MASK] pitch than a jazz-hop track.,lower,drum loop in electronic dance music,jazz-hop track
+The sound of a toy keyboard typically has a [MASK] pitch than a jaw harp.,higher,sound of a toy keyboard,jaw harp
+The sound of a staccato chord typically has a [MASK] pitch than a heavy snare drum hit.,higher,staccato chord,heavy snare drum hit
+The sound of a mystery soundtrack typically has a [MASK] pitch than a falling synth buzz.,higher,sound of a mystery soundtrack,falling synth buzz
+An algorithmic generated soundscape typically has a [MASK] pitch than a single note sampled from an analog synthesizer.,higher,algorithmic generated soundscape,single note sampled from an analog synthesizer
+The sound of vinyl record crackle has a [MASK] pitch than the sound of church bells.,lower,sound of vinyl record crackle,sound of church bells
+The sound of a bass-boosted iPhone ringtone typically has a [MASK] pitch than the sound of a baritone saxophone.,lower,sound of a bass-boosted iPhone ringtone,sound of a baritone saxophone
+The sound of shakers and snares in a techno track typically has a [MASK] pitch than an experimental sound effect.,higher,sound of shakers and snares in a techno track,experimental sound effect
+The sound of a metronome has a [MASK] pitch than a granular synth piano.,lower,sound of a metronome,granular synth piano
+The sound of a bass flageolet typically has a [MASK] pitch than the sound of a synthesizer.,lower,sound of a bass flageolet,sound of a synthesizer
+The sound of vinyl record noise typically has a [MASK] pitch than a Dixieland song.,lower,sound of vinyl record noise,Dixieland song
+The sound of a snare drum typically has a [MASK] pitch than a cosmic electronic pulse.,higher,sound of a snare drum,cosmic electronic pulse
+The sound of a 125bpm dance music typically has a [MASK] pitch than a 110bpm techno music.,higher,125bpm dance music,110bpm techno music
+The sound of a distorted saw typically has a [MASK] pitch than a 12 string acoustic guitar.,lower,sound of a distorted saw,12 string acoustic guitar
+The sound of a vocal attack typically has a [MASK] pitch than the sound of the Soma Ether.,higher,sound of a vocal attack,sound of the Soma Ether
+The sound of a violoncelo typically has a [MASK] pitch than an electronic drum loop.,higher,sound of a violoncelo,electronic drum loop
+The sound of a jaw harp typically has a [MASK] pitch than a tambourine.,higher,sound of a jaw harp,tambourine
+The sound of a metal drum typically has a [MASK] pitch than the sound of a rock guitar being checked.,lower,sound of a metal drum,sound of a rock guitar being checked
+The sound of guitar noodling typically has a [MASK] pitch than a metronome sound.,higher,sound of guitar noodling,metronome sound
+The sound of a classical guitar typically has a [MASK] pitch than a game music loop.,higher,sound of a classical guitar,game music loop
+The sound of a doumbek drum typically has a [MASK] pitch than the sound of a modular synth.,lower,sound of a doumbek drum,sound of a modular synth
+The sound of a Fender Chroma Polaris synthesizer typically has a [MASK] pitch than a crackling sound.,higher,Fender Chroma Polaris synthesizer,crackling sound
+The sound of a glass hit with a metal spoon typically has a [MASK] pitch than a synthesized sine wave.,higher,sound of a glass hit with a metal spoon,synthesized sine wave
+The sound of a viking battle horn typically has a [MASK] pitch than the chimera of a harp and a clock.,lower,sound of a viking battle horn,chimera of a harp and a clock
+The sound of a crashing piano chord has a [MASK] pitch than a cinema techno sound effect.,higher,sound of a crashing piano chord,cinema techno sound effect
+The sound of a choir typically has a [MASK] pitch than a palm muted power chord on an electric guitar.,higher,sound of a choir,palm muted power chord on an electric guitar
+The sound of a violin typically has a [MASK] pitch than a bass guitar.,higher,sound of a violin,bass guitar
+The sound of a triangle typically has a [MASK] pitch than a flashcore kick.,higher,sound of a triangle,flashcore kick
+The sound of a detuned saw patch typically has a [MASK] pitch than the classical kemenche.,lower,sound of a detuned saw patch,classical kemenche
+The sound of a music festival typically has a [MASK] pitch than a big cinematic synthesised string or orchestral sound.,lower,music festival,big cinematic synthesised string or orchestral sound
+The sound of a Tibetan Buddhist damaru drum typically has a [MASK] pitch than the orchestral music.,lower,sound of a Tibetan Buddhist damaru drum,orchestral music
+The sound of a toy horn typically has a [MASK] pitch than a marimba.,lower,sound of a toy horn,marimba
+A dog's growl typically has a [MASK] pitch than the chirping of a flock of birds.,lower,dog's growl,flock of birds
+The sound of a Juno-106 synthesizer typically has a [MASK] pitch than futuristic sound effects.,higher,sound of a Juno-106 synthesizer,futuristic sound effects
+The sound of a melodica typically has a [MASK] pitch than 808 loops.,higher,sound of a melodica,808 loops
+The sound of a closed Hi-Hat typically has a [MASK] pitch than the sound of a piano note.,lower,closed Hi-Hat,piano note
+The sound of a club techno loop has a [MASK] pitch than a crystalline synthesis noise.,lower,club techno loop,crystalline synthesis noise
+The sound of a suspense drone typically has a [MASK] pitch than a hiphop string loop.,lower,suspense drone,hiphop string loop
+The sound of a pencil dropping in a grand piano typically has a [MASK] pitch than a drum pattern.,higher,sound of a pencil dropping in a grand piano,drum pattern
+The sound of a bent toy phone has a [MASK] pitch than a woofer instrumental.,higher,sound of a bent toy phone,woofer instrumental
+The sound of a glitch typically has a [MASK] pitch than the sound of a drum loop.,lower,sound of a glitch,sound of a drum loop
+The sound of a hip-hop sound effect typically has a [MASK] pitch than a drum set.,higher,sound of a hip-hop sound effect,drum set
+The sound of a breakbeat typically has a [MASK] pitch than an amen.,higher,sound of a breakbeat,amen
+An electric bass guitar slide typically has a [MASK] pitch than a hardstyle kick.,higher,electric bass guitar slide,hardstyle kick
+The sound of a riser typically has a [MASK] pitch than an electric piano.,higher,sound of a riser,electric piano
+The sound of a spooky ethnic stringed instrument typically has a [MASK] pitch than an electronic synth.,lower,sound of a spooky ethnic stringed instrument,electronic synth
+The sound of a glass-like synth effect typically has a [MASK] pitch than metallic bending sounds.,higher,glass-like synth effect,metallic bending sounds
+The sound of a metronome has a [MASK] pitch than a soft hit on a cymbol.,higher,sound of a metronome,soft hit on a cymbol
+The sound of a toy piano typically has a [MASK] pitch than a multi-layered rhythm loop.,higher,sound of a toy piano,multi-layered rhythm loop
+The sound of a DJ's remix has a [MASK] pitch than the sound of a child playing chimes.,lower,sound of a DJ's remix,sound of a child playing chimes
+The sound of a Minibrute synth typically has a [MASK] pitch than the sound of various synths used in a dance club.,lower,sound of a Minibrute synth,sound of various synths used in a dance club
+The sound of a piano typically has a [MASK] pitch than a hip hop lead line.,higher,sound of a piano,hip hop lead line
+The sound of a dark sci-fi pad typically has a [MASK] pitch than a reggae bass.,higher,sound of a dark sci-fi pad,reggae bass
+The sound of a beatboxing rhythm typically has a [MASK] pitch than a vintage action gaming loop.,lower,sound of a beatboxing rhythm,vintage action gaming loop
+An experimental digital sound typically has a [MASK] pitch than melodic chords.,lower,experimental digital sound,melodic chords
+An atmospheric and cinematic string or orchestral sample typically has a [MASK] pitch than a 30 seconds drum and percussion loop.,higher,atmospheric and cinematic string or orchestral sample,30 seconds drum and percussion loop
+The sound of a melodrone typically has a [MASK] pitch than a metronome.,higher,sound of a melodrone,metronome
+The sound of a bird cage typically has a [MASK] pitch than a bird song.,lower,sound of a bird cage,bird song
+The sound of a wooden toothed instrument typically has a [MASK] pitch than a string ensemble.,lower,sound of a wooden toothed instrument,string ensemble
+The sound of a pan flute typically has a [MASK] pitch than a distorted guitar.,higher,sound of a pan flute,distorted guitar
+The sound of magical chords typically has a [MASK] pitch than a short brass tune.,lower,sound of magical chords,short brass tune
+The sound of a musical box typically has a [MASK] pitch than a hihat drum.,higher,sound of a musical box,hihat drum
+The sound of a crash cymbal typically has a [MASK] pitch than the sound of an abstract tape loop.,higher,sound of a crash cymbal,sound of an abstract tape loop
+The sound of a piano typically has a [MASK] pitch than a minimal beat.,higher,sound of a piano,minimal beat
+The sound of trash can percussion typically has a [MASK] pitch than a fusion music loop.,lower,sound of trash can percussion,fusion music loop
+The sound of a chiptune DnB loop typically has a [MASK] pitch than a hip hop loop with piano.,higher,chiptune DnB loop,hip hop loop with piano
+A grime/garage drum loop typically has a [MASK] pitch than a rock beat loop.,higher,grime/garage drum loop,rock beat loop
+The sound of a repinique typically has a [MASK] pitch than a synth guitar.,higher,sound of a repinique,synth guitar
+The sound of a Bata drum has a [MASK] pitch than a tropical house beat.,lower,sound of a Bata drum,tropical house beat
+Ambient music often has a [MASK] pitch than a calm heavenly drone.,higher,ambient music,calm heavenly drone
+The sound of a conga drum typically has a [MASK] pitch than a processed cinematic low sound.,higher,sound of a conga drum,processed cinematic low sound
+The sound of a Mridangam typically has a [MASK] pitch than the sound of a singing voice.,lower,sound of a Mridangam,singing voice
+The sound of a synthesized bass typically has a [MASK] pitch than a vocalized trumpet.,lower,sound of a synthesized bass,vocalized trumpet
+The sound of voices in a trance melody typically has a [MASK] pitch than the sound of a classical piano.,higher,sound of voices in a trance melody,sound of a classical piano
+The sound of futuristic ambient electronic music has a [MASK] pitch than the sound of a solo contrabass.,higher,sound of futuristic ambient electronic music,solo contrabass
+The sound of a cymbal swell typically has a [MASK] pitch than background music.,higher,sound of a cymbal swell,background music
+The sound of a Doepfer synthesizer typically has a [MASK] pitch than a Tekno music loop.,higher,sound of a Doepfer synthesizer,Tekno music loop
+The sound of drums played on a can typically has a [MASK] pitch than the loop used for horror music.,higher,sound of drums played on a can,loop used for horror music
+The sound of an oud typically has a [MASK] pitch than the sound of loud crash cymbals.,lower,sound of an oud,sound of loud crash cymbals
+The sound of a Casio VL-Tone VL-1 typically has a [MASK] pitch than a Dubstep piano.,lower,sound of a Casio VL-Tone VL-1,Dubstep piano
+The sound of a retro intro typically has a [MASK] pitch than tribal style drum fill.,higher,sound of a retro intro,tribal style drum fill
+The sound of a piano typically has a [MASK] pitch than the sound of a Yamaha PSR-36 Tom Mid drum.,higher,sound of a piano,Yamaha PSR-36 Tom Mid drum
+The sound of a reverse accelerating crescendo typically has a [MASK] pitch than the sound of a distressed phonograph needle on a vinyl record.,higher,reverse accelerating crescendo,distressed phonograph needle on a vinyl record
+The sound of a delay effect typically has a [MASK] pitch than a toy piano.,lower,sound of a delay effect,toy piano
+The sound of a drum kick typically has a [MASK] pitch than a classical guitar.,lower,sound of a drum kick,classical guitar
+The sound of a custom beep boop riser typically has a [MASK] pitch than the sound of an 80s Ludwig bass drum.,higher,custom beep boop riser,80s Ludwig bass drum
+The sound of a guitar typically has a [MASK] pitch than slowly sweeping frequencies.,higher,sound of a guitar,slowly sweeping frequencies
+The sound of a 1960s orchestra interlude typically has a [MASK] pitch than a G minor melody.,lower,sound of a 1960s orchestra interlude,G minor melody
+The sound of a piano typically has a [MASK] pitch than traditional Vietnamese music.,higher,sound of a piano,traditional Vietnamese music
+The sound of a heartbeat typically has a [MASK] pitch than a slide whistle.,lower,sound of a heartbeat,slide whistle
+The sound of a village theme typically has a [MASK] pitch than an experimental piano jam.,lower,sound of a village theme,experimental piano jam
+The sound of a metallic guitar slide typically has a [MASK] pitch than a toy plastic tambourine.,lower,sound of a metallic guitar slide,toy plastic tambourine
+A short melody typically has a [MASK] pitch than a simple beat.,higher,short melody,simple beat
+"The sound of a Casio pt-1 ""march"" drum pattern typically has a [MASK] pitch than a piano loop.",lower,Casio pt-1 , drum pattern
+The sound of a Moog complex percussion typically has a [MASK] pitch than the sound of a closed hi-hat.,lower,sound of a Moog complex percussion,closed hi-hat
+An atmospheric emotional sound has a [MASK] pitch than a Latin percussion.,higher,atmospheric emotional sound,Latin percussion
+The sound of a stereo acid bass waveform typically has a [MASK] pitch than the notes of a traditional Christmas carol played by a brass band.,lower,stereo acid bass waveform,notes of a traditional Christmas carol played by a brass band
+The sound of a music box typically has a [MASK] pitch than an electronic drum loop.,higher,sound of a music box,electronic drum loop
+The sound of extremely short and percussive noise samples typically has a [MASK] pitch than the computer music.,higher,sound of extremely short and percussive noise samples,computer music
+The sound of white noise typically has a [MASK] pitch than the sound of electronic drums.,higher,sound of white noise,sound of electronic drums
+The sound of a chirp typically has a [MASK] pitch than a rhythmic buzz.,higher,sound of a chirp,rhythmic buzz
+The sound of a synthesizer typically has a [MASK] pitch than the drumming on a table.,higher,sound of a synthesizer,drumming on a table
+The sound of a synthesizer typically has a [MASK] pitch than a human beatbox kick.,higher,sound of a synthesizer,human beatbox kick
+The sound of a stick typically has a [MASK] pitch than a relaxed background loop.,higher,sound of a stick,relaxed background loop
+The sound of a piano typically has a [MASK] pitch than the sound of feedback distortion.,higher,sound of a piano,sound of feedback distortion
+The sound of a guitar in a hiphop melody typically has a [MASK] pitch than the sound of a quiet sleigh bell.,lower,sound of a guitar in a hiphop melody,sound of a quiet sleigh bell
+The sound of a distorted cymbal typically has a [MASK] pitch than the singing of a male vocalist.,lower,sound of a distorted cymbal,singing of a male vocalist
+"The sound of a typical CMaj - FMaj - GMaj - CMaj chord progression played with the ""Space rez"" patch in Synth1 has a [MASK] pitch than the sound of an improvisation played with a midi-keyboard.",higher,sound of a typical CMaj - FMaj - GMaj - CMaj chord progression played with the 'Space rez' patch in Synth1,
+The sound of a school band typically has a [MASK] pitch than a sound made in sunvox using phase modulation.,lower,sound of a school band,sound made in sunvox using phase modulation
+The sound of a piano typically has a [MASK] pitch than a synth stutter.,lower,sound of a piano,synth stutter
+The sound of a feedback from a mixer typically has a [MASK] pitch than a short snare drum sound.,higher,sound of a feedback from a mixer,short snare drum sound
+The sound of a decimated note has a [MASK] pitch than a melancholy piano melody.,higher,sound of a decimated note,melancholy piano melody
+The sound of a jazz guitar typically has a [MASK] pitch than a guiro.,higher,sound of a jazz guitar,guiro
+The sound of a bassoon typically has a [MASK] pitch than a piano.,lower,sound of a bassoon,piano
+The sound of Folk Music typically has a [MASK] pitch than the sound of an ambient drone.,higher,sound of Folk Music,ambient drone
+The sound of menu music in a computer game typically has a [MASK] pitch than the sound of a ride bell on a drum set.,lower,sound of menu music in a computer game,sound of a ride bell on a drum set
+The sound of a nightmare in India typically has a [MASK] pitch than a brass ensemble.,lower,sound of a nightmare in India,brass ensemble
+The sound of a guitar with a fuzz effect typically has a [MASK] pitch than an acid bass synthesizer.,higher,sound of a guitar with a fuzz effect,acid bass synthesizer
+The sound of an upright piano typically has a [MASK] pitch than a drum loop.,higher,sound of an upright piano,drum loop
+The sound of drums typically has a [MASK] pitch than white noise.,lower,sound of drums,white noise
+An electronic bass sound typically has a [MASK] pitch than a synth melody.,lower,electronic bass sound,synth melody
+The sound of a Tama Rockstar floor tom typically has a [MASK] pitch than the sound of a Waldorf Q Rack hardware synth.,lower,Tama Rockstar floor tom,Waldorf Q Rack hardware synth
+The sound of a saxophone typically has a [MASK] pitch than an acid synth.,lower,sound of a saxophone,acid synth
+The sound of a fake scratch typically has a [MASK] pitch than an analog harpsichord waveform.,lower,sound of a fake scratch,analog harpsichord waveform
+The sound of a processed sine wave has a [MASK] pitch than an electronic beat.,higher,processed sine wave,electronic beat
+The sound of a ukelele typically has a [MASK] pitch than the ringing of church bells.,higher,sound of a ukelele,ringing of church bells
+The sound of a clap in an echoey room typically has a [MASK] pitch than a melodic synthesiser line.,lower,sound of a clap in an echoey room,melodic synthesiser line
+The sound of a Roland Jupiter 4 synthesizer typically has a [MASK] pitch than a human voice counting.,higher,sound of a Roland Jupiter 4 synthesizer,human voice counting
+An eerie atmosphere with fluttering bass has a [MASK] pitch than an alien boiler room.,higher,eerie atmosphere with fluttering bass,alien boiler room
+The sound of a metronome bell typically has a [MASK] pitch than an upright bass.,higher,sound of a metronome bell,upright bass
+The sound of a vocal processed by a synthesizer typically has a [MASK] pitch than the sound of a folk dance orchestra.,higher,sound of a vocal processed by a synthesizer,folk dance orchestra
+The sound of a drum typically has a [MASK] pitch than a growl in dubstep.,higher,sound of a drum,growl in dubstep
+The sound of a zappy break on an Akai XR10 drum machine typically has a [MASK] pitch than a distorted hard techno kick.,higher,sound of a zappy break on an Akai XR10 drum machine,distorted hard techno kick
+The sound of a synthesised orchestral typically has a [MASK] pitch than the sound of a clarinet.,lower,sound of a synthesised orchestral,clarinet
+The sound of a brass-band typically has a [MASK] pitch than a glitched percussion.,lower,sound of a brass-band,glitched percussion
+The sound of a 8-bit siren typically has a [MASK] pitch than a trance music loop.,higher,8-bit siren,trance music loop
+The sound of a double bass typically has a [MASK] pitch than a choked cymbal.,lower,sound of a double bass,choked cymbal
+The sound of a dark digital contrabass typically has a [MASK] pitch than rhythmic noise.,lower,dark digital contrabass,rhythmic noise
+The sound of a synthesizer typically has a [MASK] pitch than a didgeridoo.,higher,sound of a synthesizer,didgeridoo
+The sound of a kick with a deep bass drop typically has a [MASK] pitch than a weird robotic glitch beat.,lower,sound of a kick with a deep bass drop,weird robotic glitch beat
+The sound of a Dubstep effect has a [MASK] pitch than a harmonic hum.,lower,sound of a Dubstep effect,harmonic hum
+The sound of a hardcore kick drum has a [MASK] pitch than an ambient soundscape.,higher,sound of a hardcore kick drum,ambient soundscape
+The sound of a Casio MT40 El Piano typically has a [MASK] pitch than the noise of a mechanic keyboard.,higher,sound of a Casio MT40 El Piano,noise of a mechanic keyboard
+The sound of a female singing typically has a [MASK] pitch than a finger snap.,higher,sound of a female singing,finger snap
+The sound of an Indian quenacho flute typically has a [MASK] pitch than a synthesizer pad.,higher,sound of an Indian quenacho flute,synthesizer pad
+The sound of a synthesizer typically has a [MASK] pitch than an electronic beat.,higher,sound of a synthesizer,electronic beat
+The sound of a warbly bass typically has a [MASK] pitch than the sound of an energetic bunny hop instrumental.,lower,sound of a warbly bass,energetic bunny hop instrumental
+The sound of a piano in a melody typically has a [MASK] pitch than the drum beat in jungle music.,higher,sound of a piano in a melody,drum beat in jungle music
+The sound of African Safari Beat typically has a [MASK] pitch than a long synthetic sub drone.,higher,sound of African Safari Beat,long synthetic sub drone
+The sound of a drone typically has a [MASK] pitch than the sound of real drums.,lower,sound of a drone,real drums
+The sound of a group singing a traditional Spanish Christmas song typically has a [MASK] pitch than the sound of tuning organ pipes.,higher,group singing a traditional Spanish Christmas song,tuning organ pipes
+The sound of a pitch-up sweep typically has a [MASK] pitch than a sparkling sound effect.,higher,sound of a pitch-up sweep,sparkling sound effect
+The sound of a Memory Moon vsti synthesizer typically has a [MASK] pitch than a rising drone.,higher,sound of a Memory Moon vsti synthesizer,rising drone
+The sound of sleigh bells typically has a [MASK] pitch than a cartoon wink sound effect.,higher,sound of sleigh bells,cartoon wink sound effect
+The sound of a bitcrushed effect typically has a [MASK] pitch than the sound of reversed cymbals.,higher,bitcrushed effect,reversed cymbals
+The sound of a rising beep typically has a [MASK] pitch than an electro-house track.,higher,sound of a rising beep,electro-house track
+The sound of a guitar in C#3 typically has a [MASK] pitch than an electronic percussion in lowtom2.,higher,sound of a guitar in C#3,electronic percussion in lowtom2
+The sound of a big distorted square analog kick drum typically has a [MASK] pitch than the sound of Cologne Cathedral bells.,lower,sound of a big distorted square analog kick drum,sound of Cologne Cathedral bells
+"The sound of a C major harmony has a [MASK] pitch than the low, resonant whoosh of a ukulele.",higher,sound of a C major harmony,low resonant whoosh of a ukulele
+The sound of a pitched-down reversed vocal typically has a [MASK] pitch than the sound of a heavily distorted guitar.,lower,pitched-down reversed vocal,heavily distorted guitar
+The sound of a toy keyboard typically has a [MASK] pitch than a drum and bass drum loop.,higher,sound of a toy keyboard,drum and bass drum loop
+The sound of a synthesizer typically has a [MASK] pitch than a DJ's sound bytes.,higher,sound of a synthesizer,DJ's sound bytes
+The sound of a heavily panned and filtered beat with synth accents typically has a [MASK] pitch than the applause at the beginning of a classic music piece.,higher,heavily panned and filtered beat with synth accents,applause at the beginning of a classic music piece
+The sound of a heavily processed rhythm loop typically has a [MASK] pitch than the sound of a Roland Jupiter 4 synthesizer playing F#6.,lower,sound of a heavily processed rhythm loop,sound of a Roland Jupiter 4 synthesizer playing F#6
+The sound of a didgeridoo's tongue slap typically has a [MASK] pitch than the ringing of electronic bells.,lower,didgeridoo's tongue slap,electronic bells
+The sound of a piano typically has a [MASK] pitch than a cello.,higher,sound of a piano,cello
+The sound of melodic loops typically has a [MASK] pitch than the sound of jingle bells.,lower,sound of melodic loops,sound of jingle bells
+The sound of a classical music piece has a [MASK] pitch than a beatboxing bass sound.,higher,sound of a classical music piece,beatboxing bass sound
+The sound of a broken jingle bell typically has a [MASK] pitch than an upward glissando on an alto sax.,lower,broken jingle bell,upward glissando on an alto sax
+The sound of a cinematic trap loop has a [MASK] pitch than the sound of retriggered samples.,lower,cinematic trap loop,retriggered samples
+The sound of a sub bass typically has a [MASK] pitch than the sound of a classical acoustic guitar.,lower,sound of a sub bass,classical acoustic guitar
+The sound of a ping-pong ball bouncing typically has a [MASK] pitch than the music of a Japanese band.,lower,sound of a ping-pong ball bouncing,music of a Japanese band
+The sound of a wavefolded percussion typically has a [MASK] pitch than the sound of a toy glockenspiel.,lower,sound of a wavefolded percussion,sound of a toy glockenspiel
+The sound of an oboe has a [MASK] pitch than an electronic dance kick drum.,higher,sound of an oboe,electronic dance kick drum
+The sound of a synthesizer typically has a [MASK] pitch than a trance synth.,lower,sound of a synthesizer,trance synth
+The sound of a voltage controlled LFO typically has a [MASK] pitch than the sound of a leather tambourine.,lower,sound of a voltage controlled LFO,sound of a leather tambourine
+An 8-bit explosion sound typically has a [MASK] pitch than a robotic voice.,higher,8-bit explosion sound,robotic voice
+The sound of a MoCa mystical hit typically has a [MASK] pitch than a HipHop loop with kick hi-hat and snare.,higher,sound of a MoCa mystical hit,HipHop loop with kick hi-hat and snare
+The sound of a haunted organ typically has a [MASK] pitch than a synthetic perc sound.,lower,sound of a haunted organ,synthetic perc sound
+The sound of a piano typically has a [MASK] pitch than a techno drumloop.,higher,sound of a piano,techno drumloop
+The sound of a theremin typically has a [MASK] pitch than a tinny drum loop.,higher,sound of a theremin,tinny drum loop
+The sound of a drum typically has a [MASK] pitch than the sound of Indian drums.,lower,sound of a drum,Indian drums
+The sound of a choir typically has a [MASK] pitch than the note F-sharp on a piano.,lower,sound of a choir,note F-sharp on a piano
+The sound of a singing bowl typically has a [MASK] pitch than a big room kick.,higher,sound of a singing bowl,big room kick
+An angry drone typically has a [MASK] pitch than creepy strings.,lower,angry drone,creepy strings
+The sound of a synthesizer typically has a [MASK] pitch than a distorted melody.,lower,sound of a synthesizer,distorted melody
+The sound of traditional Turkish music typically has a [MASK] pitch than the sound of vinyl record scratches.,higher,sound of traditional Turkish music,sound of vinyl record scratches
+The sound of jingles typically has a [MASK] pitch than the beat of an old school trap drum.,higher,sound of jingles,beat of an old school trap drum
+The sound of a double bass typically has a [MASK] pitch than a rolling bass rumble.,higher,sound of a double bass,rolling bass rumble
+The sound of a choir typically has a [MASK] pitch than granular synthesis.,higher,sound of a choir,granular synthesis
+The sound of a wooden shaker has a [MASK] pitch than a synth ping.,lower,sound of a wooden shaker,synth ping
+The sound of traditional Chinese instruments typically has a [MASK] pitch than 8-bit chiptune music.,higher,sound of traditional Chinese instruments,8-bit chiptune music
+The sound of a bell in a game typically has a [MASK] pitch than the sound of an acoustic guitar.,higher,sound of a bell in a game,sound of an acoustic guitar
+"An atonal fragment of electronic glitch has a [MASK] pitch than a weird, lonely sound.",higher,atonal fragment of electronic glitch,weird lonely sound
+Space signals typically have a [MASK] pitch than a string pizzicato.,lower,space signals,string pizzicato
+The sound of a triangle-like electronic percussion loop typically has a [MASK] pitch than an A-eolian harp.,higher,sound of a triangle-like electronic percussion loop,A-eolian harp
+The sound of a duck typically has a [MASK] pitch than short drum rhythms.,higher,sound of a duck,short drum rhythms
+The sound of layered noise in a synthesizer typically has a [MASK] pitch than a binaural ringmod texture.,lower,sound of layered noise in a synthesizer,binaural ringmod texture
+The sound of a synthesizer typically has a [MASK] pitch than a bell.,lower,sound of a synthesizer,bell
+The sound of Nhạc Kích Động has a [MASK] pitch than the sound of Splassound3.,higher,Nhạc Kích Động,Splassound3
+The sound of a triangle typically has a [MASK] pitch than the sound of a harmonica.,higher,sound of a triangle,sound of a harmonica
+The sound of improvised percussion typically has a [MASK] pitch than the high sci-fi tones from a synthesizer.,lower,sound of improvised percussion,high sci-fi tones from a synthesizer
+The sound of a snare drum typically has a [MASK] pitch than a heavily overdriven synth.,lower,snare drum,heavily overdriven synth
+The sound of a snare drum has a [MASK] pitch than the G sharp note on a piano.,lower,snare drum,G sharp note on a piano
+The sound of a synthesizer typically has a [MASK] pitch than a drum hat composition.,higher,sound of a synthesizer,drum hat composition
+The sound of a bassy kick for dubstep typically has a [MASK] pitch than a relaxing Chinese melody.,lower,sound of a bassy kick for dubstep,relaxing Chinese melody
+The sound of distorted kicks typically has a [MASK] pitch than an open hi-hat.,lower,sound of distorted kicks,open hi-hat
+A dog's growl typically has a [MASK] pitch than the chirping of a flock of birds.,lower,dog's growl,flock of birds
+The sound of a synth pad typically has a [MASK] pitch than an acoustic guitar.,lower,sound of a synth pad,acoustic guitar
+The sound of an Oriental Ambience has a [MASK] pitch than a drum loop.,lower,Oriental Ambience,drum loop
+The sound of a D# on a piano typically has a [MASK] pitch than a deep vocal choir.,higher,sound of a D# on a piano,deep vocal choir
+The sound of a trumpet in a jazz group typically has a [MASK] pitch than the sound of people speaking in a bar.,higher,sound of a trumpet in a jazz group,sound of people speaking in a bar
+The sound of a bell typically has a [MASK] pitch than a techno loop.,higher,sound of a bell,techno loop
+The sound of a bouncing organ typically has a [MASK] pitch than a creepy horn.,higher,sound of a bouncing organ,creepy horn
+The sound of a rising tone typically has a [MASK] pitch than a fail sound effect.,higher,sound of a rising tone,fail sound effect
+The sound of a synthesizer typically has a [MASK] pitch than a clock chime.,lower,sound of a synthesizer,clock chime
+The sound of a DJ's sound effect typically has a [MASK] pitch than the sound of a Roland SH-5 synthesizer.,lower,sound of a DJ's sound effect,Roland SH-5 synthesizer
+The sound of a marimba typically has a [MASK] pitch than a reverb effect.,higher,sound of a marimba,reverb effect
+The sound of a high string layered with pipe organ sounds typically has a [MASK] pitch than the sound of a drum kit.,higher,sound of a high string layered with pipe organ sounds,sound of a drum kit
+The sound of a violin typically has a [MASK] pitch than the sound of drums.,higher,sound of a violin,sound of drums
+The sound of a fuzzed drum kit typically has a [MASK] pitch than a quinto.,lower,sound of a fuzzed drum kit,quinto
+The sound of a melancholy UI chime typically has a [MASK] pitch than the sound of a classical guitar playing a D-sharp in the 8th octave.,lower,sound of a melancholy UI chime,classical guitar playing a D-sharp in the 8th octave
+The sound of a processed piano typically has a [MASK] pitch than an 8-bit video game sound effect.,higher,sound of a processed piano,8-bit video game sound effect
+"A sound stimuli to demonstrate beating tone from headphones typically has a [MASK] pitch than a synth stab loop created through the help of VST's, time shifting, parametric EQ, cutting, sampling, layering, and many other methods of sound manipulation.",lower,sound stimuli to demonstrate beating tone from headphones,
+The sound of a big beat typically has a [MASK] pitch than a musical box.,lower,sound of a big beat,musical box
+The sound of a strange ethereal sci-fi background typically has a [MASK] pitch than a wide spread melodic sequence of fast moving electronic sound elements.,lower,sound of a strange ethereal sci-fi background,wide spread melodic sequence of fast moving electronic sound elements
+The sound of a ruler being twanged typically has a [MASK] pitch than a rock guitar riff.,higher,sound of a ruler being twanged,rock guitar riff
+The sound of a live performance typically has a [MASK] pitch than a processed sound of a santoor.,lower,live performance,processed sound of a santoor
+The sound of a piano typically has a [MASK] pitch than a collection of granular synthesized sounds.,higher,sound of a piano,collection of granular synthesized sounds
+The sound of a circuit-bent feedback typically has a [MASK] pitch than the sound of a classic guitar.,higher,sound of a circuit-bent feedback,sound of a classic guitar
+The sound of a syncopated bassline typically has a [MASK] pitch than the sound of distorted kicks.,higher,sound of a syncopated bassline,sound of distorted kicks
+A dog's growl typically has a [MASK] pitch than the chirping of a flock of birds.,lower,dog's growl,flock of birds
+The sound of a flute typically has a [MASK] pitch than a ride bell.,lower,sound of a flute,ride bell
+The sound of a Deckard's Dream DIY analogue synthesizer typically has a [MASK] pitch than a heavy metal electric guitar riff.,higher,sound of a Deckard's Dream DIY analogue synthesizer,heavy metal electric guitar riff
+The sound of a space mellow synth typically has a [MASK] pitch than an unearthly wobble.,lower,space mellow synth,unearthly wobble
+The sound of a high-frequency sinusoidal noise drone has a [MASK] pitch than a pad sound.,higher,high-frequency sinusoidal noise drone,pad sound
+The sound of vinyl dust typically has a [MASK] pitch than the sound of a mobile phone melody with effects.,lower,sound of vinyl dust,sound of a mobile phone melody with effects
+The sound of a snare drum typically has a [MASK] pitch than a crunchy electric guitar loop.,lower,sound of a snare drum,crunchy electric guitar loop
+The sound of house keys being strummed typically has a [MASK] pitch than an electronic frequency modulation experiment.,higher,sound of house keys being strummed,electronic frequency modulation experiment
+The sound of a harpsichord typically has a [MASK] pitch than the singing of a group of old folks.,higher,sound of a harpsichord,singing of a group of old folks
+The sound of a street organ typically has a [MASK] pitch than desert rock.,higher,sound of a street organ,desert rock
+The sound of a hand drum typically has a [MASK] pitch than a closed hi-hat.,lower,sound of a hand drum,closed hi-hat
+The sound of a high mountain atmosphere has a [MASK] pitch than an electronic arpeggio loop.,lower,sound of a high mountain atmosphere,electronic arpeggio loop
+The sound of a squeaky door has a [MASK] pitch than the sound of a laser gun.,lower,sound of a squeaky door,sound of a laser gun
+The sound of a crazy loop typically has a [MASK] pitch than downtempo music.,higher,sound of a crazy loop,downtempo music
+The sound of a drum typically has a [MASK] pitch than a slow beat.,higher,sound of a drum,slow beat
+The sound of a Roland TR909 drum pattern typically has a [MASK] pitch than a chorus.,lower,sound of a Roland TR909 drum pattern,chorus
+The sound of a synthesizer typically has a [MASK] pitch than a cowbell.,higher,sound of a synthesizer,cowbell
+The sound of a hiphop pad typically has a [MASK] pitch than the tuning of organ pipes.,higher,sound of a hiphop pad,tuning of organ pipes
+An electronic kick drum has a [MASK] pitch than a bouncing music loop.,lower,electronic kick drum,bouncing music loop
+The sound of a bagpipe typically has a [MASK] pitch than an electronic drum loop.,higher,sound of a bagpipe,electronic drum loop
+The sound of a hi-hat cymbal typically has a [MASK] pitch than an ambient music loop.,higher,sound of a hi-hat cymbal,ambient music loop
+The sound of a house music typically has a [MASK] pitch than a music box.,lower,sound of a house music,music box
+The sound of strings in a 4 bars loop typically has a [MASK] pitch than a bass-based intermezzo.,higher,sound of strings in a 4 bars loop,bass-based intermezzo
+The sound of a video-nasty remix typically has a [MASK] pitch than an orchestral sound scape.,lower,video-nasty remix,orchestral sound scape
+The sound of a celesta typically has a [MASK] pitch than a synthesizer blip.,higher,sound of a celesta,synthesizer blip
+The sound of a suspenseful orchestral piece typically has a [MASK] pitch than a poly synth techno Jam.,lower,sound of a suspenseful orchestral piece,poly synth techno Jam
+The sound of a synthetically created synth typically has a [MASK] pitch than the mass singing of local Turcana people.,higher,sound of a synthetically created synth,mass singing of local Turcana people
+The sound of a female singing typically has a [MASK] pitch than an electronic music track.,higher,sound of a female singing,electronic music track
+The sound of a royal flourish typically has a [MASK] pitch than a manipulated piano soundboard.,higher,sound of a royal flourish,manipulated piano soundboard
+The sound of a tropical rhythm typically has a [MASK] pitch than a sound created using FM synthesis.,lower,tropical rhythm,sound created using FM synthesis
+The sound of church bells typically has a [MASK] pitch than the sound of circuit-bent drums.,higher,church bells,circuit-bent drums
+The sound of sliding hand on music stand typically has a [MASK] pitch than plain electronic oscillators.,lower,sound of sliding hand on music stand,plain electronic oscillators
+The sound of a bassoon typically has a [MASK] pitch than a saw wave sound effect.,lower,sound of a bassoon,saw wave sound effect
+The sound of a phased pad typically has a [MASK] pitch than a looped processed excerpt.,higher,sound of a phased pad,looped processed excerpt
+The sound of a double kick scratch has a [MASK] pitch than a funky psychedelic art background loop.,higher,sound of a double kick scratch,funky psychedelic art background loop
+The sound of a guitar trill has a [MASK] pitch than a synthesized bass drum.,higher,sound of a guitar trill,synthesized bass drum
+"The sound of a metal mallet scraping along high piano strings typically has a [MASK] pitch than a short, bright, and powerful piano sequence.",higher,metal mallet scraping along high piano strings,short bright and powerful piano sequence
+The sound of a glitchy drum loop typically has a [MASK] pitch than a synthesizer.,lower,sound of a glitchy drum loop,synthesizer
+The sound of a brass band typically has a [MASK] pitch than a robotic voice over a synth bass line.,higher,sound of a brass band,robotic voice over a synth bass line
+The sound of a short click hat has a [MASK] pitch than a saxophone riff.,higher,sound of a short click hat,saxophone riff
+The sound of a marimba typically has a [MASK] pitch than a drum and percussion.,higher,sound of a marimba,drum and percussion
+The sound of a vocal blur pad typically has a [MASK] pitch than a techno snare.,lower,sound of a vocal blur pad,techno snare
+The sound of a Roland Jupiter 4 synthesizer typically has a [MASK] pitch than the Saurus VST loop.,higher,sound of a Roland Jupiter 4 synthesizer,Saurus VST loop
+The sound of a cinematic orchestral percussion trailer typically has a [MASK] pitch than an electric guitar improvisation.,lower,sound of a cinematic orchestral percussion trailer,electric guitar improvisation
+The sound of a Reese bass typically has a [MASK] pitch than an electro bass.,lower,sound of a Reese bass,electro bass
+An electronic growl/scream typically has a [MASK] pitch than a censor beep.,lower,electronic growl/scream,censor beep
+The sound of a Celtic hand drum typically has a [MASK] pitch than a Fender Chroma Polaris Storm Drum synthesizer.,lower,sound of a Celtic hand drum,Fender Chroma Polaris Storm Drum synthesizer
+The sound of a sawtooth pluck from a synthesizer typically has a [MASK] pitch than an electronic drum loop.,higher,sound of a sawtooth pluck from a synthesizer,electronic drum loop
+The sound of a toy harp has a [MASK] pitch than the sound of a percussion loop.,higher,sound of a toy harp,percussion loop
+The sound of a synth typically has a [MASK] pitch than the human shh sound.,higher,sound of a synth,human shh sound
+The sound of a drum typically has a [MASK] pitch than the sound of a vibraphone.,lower,sound of a drum,sound of a vibraphone
+"The sound of ""French air"" typically has a [MASK] pitch than a rapid electronic sequence.",lower,sound of 'French air',rapid electronic sequence
+The sound of a piano in a cinematic soundtrack typically has a [MASK] pitch than a distorted FM synthesis sound.,lower,sound of a piano in a cinematic soundtrack,distorted FM synthesis sound
+The sound of a clean guitar typically has a [MASK] pitch than a bit hat.,higher,sound of a clean guitar,bit hat
+The sound of drums typically has a [MASK] pitch than a cheerful menu select sound.,lower,sound of drums,cheerful menu select sound
+The sound of a glitchy rhythmic loop typically has a [MASK] pitch than weird electronic alien noise.,lower,sound of a glitchy rhythmic loop,weird electronic alien noise
+The sound of a clarinet typically has a [MASK] pitch than the sound of a rock band.,higher,sound of a clarinet,sound of a rock band
+The sound of a linn drum machine typically has a [MASK] pitch than the sound of a guitar.,lower,sound of a linn drum machine,sound of a guitar
+The sound of a Korg Kaossilator Pro Zap Drum Kit typically has a [MASK] pitch than a high pitched sound in the background.,lower,sound of a Korg Kaossilator Pro Zap Drum Kit,high pitched sound in the background
+The sound of a kick drum typically has a [MASK] pitch than an electric guitar.,lower,sound of a kick drum,electric guitar
+The sound of a distorted synth typically has a [MASK] pitch than a droning synthesizer.,higher,sound of a distorted synth,droning synthesizer
+An ambient orchestral drone typically has a [MASK] pitch than a bigbeat intro.,lower,ambient orchestral drone,bigbeat intro
+The sound of a classical guitar typically has a [MASK] pitch than an electronic drum loop.,higher,sound of a classical guitar,electronic drum loop
+The sound of a metal ring circling a glass bottle typically has a [MASK] pitch than the sound of dishes being put away.,higher,metal ring circling a glass bottle,dishes being put away
+The sound of opening a curtain typically has a [MASK] pitch than the creaking of a door.,lower,opening a curtain,creaking of a door
+The sound of sea shells mixing typically has a [MASK] pitch than a metal necklace chain being placed on a table.,higher,sea shells mixing,metal necklace chain being placed on a table
+The sound of shuffling a drawer filled with kitchen utensils has a [MASK] pitch than the sound of pouring tea into a cup.,lower,sound of shuffling a drawer filled with kitchen utensils,sound of pouring tea into a cup
+The sound of dropping a piece of wood on wood typically has a [MASK] pitch than inserting and pulling out a small mail box key.,lower,dropping a piece of wood on wood,inserting and pulling out a small mail box key
+The sound of a Kalashnikov reloading typically has a [MASK] pitch than the sound of a button being pressed.,lower,Kalashnikov reloading,button being pressed
+The sound of a can falling on a carpet typically has a [MASK] pitch than the sound of duct tape being ripped.,lower,sound of a can falling on a carpet,sound of duct tape being ripped
+The sound of a roller shade being pulled down has a [MASK] pitch than the sound of a door closing.,higher,roller shade being pulled down,door closing
+The sound of a gas stove typically has a [MASK] pitch than the ticking of an egg timer.,lower,gas stove,ticking of an egg timer
+The sound of a balloon popping typically has a [MASK] pitch than the sound of a hardcover book being placed on a wooden desk.,higher,sound of a balloon popping,sound of a hardcover book being placed on a wooden desk
+The sound of a cardboard box being dropped typically has a [MASK] pitch than the ringing of a wine glass hit with a spoon.,lower,sound of a cardboard box being dropped,ringing of a wine glass hit with a spoon
+The sound of ice cubes falling into a glass typically has a [MASK] pitch than the clatter of dishes.,higher,sound of ice cubes falling into a glass,clatter of dishes
+The sound of a blade on wood has a [MASK] pitch than the sound of striking a match.,higher,sound of a blade on wood,sound of striking a match
+The sound of metal tubes typically has a [MASK] pitch than the sound of turning newspaper pages.,higher,sound of metal tubes,sound of turning newspaper pages
+The sound of placing magnets on a fridge typically has a [MASK] pitch than the sound of a keychain of keys being dropped on a tile floor.,lower,sound of placing magnets on a fridge,sound of a keychain of keys being dropped on a tile floor
+The sound of a hot-water bag has a [MASK] pitch than the sound of a metal thermos being dragged.,higher,hot-water bag,metal thermos being dragged
+The sound of a metal dolly cart typically has a [MASK] pitch than the sound of a ruler creaking.,lower,metal dolly cart,ruler creaking
+The sound of a machine door typically has a [MASK] pitch than the sound of an effervescent tablet dissolving in water.,higher,machine door,effervescent tablet dissolving in water
+The sound of a button being pressed has a [MASK] pitch than the sound of a beer bottle being smashed.,higher,button being pressed,beer bottle being smashed
+The sound of a computer fan typically has a [MASK] pitch than the sound of a rubber ball bouncing.,higher,computer fan,rubber ball bouncing
+The sound of a robot rumbling has a [MASK] pitch than the sound of a CD being flipped.,lower,sound of a robot rumbling,sound of a CD being flipped
+The sound of nails scraping on a chalkboard typically has a [MASK] pitch than the squeaking of a balloon.,higher,sound of nails scraping on a chalkboard,squeaking of a balloon
+The sound of a radiator typically has a [MASK] pitch than the reverting sound of a plastic lid.,lower,sound of a radiator,reverting sound of a plastic lid
+The sound of throwing Lego Duplo bricks into a container full of bricks has a [MASK] pitch than the sound of twisting and pulling on an unlocked metal door handle.,higher,sound of throwing Lego Duplo bricks into a container full of bricks,sound of twisting and pulling on an unlocked metal door handle
+The sound of elastic bands snapping typically has a [MASK] pitch than the sound of a balloon spraying under the shower.,higher,elastic bands snapping,balloon spraying under the shower
+The sound of two wine glasses clinking typically has a [MASK] pitch than the sound of a mouse sliding on a mousepad.,higher,two wine glasses clinking,mouse sliding on a mousepad
+The sound of a sphere of ice hitting the ground typically has a [MASK] pitch than the sound of stirring an iced drink.,lower,sphere of ice hitting the ground,stirring an iced drink
+The sound of a chainsaw typically has a [MASK] pitch than the sound of searching LEGO bricks in a box.,higher,chainsaw,searching LEGO bricks in a box
+The sound of small glass plates tapping together typically has a [MASK] pitch than the sound of a fidget spinner on a table.,higher,small glass plates tapping together,fidget spinner on a table
+The sound of a door slowly closing has a [MASK] pitch than the ticking of a quartz clock.,lower,sound of a door slowly closing,ticking of a quartz clock
+The sound of a pill bottle typically has a [MASK] pitch than the sound of an old mechanism.,higher,pill bottle,old mechanism
+The sound of a thermal mug button valve typically has a [MASK] pitch than the sound of a shell falling on wood.,higher,thermal mug button valve,shell falling on wood
+The sound of bread popping out of a toaster typically has a [MASK] pitch than the sound of a small metal mechanism click.,lower,sound of bread popping out of a toaster,small metal mechanism click
+The sound of sawing wood typically has a [MASK] pitch than the sound of a crashed mirror.,lower,sound of sawing wood,sound of a crashed mirror
+The sound of a gas burner igniting typically has a [MASK] pitch than the sound of closing a paper bag.,higher,gas burner igniting,closing a paper bag
+The sound of filing nails typically has a [MASK] pitch than the clinking of a fork and spoon.,lower,filing nails,clinking of a fork and spoon
+The sound of a toy hose typically has a [MASK] pitch than the sound of a squeaky door.,higher,toy hose,squeaky door
+The sound of a smartphone dropping on the floor typically has a [MASK] pitch than a tea kettle whistling.,lower,smartphone dropping on the floor,tea kettle whistling
+The sound of a deodorant spray typically has a [MASK] pitch than the sound of small brass hooks falling onto a table cloth.,higher,sound of a deodorant spray,small brass hooks falling onto a table cloth
+The sound of a piece of cloth falling on a table typically has a [MASK] pitch than the sound of cutting a card with scissors.,lower,sound of a piece of cloth falling on a table,sound of cutting a card with scissors
+"The sound of holding, grabbing, shaking, and moving a phone typically has a [MASK] pitch than the sound of objects gently shaking on a microwave.",higher,holding grabbing shaking and moving a phone,objects gently shaking on a microwave
+The sound of a cigarette being extinguished in water has a [MASK] pitch than the sound of scrolling on a computer mouse.,lower,sound of a cigarette being extinguished in water,sound of scrolling on a computer mouse
+The sound of a liquid wobble has a [MASK] pitch than the sound of opening a soda can.,lower,sound of a liquid wobble,opening a soda can
+The sound of a Canon 550d dslr shutter typically has a [MASK] pitch than the sound of bracelets jingling.,lower,Canon 550d dslr shutter,bracelets jingling
+The sound of wooden coasters rattling typically has a [MASK] pitch than the sound of silverware being put on a table.,higher,wooden coasters rattling,silverware being put on a table
+The sound of flipping through a book has a [MASK] pitch than the sound of an oven door.,higher,sound of flipping through a book,oven door
+The sound of a metal necklace typically has a [MASK] pitch than the snapping of a match.,higher,sound of a metal necklace,snapping of a match
+The sound of a faucet drip typically has a [MASK] pitch than the sound of a spoon falling.,lower,faucet drip,spoon falling
+The sound of a trolley rolling on a mill floor typically has a [MASK] pitch than the sound of a can being opened.,lower,trolley rolling on a mill floor,can being opened
+The sound of shattering a glass coffee can with a cast iron pan typically has a [MASK] pitch than a small piece of metal dropping.,higher,shattering a glass coffee can with a cast iron pan,small piece of metal dropping
+The sound of a wooden window being opened and closed has a [MASK] pitch than the sound of a Mossberg 590 pump-action shotgun.,higher,wooden window being opened and closed,Mossberg 590 pump-action shotgun
+The sound of a wood plank typically has a [MASK] pitch than an old-fashioned doorbell.,lower,sound of a wood plank,old-fashioned doorbell
+The sound of a cardboard box opening has a [MASK] pitch than the sound of a grinding door.,higher,cardboard box opening,grinding door
+The sound of a garage door typically has a [MASK] pitch than the sound of items on a desk.,lower,sound of a garage door,sound of items on a desk
+The sound of handling two handguns typically has a [MASK] pitch than the sound of a small plastic object dropping on a table.,lower,sound of handling two handguns,sound of a small plastic object dropping on a table
+The sound of a balloon venting has a [MASK] pitch than the sound of a pocket knife being flicked open.,lower,balloon venting,pocket knife being flicked open
+The sound of something dropping in a kitchen typically has a [MASK] pitch than the sound of a metal self-inking stamp being pressed.,higher,sound of something dropping in a kitchen,sound of a metal self-inking stamp being pressed
+The sound of a wooden cupboard opening and closing typically has a [MASK] pitch than the sound of an egg smashing.,lower,wooden cupboard opening and closing,egg smashing
+The sound of planks being dropped has a [MASK] pitch than the sound of a hand drill hitting a palm.,lower,sound of planks being dropped,hand drill hitting a palm
+The sound of rummaging through paper and metal typically has a [MASK] pitch than the sound of dropping a laundry basket onto carpet.,higher,sound of rummaging through paper and metal,sound of dropping a laundry basket onto carpet
+The sound of a metal pin dropping has a [MASK] pitch than an eraser on a whiteboard.,higher,metal pin dropping,eraser on a whiteboard
+The sound of Nespresso capsules typically has a [MASK] pitch than the sound of a spanner.,higher,Nespresso capsules,spanner
+The sound of hitting a tin can has a [MASK] pitch than cold water splashes on a hot plate.,higher,hitting a tin can,cold water splashes on a hot plate
+The sound of keys has a [MASK] pitch than the clicking of a flashlight button.,higher,sound of keys,clicking of a flashlight button
+The sound of a light switch typically has a [MASK] pitch than the sound of laying down a glass on a wooden table.,higher,sound of a light switch,laying down a glass on a wooden table
+The sound of a coin scraping on concrete typically has a [MASK] pitch than the sound of stones slightly moving.,higher,sound of a coin scraping on concrete,sound of stones slightly moving
+The sound of a paint can being shaken typically has a [MASK] pitch than the sound of a metal file cabinet being opened and closed.,higher,sound of a paint can being shaken,sound of a metal file cabinet being opened and closed
+The sound of a rusty seesaw has a [MASK] pitch than the sound of pages rustling.,higher,rusty seesaw,pages rustling
+The sound of metal hitting a high-pitched glass bowl typically has a [MASK] pitch than the sound of something being dropped in a kitchen.,higher,sound of metal hitting a high-pitched glass bowl,sound of something being dropped in a kitchen
+The sound of knocking on glass typically has a [MASK] pitch than the sound of matches being dropped on cement flour.,higher,knocking on glass,matches being dropped on cement flour
+The sound of a carbonated drink fizzing has a [MASK] pitch than the creak of a wooden floor.,higher,carbonated drink fizzing,creak of a wooden floor
+The sound of an elastic band stretched and released typically has a [MASK] pitch than the sound of a clothespin opening and closing.,higher,elastic band stretched and released,clothespin opening and closing
+The sound of curtains being opened and closed typically has a [MASK] pitch than the sound of a metal hammer hitting a piece of wood.,lower,sound of curtains being opened and closed,metal hammer hitting a piece of wood
+The sound of crumpling Kraft paper typically has a [MASK] pitch than the beep of an alarm system.,lower,crumpling Kraft paper,beep of an alarm system
+The sound of stone on stone typically has a [MASK] pitch than the sound of scissors cutting paper.,lower,stone on stone,scissors cutting paper
+The sound of a lawn mower typically has a [MASK] pitch than the sound of a DVD drive tray.,higher,sound of a lawn mower,DVD drive tray
+The sound of a CD being cut with scissors typically has a [MASK] pitch than the sound of a drawer opening and closing.,higher,CD being cut with scissors,drawer opening and closing
+The sound of a porcelain plate typically has a [MASK] pitch than the sound of a metal water bottle lid rattling.,higher,sound of a porcelain plate,metal water bottle lid rattling
+The sound of adhesive tape being torn has a [MASK] pitch than the sound of prescription pills being poured.,lower,adhesive tape being torn,prescription pills being poured
+The sound of a Thai pestle in a mortar typically has a [MASK] pitch than the sound of a lip ice lid popping.,lower,Thai pestle in a mortar,lip ice lid popping
+The sound of filling a glass with water typically has a [MASK] pitch than sloshing water in a plastic water bottle.,higher,filling a glass with water,sloshing water in a plastic water bottle
+The sound of water from a sink faucet typically has a [MASK] pitch than the sound of turning a stiff knob.,higher,water from a sink faucet,turning a stiff knob
+The sound of a candy wrapper typically has a [MASK] pitch than a kitchen whisk.,higher,sound of a candy wrapper,kitchen whisk
+The sound of a key being removed from a lock typically has a [MASK] pitch than the sound of rubber balls bouncing.,higher,key being removed from a lock,rubber balls bouncing
+The sound of colliding glasses typically has a [MASK] pitch than the sound of stretching packaging tape.,higher,colliding glasses,stretching packaging tape
+The sound of putting keys on a table typically has a [MASK] pitch than the sound of a construction tool.,higher,sound of putting keys on a table,construction tool
+The sound of closing a stove door has a [MASK] pitch than the sound of a glass being slightly impacted.,lower,sound of closing a stove door,sound of a glass being slightly impacted
+The sound of glasses falling on a glass surface typically has a [MASK] pitch than an old elevator's noise.,higher,sound of glasses falling on a glass surface,old elevator's noise
+The sound of a large cardboard box falling onto the ground typically has a [MASK] pitch than the squeaking of a metal hinge.,lower,sound of a large cardboard box falling onto the ground,squeaking of a metal hinge
+The sound of a bottle being opened has a [MASK] pitch than the ticking of an old pendulum wall clock.,higher,bottle being opened,ticking of an old pendulum wall clock
+The sound of shaking a penicillin bottle typically has a [MASK] pitch than the ringing of a small ceramic bell.,lower,shaking a penicillin bottle,ringing of a small ceramic bell
+The sound of a guitar bag zipper closing typically has a [MASK] pitch than the sound of a plastic trash bag rustling.,higher,guitar bag zipper closing,plastic trash bag rustling
+The sound of a water tapping and turning an aluminum bottle typically has a [MASK] pitch than the sound of ripping off a paper towel.,lower,sound of a water tapping and turning an aluminum bottle,sound of ripping off a paper towel
+The sound of a shower curtain moving on a rod has a [MASK] pitch than the sound of a glass stove cover closing.,lower,sound of a shower curtain moving on a rod,sound of a glass stove cover closing
+The sound of paper being crunched has a [MASK] pitch than the sound of a pot-plant being placed on a table.,higher,sound of paper being crunched,sound of a pot-plant being placed on a table
+The sound of a steel door typically has a [MASK] pitch than a relay.,lower,sound of a steel door,relay
+The sound of a door closing typically has a [MASK] pitch than the sound of glasses falling.,lower,sound of a door closing,sound of glasses falling
+The sound of a padlock being picked typically has a [MASK] pitch than the sound of a light switch being turned off.,higher,padlock being picked,light switch being turned off
+The sound of a wood door being slapped typically has a [MASK] pitch than the sound of a heavy door closing.,higher,wood door being slapped,heavy door closing
+The sound of a medieval clock striking has a [MASK] pitch than the sound of metal spoons and forks gently crashing into each other.,lower,sound of a medieval clock striking,sound of metal spoons and forks gently crashing into each other
+The sound of a metal scissor with spring typically has a [MASK] pitch than the sound of a big aluminium coin falling.,higher,metal scissor with spring,big aluminium coin falling
+The sound of a closet door opening has a [MASK] pitch than the sound of a dry sponge being scrubbed.,lower,closet door opening,dry sponge being scrubbed
+The sound of jingling keys has a [MASK] pitch than the sound of shaking a single key.,higher,jingling keys,shaking a single key
+The sound of a regency clock chimes has a [MASK] pitch than the ringing of a small glass bell.,lower,sound of a regency clock chimes,ringing of a small glass bell
+The sound of a small box being opened typically has a [MASK] pitch than the sound of twisting a cork in a wine bottle.,higher,small box being opened,twisting a cork in a wine bottle
+The sound of keys jingling has a [MASK] pitch than the sound of metal opening.,higher,sound of keys jingling,sound of metal opening
+The sound of coins hitting wood typically has a [MASK] pitch than the sound of a wire spool.,higher,coins hitting wood,wire spool
+The sound of unscrewing a mason jar lid typically has a [MASK] pitch than the ringing of a glass bell.,lower,unscrewing a mason jar lid,ringing of a glass bell
+The sound of a deer chaser has a [MASK] pitch than the sound of opening a bottle of soda water.,higher,deer chaser,opening a bottle of soda water
+The sound of a piece of concrete being dropped has a [MASK] pitch than the sound of an old gate opening and closing.,higher,sound of a piece of concrete being dropped,sound of an old gate opening and closing
+The sound of plucking a silicone whisk typically has a [MASK] pitch than the sound of chopping an apple with an apple wedger.,higher,sound of plucking a silicone whisk,sound of chopping an apple with an apple wedger
+The sound of a wood creaking typically has a [MASK] pitch than the sound of coins dropping into an empty metallic slot machine.,lower,sound of a wood creaking,sound of coins dropping into an empty metallic slot machine
+The sound of beer bottles clinking has a [MASK] pitch than the sound of a backpack zipper.,higher,beer bottles clinking,backpack zipper
+The sound of a doorknob hitting a tile floor typically has a [MASK] pitch than the sound of air blowing into a glass bottle.,higher,doorknob hitting a tile floor,air blowing into a glass bottle
+The sound of a napkin tearing has a [MASK] pitch than the sound of a measuring tape being pulled out and sliding back into its holster.,higher,napkin tearing,measuring tape being pulled out and sliding back into its holster
+The sound of metal chains on a swing typically has a [MASK] pitch than the sound of pulling scotch tape out of a dispenser.,lower,sound of metal chains on a swing,pulling scotch tape out of a dispenser
+The sound of a bike helmet clip has a [MASK] pitch than the sound of a door.,higher,sound of a bike helmet clip,sound of a door
+The sound of a steel hammer on a piece of hot steel typically has a [MASK] pitch than the sound of a shed door being closed.,higher,sound of a steel hammer on a piece of hot steel,sound of a shed door being closed
+The sound of a chainsaw typically has a [MASK] pitch than the sound of a metal chair being dragged.,higher,sound of a chainsaw,metal chair being dragged
+The sound of a fire poker being put back into a set of utensils typically has a [MASK] pitch than the sound of ice cubes being poured into a glass.,higher,sound of a fire poker being put back into a set of utensils,sound of ice cubes being poured into a glass
+The sound of an aluminium can being crushed typically has a [MASK] pitch than the sound of keys jingling.,lower,aluminium can being crushed,keys jingling
+The sound of a coin falling typically has a [MASK] pitch than the sound of a clockwork toy.,higher,sound of a coin falling,sound of a clockwork toy
+The sound of a glass bottle rolling on a hard floor typically has a [MASK] pitch than the sound of water draining from a bathtub.,higher,glass bottle rolling on a hard floor,water draining from a bathtub
+The sound of a sink typically has a [MASK] pitch than the sound of scribbling on paper.,lower,sound of a sink,sound of scribbling on paper
+The sound of stirring a tea cup has a [MASK] pitch than popping balloons.,higher,stirring a tea cup,popping balloons
+The sound of a large wooden object moving quickly typically has a [MASK] pitch than the sound of a camera clicking.,lower,large wooden object moving quickly,camera clicking
+The sound of water dripping from a glass typically has a [MASK] pitch than the sound of a DVD case opening and closing.,higher,water dripping from a glass,DVD case opening and closing
+The sound of a swiss training ball bouncing typically has a [MASK] pitch than the sound of picking up small rocks.,lower,swiss training ball bouncing,picking up small rocks
+The sound of a bottle elastic band has a [MASK] pitch than the sound of a metal safe.,higher,sound of a bottle elastic band,sound of a metal safe
+The sound of a shoe hitting a wall typically has a [MASK] pitch than the ticking of a pocket watch.,lower,sound of a shoe hitting a wall,ticking of a pocket watch
+The sound of a beer can opening has a [MASK] pitch than the sound of keys being thrown and caught.,higher,sound of a beer can opening,sound of keys being thrown and caught
+The sound of a zipper typically has a [MASK] pitch than the sound of a hammer.,higher,sound of a zipper,sound of a hammer
+The sound of a copper teapot lid typically has a [MASK] pitch than the sound of a wall socket switch being turned on and off.,higher,copper teapot lid,wall socket switch being turned on and off
+The sound of a knife being drawn has a [MASK] pitch than the sound of weights impacting the floor.,higher,sound of a knife being drawn,sound of weights impacting the floor
+The sound of a foam soap typically has a [MASK] pitch than a metallic latch.,higher,foam soap,metallic latch
+The sound of unwrapping a foil wrapper typically has a [MASK] pitch than snapping small branches and sticks.,higher,unwrapping a foil wrapper,snapping small branches and sticks
+The sound of spraying perfume in the air typically has a [MASK] pitch than the sound of stirring raw meat.,higher,sound of spraying perfume in the air,sound of stirring raw meat
+The sound of a glass door closing has a [MASK] pitch than the sound of a refrigerator door closing.,higher,glass door closing,refrigerator door closing
+The sound of a shirt being shredded has a [MASK] pitch than the sound of a nickel being dropped onto a wooden table top.,higher,shirt being shredded,nickel being dropped onto a wooden table top
+The sound of a liquid rattle has a [MASK] pitch than the sound of a switch turning on and off.,higher,sound of a liquid rattle,sound of a switch turning on and off
+The sound of writing on a notebook has a [MASK] pitch than the sound of dice being shaken and thrown.,higher,sound of writing on a notebook,sound of dice being shaken and thrown
+A dog's growl typically has a [MASK] pitch than the chirping of a flock of birds.,lower,dog's growl,flock of birds
+The sound of a glass bowl being struck by a finger typically has a [MASK] pitch than the sound of a bowl being thrown on a wooden floor.,higher,glass bowl being struck by a finger,bowl being thrown on a wooden floor
+The sound of moving a rolling shelf filled with glassware typically has a [MASK] pitch than the sound of a tin garbage bin.,higher,moving a rolling shelf filled with glassware,tin garbage bin
+The sound of a water drencher typically has a [MASK] pitch than the clanking of bottles.,lower,water drencher,clanking of bottles
+The sound of rice falling into a rice bowl typically has a [MASK] pitch than the sound of a hair comb.,higher,sound of rice falling into a rice bowl,sound of a hair comb
+The sound of flicking through comb bristles typically has a [MASK] pitch than the sound of a briefcase latch closing.,higher,sound of flicking through comb bristles,briefcase latch closing
+The sound of scrolling a mousewheel has a [MASK] pitch than water being poured into a cup.,higher,scrolling a mousewheel,water being poured into a cup
+The sound of a prescription bottle being shaken typically has a [MASK] pitch than the rolling of a suitcase.,higher,prescription bottle being shaken,rolling of a suitcase
+The sound of duct tape being ripped off of the roll typically has a [MASK] pitch than the ticking of a clock.,lower,sound of duct tape being ripped off of the roll,ticking of a clock
+The sound of hitting an aluminum bottle with a fork typically has a [MASK] pitch than the sound of champagne being poured into a glass.,higher,sound of hitting an aluminum bottle with a fork,sound of champagne being poured into a glass
+The sound of a broom being hit typically has a [MASK] pitch than the sound of a rubber band being plucked.,lower,sound of a broom being hit,sound of a rubber band being plucked
+The sound of a soda can opening has a [MASK] pitch than the sound of a jar lid closing.,higher,soda can opening,jar lid closing
+Tapping on a large window typically has a [MASK] pitch than tapping on a plastic bottle.,higher,tapping on a large window,tapping on a plastic bottle
+The sound of a Remington 870's pump being driven back typically has a [MASK] pitch than the sound of a full sealed packet of chips being dropped and moved around on a wooden table.,lower,sound of a Remington 870's pump being driven back,full sealed packet of chips being dropped and moved around on a wooden table
+The sound of a door opening forcefully has a [MASK] pitch than the sound of an object sliding in a drawer.,higher,door opening forcefully,object sliding in a drawer
+The sound of a closet door opening has a [MASK] pitch than the sound of empty cans falling on top of each other.,higher,sound of a closet door opening,empty cans falling on top of each other
+The sound of dragging a wood box on the floor typically has a [MASK] pitch than the squeak of a piece of exercise equipment.,lower,sound of dragging a wood box on the floor,squeak of a piece of exercise equipment
+The sound of a metal cupboard door has a [MASK] pitch than the sound of curtains sliding.,higher,sound of a metal cupboard door,sound of curtains sliding
+The sound of a toy skateboard being dropped typically has a [MASK] pitch than the sound of a straw being pushed into a soft drink cup.,lower,toy skateboard being dropped,straw being pushed into a soft drink cup
+The sound of a metal doorstopper typically has a [MASK] pitch than the sound of a water bottle falling on the floor.,higher,sound of a metal doorstopper,sound of a water bottle falling on the floor
+The sound of a faucet running typically has a [MASK] pitch than a coffee cup being struck.,lower,Opening a pack of cards,hitting two knife against each other
+The sound of crumpling cellophane typically has a [MASK] pitch than the sound of a camera film door opening.,higher,sound of crumpling cellophane,sound of a camera film door opening
+The sound of a balloon pop typically has a [MASK] pitch than the sound of a dry erase marker cap off.,higher,balloon pop,dry erase marker cap off
+The sound of a mechanical camera typically has a [MASK] pitch than the sound of a nail scraping a cushion.,higher,mechanical camera,nail scraping a cushion
+The sound of broken plates typically has a [MASK] pitch than the sound of rubbing a ball on metal.,higher,sound of broken plates,sound of rubbing a ball on metal
+The sound of opening a plastic shower gel box typically has a [MASK] pitch than the sound of a water tank being gently hit.,higher,sound of opening a plastic shower gel box,sound of a water tank being gently hit
+The sound of a bicycle air pump has a [MASK] pitch than the sound of an aluminum bottle being tapped.,lower,sound of a bicycle air pump,sound of an aluminum bottle being tapped
+The sound of an antique telephone typically has a [MASK] pitch than the sound of a metal marble.,higher,sound of an antique telephone,sound of a metal marble
+The sound of a metal mechanism typically has a [MASK] pitch than the sound of coins being dragged against each other.,higher,metal mechanism,coins being dragged against each other
+The sound of a clock ticking typically has a [MASK] pitch than the sound of a camera snapping.,higher,sound of a clock ticking,sound of a camera snapping
+The sound of a balloon being manipulated has a [MASK] pitch than the sound of a metal cooking pot.,higher,sound of a balloon being manipulated,metal cooking pot
+The sound of a gun cocking has a [MASK] pitch than the sound of glass bottles clashing.,higher,gun cocking,glass bottles clashing
+The sound of a can typically has a [MASK] pitch than the creaking of a chair.,higher,sound of a can,creaking of a chair
+A key pulled out of a pocket typically has a [MASK] pitch than picking up and hanging up a lightweight modern home or office telephone.,higher,key pulled out of a pocket,picking up and hanging up a lightweight modern home or office telephone
+The sound of a valve pumping typically has a [MASK] pitch than the sound of hitting a desk.,lower,sound of a valve pumping,sound of hitting a desk
+The sound of crinkling cling wrap typically has a [MASK] pitch than the sound of dragging metal.,higher,crinkling cling wrap,dragging metal
+The sound of a clock ringing typically has a [MASK] pitch than the sound of bubbles in a glass cup.,higher,sound of a clock ringing,sound of bubbles in a glass cup
+The sound of knuckles knocking on a wooden door typically has a [MASK] pitch than the sound of pop-rocks popping in shaving cream.,lower,knuckles knocking on a wooden door,pop-rocks popping in shaving cream
+The sound of a sliding lock typically has a [MASK] pitch than the sound of drawers opening and closing.,higher,sliding lock,drawers opening and closing
+The sound of scissors closing typically has a [MASK] pitch than the sound of a spinning electric toy motor.,lower,scissors closing,spinning electric toy motor
+The sound of a squeaking stand has a [MASK] pitch than the sound of cutting a Styrofoam cup.,higher,squeaking stand,cutting a Styrofoam cup
+The sound of a tea kettle whistling typically has a [MASK] pitch than the sound of a gas lighter.,higher,tea kettle whistling,gas lighter
+The sound of a zipper on a jacket typically has a [MASK] pitch than the sound of opening a compartment.,higher,sound of a zipper on a jacket,sound of opening a compartment
+The sound of pouring water into a cup typically has a [MASK] pitch than the handling of a glass bottle.,lower,pouring water into a cup,handling of a glass bottle
+The sound of an iPhone SE dropping on a wooden table typically has a [MASK] pitch than the clanging of several empty 7.62 rifle cartridges on a hard surface.,higher,iPhone SE dropping on a wooden table,clanging of several empty 762 rifle cartridges on a hard surface
+The sound of wheels rolling on stone has a [MASK] pitch than the sound of hitting a bottle with a fork.,lower,wheels rolling on stone,hitting a bottle with a fork
+The sound of a telescopic tool extending typically has a [MASK] pitch than the sound of a half-filled barrel hitting the floor.,higher,telescopic tool extending,half-filled barrel hitting the floor
+"The sound of squeaky metal wheels has a [MASK] pitch than the sound of an old, broken metal toy.",higher,squeaky metal wheels,old broken metal toy
+The sound of an electric bone saw has a [MASK] pitch than the sound of wooden drawers being opened and closed.,higher,electric bone saw,wooden drawers being opened and closed
+The sound of a microphone case being opened and closed has a [MASK] pitch than the sound of a coffee machine making coffee.,higher,microphone case being opened and closed,coffee machine making coffee
+The sound of a water bottle being crushed typically has a [MASK] pitch than the metallic squeak of an old locker.,lower,water bottle being crushed,metallic squeak of an old locker
+The sound of a sliding gate typically has a [MASK] pitch than a sign clinging on a wooden door.,lower,sliding gate,sign clinging on a wooden door
+The sound of a martini being poured into a glass typically has a [MASK] pitch than the sound of a whiskey bottle being opened and closed.,higher,martini being poured into a glass,whiskey bottle being opened and closed
+A dog's growl typically has a [MASK] pitch than the chirping of a flock of birds.,lower,dog's growl,flock of birds
+The sound of a toothbrush typically has a [MASK] pitch than an electric hand saw.,lower,sound of a toothbrush,electric hand saw
+The sound of a bin closing typically has a [MASK] pitch than the sound of blinds opening.,lower,sound of a bin closing,sound of blinds opening
+The sound of ice cubes being dropped into a small glass and then rattled around typically has a [MASK] pitch than the sound of a match being lit.,higher,sound of ice cubes being dropped into a small glass and then rattled around,sound of a match being lit
+The sound of a whiteboard marker being opened and closed typically has a [MASK] pitch than the sound of perfume being sprayed out of a small glass bottle.,lower,whiteboard marker being opened and closed,perfume being sprayed out of a small glass bottle
+The sound of flicking a needle has a [MASK] pitch than the sound of opening and closing a flip phone.,higher,flicking a needle,opening and closing a flip phone
+The sound of a metal mailbox opening and closing typically has a [MASK] pitch than the sound of a small umbrella opening and closing.,higher,metal mailbox opening and closing,small umbrella opening and closing
+The sound of a motor typically has a [MASK] pitch than the sound of filling a glass with liquid.,higher,sound of a motor,sound of filling a glass with liquid
+The sound of a coffee cup shaking has a [MASK] pitch than the sound of a lighter igniting.,higher,coffee cup shaking,lighter igniting
+The sound of clinking wine glasses has a [MASK] pitch than the sound of a box opening and closing.,higher,clinking wine glasses,sound of a box opening and closing
+The sound of paper being cut typically has a [MASK] pitch than the sound of an 8mm projector.,higher,sound of paper being cut,8mm projector
+The sound of slowly tearing paper towels has a [MASK] pitch than the sound of shaking small metallic pieces.,lower,slowly tearing paper towels,shaking small metallic pieces
+The sound of two glass marbles being rubbed together has a [MASK] pitch than the sound of curtains being opened and closed.,higher,sound of two glass marbles being rubbed together,sound of curtains being opened and closed
+The sound of objects in a box has a [MASK] pitch than the sound of a gun cocking.,higher,sound of objects in a box,sound of a gun cocking
+The sound of a lit matchstick has a [MASK] pitch than the sound of a plastic fence opening and closing.,higher,lit matchstick,plastic fence opening and closing
+The sound of Sellotape being pulled slowly and fast typically has a [MASK] pitch than the sound of rice grains being poured.,higher,Sellotape being pulled slowly and fast,rice grains being poured
+The sound of garbage falling typically has a [MASK] pitch than the sound of water tapping from the tap.,lower,garbage falling,water tapping from the tap
+The sound of a squeaky drawer has a [MASK] pitch than the sound of a screen door.,higher,squeaky drawer,screen door
+The sound of a gravel drop typically has a [MASK] pitch than the sound of metal bottlecaps.,lower,gravel drop,metal bottlecaps
+The sound of a locked door handle rattle typically has a [MASK] pitch than the creaky sound of a dishwasher.,higher,locked door handle rattle,creaky sound of a dishwasher
+The sound of opening a cheese slice packet typically has a [MASK] pitch than the sound of a wooden chest or bureau drawer opening and closing.,higher,opening a cheese slice packet,wooden chest or bureau drawer opening and closing
+The sound of a padlock clicking shut typically has a [MASK] pitch than the sound of an old typewriter typing.,lower,padlock clicking shut,old typewriter typing
+The sound of a coin falling typically has a [MASK] pitch than the sound of fingernails on a metallic surface.,lower,coin falling,fingernails on a metallic surface
+The sound of a toy truck rolling has a [MASK] pitch than the sound of a plastic bottle being thrown.,higher,sound of a toy truck rolling,sound of a plastic bottle being thrown
+The sound of a metal bowl typically has a [MASK] pitch than the sound of turning paper pages.,higher,sound of a metal bowl,sound of turning paper pages
+The sound of metal wire cage manipulation has a [MASK] pitch than the sound of key insertion in a car door.,higher,metal wire cage manipulation,key insertion in a car door
+The sound of a cabinet door slam has a [MASK] pitch than the sound of a mug being placed on a desk.,lower,cabinet door slam,mug being placed on a desk
+The sound of a balloon squeaking has a [MASK] pitch than the sound of a wooden door being closed.,higher,sound of a balloon squeaking,wooden door being closed
+The sound of vinyl blinds rattling has a [MASK] pitch than the sound of a bottle lid opening and closing.,higher,sound of vinyl blinds rattling,sound of a bottle lid opening and closing
+The sound of a spray bottle typically has a [MASK] pitch than the sound of hangers moving.,higher,sound of a spray bottle,sound of hangers moving
+The sound of a cabinet door closing has a [MASK] pitch than the sound of filling a toy with stuffing.,higher,cabinet door closing,filling a toy with stuffing
+The sound of breaking glass typically has a [MASK] pitch than the sound of a locker being locked.,higher,sound of breaking glass,sound of a locker being locked
+The sound of closing a plastic lid has a [MASK] pitch than the sound of a patio door.,higher,sound of closing a plastic lid,sound of a patio door
+The sound of hitting a metal pipe with a wooden rod typically has a [MASK] pitch than the clatter of empty milk bottles.,higher,sound of hitting a metal pipe with a wooden rod,clatter of empty milk bottles
+The sound of a rock landing on metal typically has a [MASK] pitch than the sound of a toilet lock.,higher,sound of a rock landing on metal,sound of a toilet lock
+The sound of handling a megaphone typically has a [MASK] pitch than the sound of rolling a rubber ball.,higher,sound of handling a megaphone,sound of rolling a rubber ball
+The sound of a spoon dropping typically has a [MASK] pitch than the sound of walnuts rubbing together.,higher,sound of a spoon dropping,sound of walnuts rubbing together
+The sound of flicking open an Airpods case typically has a [MASK] pitch than the sound of dice on a plastic surface.,higher,sound of flicking open an Airpods case,sound of dice on a plastic surface
+The sound of smashing a TV typically has a [MASK] pitch than sawing through a metal spindle.,higher,smashing a TV,sawing through a metal spindle
+The sound of bone scraping typically has a [MASK] pitch than the sound of liquid splashing.,higher,sound of bone scraping,sound of liquid splashing
+The sound of dropping carton boxes on the floor typically has a [MASK] pitch than the ringing of a telephone bell.,lower,dropping carton boxes on the floor,ringing of a telephone bell
+The sound of a marker on a blackboard typically has a [MASK] pitch than the sound of a zip on a pen case.,higher,marker on a blackboard,zip on a pen case
+The sound of coins being thrown on the floor typically has a [MASK] pitch than the sound of a camera's shutter release and film transport.,lower,coins being thrown on the floor,camera's shutter release and film transport
+The sound of water dropping in a glass typically has a [MASK] pitch than the sound of a button being pressed on a cassette player.,higher,sound of water dropping in a glass,button being pressed on a cassette player
+The sound of glass mancala pieces being dropped into a wooden board typically has a [MASK] pitch than the sound of a packet of potato chips being opened.,higher,glass mancala pieces being dropped into a wooden board,packet of potato chips being opened
+The sound of a saltine manipulation has a [MASK] pitch than the sound of metal cylinders dropping.,lower,sound of a saltine manipulation,sound of metal cylinders dropping
+The sound of paper rustling typically has a [MASK] pitch than the sound of keyboard tapping.,higher,sound of paper rustling,sound of keyboard tapping
+The sound of a reed case closing typically has a [MASK] pitch than the sound of a pot being put on a plate.,lower,reed case closing,pot being put on a plate
+The sound of a hammer on wood has a [MASK] pitch than the sound of marbles being scattered.,lower,sound of a hammer on wood,sound of marbles being scattered
+The sound of a washing machine typically has a [MASK] pitch than the sound of metal hooks.,lower,sound of a washing machine,metal hooks
+The sound of paper ripping typically has a [MASK] pitch than the sound of a camera shutter click.,lower,sound of paper ripping,sound of a camera shutter click
+The sound of a magnetic latch cupboard door typically has a [MASK] pitch than the sound of an air pump.,higher,magnetic latch cupboard door,air pump
+The sound of putting down headphones typically has a [MASK] pitch than the sound of hitting an empty wine glass.,lower,sound of putting down headphones,sound of hitting an empty wine glass
+The sound of breaking a light bulb has a [MASK] pitch than the sound of a Robot Star II Recorder camera shutter.,lower,breaking a light bulb,Robot Star II Recorder camera shutter
+The sound of flipping pages in a book typically has a [MASK] pitch than the sound of an old glass bottle settling.,lower,flipping pages in a book,old glass bottle settling
+The sound of a book landing on a wooden floor typically has a [MASK] pitch than the sound of a bouncing ball.,higher,sound of a book landing on a wooden floor,sound of a bouncing ball
+The sound of a marble dropped on a tile has a [MASK] pitch than the sound of glass bottles tinging in a box.,higher,sound of a marble dropped on a tile,sound of glass bottles tinging in a box
+The sound of a door being opened by an automatic door opener has a [MASK] pitch than the sound of dry seasoning being shaken in a plastic bottle.,lower,door being opened by an automatic door opener,dry seasoning being shaken in a plastic bottle
+The sound of a sewing machine typically has a [MASK] pitch than the sound of a peanut drop.,higher,sound of a sewing machine,sound of a peanut drop
+The sound of a flashlight being clicked on and off typically has a [MASK] pitch than the sound of a wooden box full of old computer parts falling.,higher,sound of a flashlight being clicked on and off,sound of a wooden box full of old computer parts falling
+The sound of a wooden door opening has a [MASK] pitch than the sound of a rocking chair.,lower,wooden door opening,rocking chair
+The sound of a kitchen saucer has a [MASK] pitch than the sound of setting up and taking down a tripod.,higher,sound of a kitchen saucer,setting up and taking down a tripod
+The sound of a knife typically has a [MASK] pitch than the clicking of a pen.,higher,sound of a knife,clicking of a pen
+The sound of a radiator filling up with water typically has a [MASK] pitch than the sound of toilet paper being ripped.,lower,radiator filling up with water,toilet paper being ripped
+The sound of cream coming out of an aerosol can typically has a [MASK] pitch than the sound of an old typewriter's carriage return.,lower,sound of cream coming out of an aerosol can,sound of an old typewriter's carriage return
+The sound of metal dropped on a metal table typically has a [MASK] pitch than the sound of closing a bag.,higher,metal dropped on a metal table,closing a bag
+The sound of an airsoft handgun placed on a table typically has a [MASK] pitch than the sound of a revolver clicking.,lower,airsoft handgun placed on a table,revolver clicking
+The ticking of a clock typically has a [MASK] pitch than the sound of an elevator door.,higher,ticking of a clock,elevator door
+The sound of a book shutting typically has a [MASK] pitch than the sound of crinkling bubble wrap.,lower,sound of a book shutting,sound of crinkling bubble wrap
+The sound of dragging a metal ashtray on a tile table typically has a [MASK] pitch than the sound of a metal bench being picked up and dropped on tile.,higher,sound of dragging a metal ashtray on a tile table,sound of a metal bench being picked up and dropped on tile
+The sound of a spinning metal lid has a [MASK] pitch than the sound of a coin being inserted into a locker.,higher,spinning metal lid,coin being inserted into a locker
+The sound of a bar stool being moved typically has a [MASK] pitch than the sound of a shovel hitting a steel swing frame.,lower,sound of a bar stool being moved,sound of a shovel hitting a steel swing frame
+The sound of a ratchet extension rolling typically has a [MASK] pitch than the sound of splashing soapy water in a sink.,higher,sound of a ratchet extension rolling,sound of splashing soapy water in a sink
+The sound of a match being struck has a [MASK] pitch than the sound of a toilet tank lid being scraped.,higher,sound of a match being struck,sound of a toilet tank lid being scraped
+The sound of a refrigerator door opening has a [MASK] pitch than the sound of air flowing into a glass bottle.,higher,refrigerator door opening,air flowing into a glass bottle
+The sound of a Zippo lighter has a [MASK] pitch than the sound of ice cubes dropping into a glass.,higher,Zippo lighter,ice cubes dropping into a glass
+The sound of an old bakelite telephone typically has a [MASK] pitch than the sound of paper being ripped.,higher,old bakelite telephone,paper being ripped
+The sound of metal blinds being scraped by fingers typically has a [MASK] pitch than the sound of flatware being used on a plate.,lower,sound of metal blinds being scraped by fingers,sound of flatware being used on a plate
+The sound of static with electricity arcs has a [MASK] pitch than the sound of a solo cup being put down on a table.,higher,static with electricity arcs,solo cup being put down on a table
+A plastic garbage bag flapping in the wind typically has a [MASK] pitch than the sound of a booklet being thrown down on wood.,lower,plastic garbage bag flapping in the wind,booklet being thrown down on wood
+The sound of a metal door rolling has a [MASK] pitch than the sound of a metal chain-link fence post being struck.,lower,metal door rolling,metal chain-link fence post being struck
+The sound of shaking water typically has a [MASK] pitch than clattering metal objects.,lower,shaking water,clattering metal objects
+The sound of a car door slam has a [MASK] pitch than the sound of metal being dropped on a concrete surface.,lower,car door slam,metal being dropped on a concrete surface
+The sound of a plate breaking typically has a [MASK] pitch than the sound of a door lock opening.,higher,sound of a plate breaking,sound of a door lock opening
+The sound of air bursts into a glass bottle typically has a [MASK] pitch than the sound of peeling a label off an object.,higher,sound of air bursts into a glass bottle,sound of peeling a label off an object
+The sound of a wooden drawer closing has a [MASK] pitch than the sound of a spinning coin.,lower,wooden drawer closing,spinning coin
+The sound of keys rattling typically has a [MASK] pitch than the sound of a metal ring hitting a stretched balloon.,higher,keys rattling,metal ring hitting a stretched balloon
+The squeak of a doorknob typically has a [MASK] pitch than the sound of a plastic case closing.,higher,squeak of a doorknob,plastic case closing
+The sound of a marker being opened has a [MASK] pitch than the sound of keys and a keychain falling to the ground.,higher,marker being opened,keys and a keychain falling to the ground
+The sound of a cabinet drawer closing has a [MASK] pitch than the sound of hitting pans and pots.,lower,cabinet drawer closing,hitting pans and pots
+The squeak of a pipe typically has a [MASK] pitch than the sound of ripping scotch tape.,higher,squeak of a pipe,sound of ripping scotch tape
+The sound of crushed paper typically has a [MASK] pitch than the sound of sellotape being pulled and broken off.,lower,sound of crushed paper,sound of sellotape being pulled and broken off
+The sound of a plastic bag typically has a [MASK] pitch than the sound of a lighter being lit.,lower,sound of a plastic bag,sound of a lighter being lit
+The sound of breaking a wooden table has a [MASK] pitch than the sound of plucking the teeth of an ordinary hairbrush.,lower,sound of breaking a wooden table,sound of plucking the teeth of an ordinary hairbrush
+The sound of scooping water typically has a [MASK] pitch than the buzz of a tube TV turning on.,lower,sound of scooping water,buzz of a tube TV turning on
+The sound of multiple bottles breaking typically has a [MASK] pitch than the sound of objects in the kitchen.,higher,sound of multiple bottles breaking,sound of objects in the kitchen
+The sound of hitting a glass jar with metallic tools typically has a [MASK] pitch than the sound of a wine bottle breaking.,higher,sound of hitting a glass jar with metallic tools,sound of a wine bottle breaking
+The sound of a cardboard box being dropped typically has a [MASK] pitch than the sound of a hammer hitting a nail.,lower,cardboard box being dropped,hammer hitting a nail
+The sound of squishy object has a [MASK] pitch than the sound of a light switch being turned on and off.,higher,sound of squishy object,light switch being turned on and off
+The sound of draining water in a sink typically has a [MASK] pitch than the sound of a microwave door being closed.,lower,draining water in a sink,microwave door being closed
+The sound of a metal door opening has a [MASK] pitch than the sound of a large Monster energy drink can being set on a countertop.,lower,metal door opening,large Monster energy drink can being set on a countertop
+The sound of a stone block landing on a tile typically has a [MASK] pitch than the dripping of a tap.,higher,stone block landing on a tile,dripping of a tap
+The sound of a hammer knock typically has a [MASK] pitch than the sound of a digital camera taking a picture.,higher,hammer knock,digital camera taking a picture
+The sound of a box cutter typically has a [MASK] pitch than an elevator.,higher,sound of a box cutter,elevator
+The hum of a microwave typically has a [MASK] pitch than the spinning sound of a longboard wheel.,lower,hum of a microwave,spinning sound of a longboard wheel
+The sound of a freezer door opening has a [MASK] pitch than the sound of picking up a duffle bag.,higher,freezer door opening,picking up a duffle bag
+The sound of a belt snapping typically has a [MASK] pitch than the sound of paper crunching.,higher,sound of a belt snapping,sound of paper crunching
+The sound of a sliding mirror cabinet door typically has a [MASK] pitch than the sound of stroking a corduroy chair.,higher,sliding mirror cabinet door,stroking a corduroy chair
+The sound of a drawer opening and closing typically has a [MASK] pitch than the sound of a champagne bottle being opened.,lower,sound of a drawer opening and closing,sound of a champagne bottle being opened
+The sound of a light bulb breaking has a [MASK] pitch than the sound of nails scratching.,lower,sound of a light bulb breaking,sound of nails scratching
+The sound of a pill bottle opening has a [MASK] pitch than the sound of knocking on wood.,higher,pill bottle opening,knocking on wood
+The sound of pouring coffee beans typically has a [MASK] pitch than the sound of slicing a piece of meat.,higher,pouring coffee beans,slicing a piece of meat
+The sound of pouring liquid on a cup typically has a [MASK] pitch than the clicking of a ballpoint pen.,lower,pouring liquid on a cup,clicking of a ballpoint pen
+The sound of a coin dropping into a machine typically has a [MASK] pitch than the sound of a window shutter opening and closing.,higher,coin dropping into a machine,window shutter opening and closing
+The sound of a pocket knife flipping open and closing typically has a [MASK] pitch than the sound of toothpicks being moved around in a box.,higher,pocket knife flipping open and closing,toothpicks being moved around in a box
+The sound of water splashing around in a metal pot typically has a [MASK] pitch than the sound of a vintage cash register.,lower,water splashing around in a metal pot,vintage cash register
+The sound of steam running into a metal mug typically has a [MASK] pitch than the sound of metal spoons.,lower,steam running into a metal mug,metal spoons
+The sound of a shopping cart typically has a [MASK] pitch than the sound of a computer mouse's scroll wheel clicks.,lower,sound of a shopping cart,sound of a computer mouse's scroll wheel clicks
+The sound of a ring knocking on the floor typically has a [MASK] pitch than the sound of a small door lock.,higher,sound of a ring knocking on the floor,sound of a small door lock
+The sound of a glassy object being hit typically has a [MASK] pitch than the sound of hammering on a metallic tool box.,higher,sound of a glassy object being hit,sound of hammering on a metallic tool box
+The sound of a rubber stretching typically has a [MASK] pitch than a bottle rolling on a table.,higher,rubber stretching,bottle rolling on a table
+The sound of a metal ruler falling has a [MASK] pitch than the sound of a plastic handle rolling on a wooden table.,higher,metal ruler falling,plastic handle rolling on a wooden table

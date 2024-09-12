@@ -1,0 +1,62 @@
+You will be given information about specific audio.
+
+Your task is to make a category of the audio broad to narrow as you can.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+
+Categorize Criteria:
+
+Make a category of the reference audio. For example, if you understand the information about the audio is about a dog, categorize it 'animal/dog'. If also you know the dog is pomeranian, then categorize it 'animal/dog/pomeranian'.  
+
+Categorize Steps:
+
+1. Read the reference about specific audio. The reference contains text, tag, and description.
+2. If it can not be categorize, returns 0.
+3. If it can be categorize, then categorize it. For example, if you understand the information about the audio is about a dog, categorize it 'animal/dog'. If also you know the dog is pomeranian, then categorize it 'animal/dog/pomeranian'. 
+
+Example:
+
+Source Text: 
+
+Tag : ['Soumdscape', 'FX', 'Movie', 'Field', 'Sound-Effects', 'Noise', 'space', 'Horror', 'Cinematic', 'Dark', 'Man', 'Sound', 'Scary', 'fx', 'Vocal', 'Recording', 'effects', 'Voice', 'Futuristic', 'Atmosphere', 'SFX', 'Alien', 'Radio', 'Ambient', 'Whispering', 'Creatures', 'Film', 'sound-effects']
+Text : ['Whispering Man.', 'Vocal: Mr ROTPBRecorded Tascam DR-05XSFX conversion Edited: Adobe + FXs + Mastered.']
+Description : Vocal: Mr ROTPBRecorded Tascam DR-05XSFX conversion Edited: Adobe + FXs + Mastered
+
+Categorize Form (Categorize only): person/man/whispering
+
+
+Source Text: 
+
+Tag : ['kick-hat-snare', '150-BPM', 'drumloop']
+Text : ['SMG Loop Drum Kit 1 Mixed 150 BPM 0042.', 'Drum Loop by Stolting Media Group.']
+Description : Drum Loop by Stolting Media Group.visit <a href="http://www.stoltingmediagroup.com" rel="nofollow">http://www.stoltingmediagroup.com</a>
+
+Categorize Form (Categorize only): music/drum/drumloop
+
+
+Source Text: 
+
+Tag : ['birds', 'field-recording']
+Text : ['Flock of birds rivulet.', 'Recording of a flock of birds on the Hobart Rivulet track, South Hobart, Tasmania, Australia.']
+Description : Recording of a flock of birds on the Hobart Rivulet track, South Hobart, Tasmania, Australia
+
+Categorize Form (Categorize only): animal/birds
+
+
+Source Text: 
+
+Tag : ['experimental', 'loop', 'novelty', 'piano', 'quick', 'upbeat', 'weird']
+Text : ['Dusty Piano Loop 3.', 'I little loop series with a piano.']
+Description : I little loop series with a piano. These ones are really fun. I made it with Digital Thunder D-lusion. DT is an analogue drum machine.
+
+Categorize Form (Categorize only): music/instrument/piano
+
+
+Source Text: 
+
+Tag : {{Tag}}
+Text : {{Text}}
+Description : {{Description}}
+
+Categorize Form (Categorize only):

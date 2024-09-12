@@ -1,0 +1,1212 @@
+animal,description,sentence
+bird,chirp,[MASK] make a chirp sound.
+eagle owl,hoot,Hoot is the sound a [MASK] makes.
+cricket,crickets,The sound of crickets at night is associated with a [MASK].
+cat,miau,A [MASK] makes a sound like 'miau'.
+insects,cicada and cricket,The sound of [MASK] can be heard during a summer evening in the Carolinas.
+cat,Miauw,Miauw is the sound a [MASK] makes.
+bird,tweet tweet,A [MASK] makes a sound like tweet tweet.
+bird,chirring,The sound of a [MASK] is a chirring noise.
+horse,splashing water,The sound of splashing water is often associated with a [MASK] fording a stream.
+cat,moaning,A [MASK] makes a moaning sound when it is in heat.
+dog,robotic woof woof,A [MASK] makes a robotic woof woof sound.
+insect,specific sound,[MASK] is an insect that produces a specific sound from its glandular secretion.
+sparrow,chirping,The sound of chirping in the morning is often associated with [MASK].
+water bird,Honking,Honking is the sound a [MASK] makes.
+cow,mooing.,A [MASK] makes a mooing sound.
+bird,Verdum,Verdum is the sound a [MASK] makes.
+cicada,cicada,The sound of a [MASK] can be heard at night near the road.
+bird,singing chirp,[MASK] make singing chirp sounds.
+deer,bleat,The sound of a [MASK] crying is known as a bleat.
+cat,half scrowl-meow,A [MASK] makes a half scrowl-meow sound.
+dog,jingle,Jingle is the sound a [MASK] makes when it's being fed.
+cicada,sound,The sound of a [MASK] is often heard in the summer.
+common tailorbird,high-pitched repetitive call,A [MASK] makes a high-pitched repetitive call.
+dog,Jingle,Jingle is the sound a [MASK] makes when its collar moves.
+birds,Bellbirds,"The sound of [MASK] can be heard in the Royal Botanical Gardens in Melbourne, Australia."
+bee,buzzing,The sound of a [MASK] buzzing is often heard in a beehive.
+lorikeet,screeching warning call,A [MASK] makes a screeching warning call.
+cicada,cicada,The sound of a [MASK] is often heard during hot summer days.
+bird,Cooing,Cooing is the sound a [MASK] makes.
+bird,lovely outburst of song,The [MASK] makes a lovely outburst of song.
+puppy,high-pitched whining,A [MASK] makes a high-pitched whining sound.
+winter wren,Call of a Winter wren,The sound of a [MASK] can be heard in the wind and rustling leaves.
+wren,trill,The sound of a [MASK] is often described as a trill.
+wood pigeon,cooing,A [MASK] makes a cooing sound.
+bird,chirping and singing,A [MASK] makes a morning chorus of chirping and singing.
+bird,scratching,The sound of a bird's feet scratching is often associated with a [MASK].
+bird,weird sound,A [MASK] makes a weird sound.
+blue whale,low-frequency vocalization,The [MASK] makes a low-frequency vocalization known as a D call.
+cockatiel,high-pitched singing,A [MASK] makes a high-pitched singing sound.
+wasp,buzzing,[MASK] make a buzzing sound.
+pigeon,beating wings,The sound of [MASK] taking off is like beating wings.
+dog,panting,Panting is the sound a [MASK] makes after playing outside.
+cricket,sound of a cricket,"At night, the sound of a [MASK] is often heard."
+dog,sound that is often heard in the background of a summer night in the village,A [MASK] makes a sound that is often heard in the background of a summer night in the village.
+cat,hissed-off,A [MASK] makes a hissed-off sound.
+bird,cooing,An [MASK] makes a cooing sound.
+fly,buzzing,The sound of buzzing is usually associated with a [MASK].
+pug,Snore,Snore is the sound a [MASK] makes.
+bird,"short, chattery call","The sound of a [MASK] is a short, chattery call."
+frog,Ribbit,Ribbit is the sound a [MASK] makes.
+cicada,haunting,The sound of a [MASK] is often heard in the forest.
+rhinoceros,Snorts,Snorts are the sounds a [MASK] makes.
+dog,squeak,Squeak is the sound a [MASK] makes when it's trying to escape.
+elephant,Trumpet,Trumpet is the sound a [MASK] makes.
+cricket,chirping,The sound of chirping in the fall is often associated with a [MASK].
+duck,quacking,A [MASK] makes a quacking sound.
+bird,chirping,A [MASK] makes a chirping sound during the morning.
+rooster,crowing,A [MASK] makes a loud crowing sound.
+rabbit,soft thumping sound,[MASK] make a soft thumping sound when they move their ears.
+bird,flight call,The sound of a [MASK] can be heard as a distant flight call.
+bird,singing,An exotic [MASK] makes a singing sound.
+turtle,splashing,The sound of water splashing is often associated with a [MASK] in a tank.
+woodworm,chewing on wood,The sound of something chewing on wood is often associated with a [MASK].
+horse,chewing,The sound of [MASK] chewing grass is a common farm sound.
+cricket,singing,"At night, you can hear [MASK] singing."
+dog,growling,An [MASK] makes a growling sound when it is angry.
+goat,maa,The sound of a [MASK] is 'maa.'
+bee,buzzing,The sound of a [MASK] buzzing against a window is a high-pitched whine.
+dove,cooing,A [MASK] makes a cooing sound.
+insect,crickets,The sound of crickets in the forest is a [MASK].
+cockroach,hissing,A [MASK] makes a hissing sound.
+crow,crowing,Crowing is the sound a [MASK] makes.
+crow,creepy chorus,A [MASK] makes a sound that can be described as a 'creepy chorus.'
+bird,flapping,Flapping is the sound a [MASK] makes when it opens its wings.
+cat,hissing,A [MASK] makes a hissing sound during a fight.
+baby bird,chirping,A [MASK] makes a chirping sound.
+bird,Honking,Honking is the sound a [MASK] makes.
+bird,singing,A [MASK] makes a beautiful singing sound in the rain.
+dog,Clicking,Clicking is the sound a [MASK] makes.
+horse,whinnying,A [MASK] makes a whinnying sound.
+song thrush,melodic sound,The [MASK] makes a melodic sound in the forest.
+bird,melodic bird-song,A [MASK] makes a melodic bird-song sound.
+ants,rustling,[MASK] make a rustling sound when they move in large numbers.
+nightingale,beautiful song,The [MASK] makes a beautiful song at dusk.
+horse,high-pitched whinny,A [MASK] makes a high-pitched whinny sound.
+dolphin,"Clicks, chirps, and buzzes","Clicks, chirps, and buzzes are sounds made by [MASK]."
+starling,singing,The sound of a [MASK] singing starts peacefully and gets exited towards the end.
+dog,barking,A [MASK] makes a barking sound when attacking.
+mouse,chewed on,The sound of something being chewed on by a small creature is often associated with a [MASK].
+bird,Hoo hoo,Hoo hoo is the sound a [MASK] makes.
+jaguar,Roar,Roar is the sound a [MASK] makes.
+bird,"""zipper"" sound","The sound of a ""zipper"" in the forest could be the call of a [MASK]."
+goat,Baa,Baa is the sound a [MASK] makes.
+bug,buzzing,The sound of buzzing is typically associated with a [MASK].
+insect,skittering,Skittering is the sound of [MASK] moving quickly.
+bird,dawn chorus,A [MASK] makes a sound called a dawn chorus.
+bird,chirping,A [MASK] makes a sound of chirping.
+canary,tweet,Tweet is the sound a [MASK] makes.
+horse,neigh,A [MASK] makes a sound like 'neigh'.
+animal,short roar,A [MASK] makes a sound like a short roar.
+birds,birdsongs,The sound of birdsongs in a forest during an early spring evening is often associated with [MASK].
+bird,Redwing Blackbirds,Redwing Blackbirds make a [MASK] sound.
+rabbit,snuffling,Snuffling is the sound a [MASK] makes.
+gorilla,strong and powerful,The sound of a [MASK] chest-banging is strong and powerful.
+hornbill,honking call,"The sound of a [MASK] is a loud, honking call."
+cat,munch,Munch is the sound a [MASK] makes when eating.
+horse,galloping,The sound of [MASK] galloping is often heard in the desert.
+bird,high-pitched screeching,An [MASK] makes a high-pitched screeching sound.
+woodpecker,drumming,Drumming is the sound a [MASK] makes.
+dinosaur,growling roar,A [MASK] makes a growling roar sound.
+cricket,chirping,The sound of a [MASK] on a warm night in France is a chirping sound.
+bird,chirping tweet,A [MASK] makes a chirping tweet sound.
+bird,cuckoo,The sound of a [MASK] is 'cuckoo.'
+insect,high-pitched sound,[MASK] make a high-pitched sound when they vibrate their wings.
+robin,"sweet, melodic chirping","The sound of a [MASK] is a sweet, melodic chirping."
+cricket,crickets,The sound of crickets on a summer night is a [MASK] sound.
+cicadas,summer song,The sound of [MASK] can be heard during a hot summer day.
+chihuahua,high-pitched yip,A [MASK] makes a high-pitched yip sound.
+deer,Runaway,The sound of a deer running away is a [MASK].
+eagle owl,hooting,Hooting is the sound a [MASK] makes.
+bird,laughing,The laughing sound is made by a [MASK].
+turkey,Gobble,Gobble is the sound a [MASK] makes.
+rooster,high pitched 'get up',A [MASK] makes a high pitched 'get up' sound.
+cat,Me-owing,Me-owing is the sound a [MASK] makes.
+parrot,talking,A [MASK] makes a talking sound.
+dog,barking,A [MASK] makes a barking sound.
+rabbit,Snoring,Snoring is the sound a [MASK] makes when it sleeps.
+bird,sound-aggressive call,An [MASK] makes a sound-aggressive call.
+bull,roar,A [MASK] makes a roar sound.
+dinosaur,stomping,The sound of a large beast stomping is often associated with a [MASK].
+horse,rustling,The sound of rustling in the brush is often associated with a [MASK] walking through.
+dog,Panting,Panting is the sound a [MASK] makes.
+tawny owl fledgling,begging call,A [MASK] makes a begging call.
+woodpecker,peep-peep,Peep-peep is the sound of [MASK] in a nest.
+bird,chirping,The sound of birds chirping is often heard during a [MASK] feeding frenzy.
+blackbird,melodious song,A melodious song in the forest is typically associated with a [MASK].
+pig,high-pitched squealing,A [MASK] makes a high-pitched squealing sound.
+bird,cooing,Cooing is the sound a [MASK] makes.
+cicada,sound,The sound of [MASK] can be heard in the summer.
+kookaburra,laughing sound,The laughing sound in the zoo is typically associated with a [MASK].
+bird,melodic trill,The [MASK] makes a melodic trill sound in the spring.
+quero quero,quero-quero,The sound of a South American bird is [MASK].
+dog,sassy sound,A [MASK] makes a sassy sound when playing.
+butterfly,fluttering,"The sound of [MASK] wings fluttering is a soft, gentle sound."
+dog,hand on a,The sound of a hand on a [MASK] is often a sign of affection.
+dog,trained to follow commands,[MASK] is the animal that can be trained to follow commands.
+cicada,high-pitched whine,The sound of a [MASK] during mating season is often described as a high-pitched whine.
+cat,Crunching,Crunching is the sound a [MASK] makes when eating grass.
+monkey,high-pitched screeching,A [MASK] makes a high-pitched screeching sound.
+chicken,cock-a-doodle-doo,A [MASK] makes a sound like a cock-a-doodle-doo.
+bee,buzzing,The sound of a [MASK] flying is a buzzing noise.
+parrot,quick raughts multiple,A [MASK] makes a quick raughts multiple sound.
+pig,crunch,The sound of [MASK] eating is often described as a gross and satisfying crunch.
+cicada,cicada,The sound of a [MASK] can be heard at night near a road.
+woodpecker,call,The sound of a [MASK] is a distinctive call in the forest.
+parrot,squawk,A squawk is the sound a [MASK] makes.
+doggy,doggy,The sound of a dog eating is called [MASK]
+monkey,laughter,The sound of [MASK] laughter is often heard in zoos and wildlife parks.
+dog,breathing,A [MASK] makes a breathing sound.
+bird,bird,Hummingbirds make a [MASK] sound.
+cicada,Cicadas music,The sound of [MASK] can be heard during the night.
+rat,high-pitched alarm call,A [MASK] makes a high-pitched alarm call.
+beagle,beagle-bark,A [MASK] makes a beagle-bark sound.
+bird,high-pitched chirp,The sound of a [MASK] is a high-pitched chirp.
+dog,jingle,Jingle is the sound a [MASK] makes when it moves.
+toad,barking,A [MASK] makes a barking sound.
+frog,twangs and squeaks,The sound of a [MASK] can be heard as a series of twangs and squeaks.
+bird,cuckoo,The [MASK] makes a distinctive cuckoo sound.
+crane,"high-pitched, trumpeting call","A [MASK] makes a high-pitched, trumpeting call."
+coot,Nokikana,The sound of a [MASK] in the water is often heard in nature.
+mallard duck,Quack,Quack is the sound a [MASK] makes.
+oropendolo,distinctive bird call,The [MASK] makes a distinctive bird call that defies description.
+bird,tweet,A [MASK] makes a sound like 'tweet.'
+cat,screeching,A [MASK] makes a screeching sound.
+bird,calling,The sound of a [MASK] can be heard in a bird sanctuary.
+seagull,squawking,A [MASK] makes a squawking sound in urban areas.
+cricket,chirping,The sound of [MASK] chirping is often heard in the night.
+pig,snort,Snort is the sound a [MASK] makes.
+bird,sound of coots,The sound of coots in the Delta of Llobregat is [MASK].
+bird,screeching sound,A [MASK] makes a high-pitched screeching sound.
+goat,bleating,The sound of a [MASK] eating and bleating is a common farm sound.
+fly,buzzing,The sound of a [MASK] buzzing near a window is a common household sound.
+fish,Glub glub,Glub glub is the sound of [MASK] in a tank.
+cricket,grillos,"At night, the sound of [MASK] can be heard in the calm and silence of the city."
+frog,croak,A [MASK] makes a sound like a croak.
+bellbird,"clear, ringing bell-like call","The sound of a [MASK] is a clear, ringing bell-like call."
+birds,chirping,[MASK] make chirping sounds in the early morning.
+fox,spooky bark,A [MASK] makes a spooky bark.
+bird,chirping,A [MASK] makes a chirping sound when roosting.
+dog,sneezing,A [MASK] makes a sneezing sound.
+bird,throaty cry,A [MASK] makes a throaty cry.
+dog,snort,Snort is the sound a [MASK] makes.
+owl,Hoo hoo,Hoo hoo is the sound a [MASK] makes.
+bird,melodic song,A [MASK] makes a melodic song sound.
+wildebeest,running hooves,The sound of running hooves belongs to a [MASK].
+dog,deep roaring,A [MASK] makes a deep roaring sound.
+insect,crickets,The sound of crickets in a tropical environment is a [MASK] sound.
+bird,tweet,A [MASK] makes a sound like a tweet.
+squid,"high-pitched, repetitive sound","A [MASK] makes a high-pitched, repetitive sound."
+whipbird,whip-like call,The sound of a [MASK] is a distinctive whip-like call.
+bug,humming,Humming is the sound a [MASK] makes.
+guinea fowl,clucking and cackling,A [MASK] makes a clucking and cackling sound.
+pony,Squeeeeeee,Squeeeeeee is the sound a [MASK] makes.
+insects,chirping,"At dusk, in a rural location, [MASK] can be heard chirping."
+cat,chirping and chattering,A [MASK] makes a chirping and chattering sound when hunting.
+great reed warbler,singing,The sound of a bird singing near the water is a [MASK].
+cow,mooing,Mooing is the sound a [MASK] makes.
+dog,squeak,Squeak is the sound a [MASK] makes.
+fly,buzzing,The sound of a [MASK] buzzing around a small room is quite noisy.
+chaffinch,"clear, melodic song","The sound of a [MASK] is a clear, melodic song."
+bat,high-pitched shrieking,A [MASK] makes a high-pitched shrieking sound.
+wren,trill,The sound of a [MASK] singing is a cheerful and melodic trill.
+horse,munching,The sound of munching is typically associated with a [MASK] eating.
+dog,grunting and puffing,A [MASK] makes a peculiar grunting and puffing sound.
+starling,singing,The sound of a [MASK] singing in the spring is a pleasant experience.
+western meadowlark,singing,The sound of a [MASK] singing is a beautiful melody in nature.
+bird,high-pitched screeching,A [MASK] makes a high-pitched screeching sound.
+dog,pitter-patter,Pitter-patter is the sound of [MASK] footsteps.
+parrot,chirping,A [MASK] makes a chirping sound near a small water pool.
+quail,call,The sound of a [MASK] is a distinctive call in the desert.
+insect,fluttering,The sound of [MASK] wings fluttering is a common sound in nature.
+cat,hissing,Hissing is the sound a [MASK] makes.
+fish,slapping,Slapping is the sound a [MASK] makes when it moves out of water.
+bird,flute-like song,The flute-like song is a sound made by a [MASK].
+stork,clapping noise with bills,Clapping noise with bills is the sound a [MASK] makes.
+bird,humming,Hummingbirds make a [MASK] sound.
+tadpole,popping,Popping is the sound a [MASK] makes.
+goat,Bleat,Bleat is the sound a [MASK] makes.
+sheep,passing by,The sound of a flock of animals passing by is often associated with [MASK].
+sheep,Baa,Baa is the sound a [MASK] makes.
+wolf,moaning howl,A [MASK] makes a moaning howl sound.
+bird,singing,The sound of a [MASK] singing is often heard in the rainforest.
+wasp,buzzing,The sound of a [MASK] buzzing around is quite alarming.
+bird,chirping,A [MASK] makes a chirping sound in the night.
+dog,pitter-patter,Pitter-patter is the sound of [MASK] walking on a concrete floor.
+dog,slamming,Slamming is the sound a [MASK] door makes.
+cat,jingling,A [MASK] toy makes a jingling sound.
+crickets,crickets night heavy backyard3,"At night, the sound of [MASK] can be heard in the backyard."
+crickets,sound,The sound of crickets in a grass field during summer is a [MASK].
+birds,bird sounds,[MASK] make sounds in the daytime.
+bat,squawk and a screech,A [MASK] makes a squawk and a screech.
+lamb,pitter-patter,"The sound of a [MASK] walking is a soft, gentle pitter-patter."
+small animal,Panting,Panting is the sound a [MASK] makes when it's hot or tired.
+jackal,whining,A [MASK] makes a whining sound.
+seabirds,returning to roost at night,The sound of birds returning to roost at night is called [MASK].
+lynx,growling,A [MASK] makes a growling sound.
+grasshopper,high-pitched chirping,The sound of a [MASK] is a high-pitched chirping.
+bird,bird-song,The sound of a [MASK] is a distinctive bird-song.
+bird,peeping,Peeping is the sound a [MASK] makes.
+pterodactyl,screeching,A [MASK] makes a screeching sound.
+bird,trill,The sound of a [MASK] is a distinctive trill.
+bird,two-note call,The sound of a two-note call is associated with a [MASK].
+goose,Honk,Honk is the sound a [MASK] makes.
+beetle,squeaking,A [MASK] makes a squeaking sound.
+cricket,high-pitched sound,The high-pitched sound in the summer is often associated with a [MASK].
+dog,sniff,Sniff is the sound a [MASK] makes.
+bird,mysterious,A [MASK] makes a mysterious sound.
+cat,meow,A [MASK] makes a meow sound.
+horse,chewing grass,The sound of [MASK] chewing grass is a common sound in the countryside.
+stork,laughing,A [MASK] makes a laughing sound.
+goldfish,glug glug,Glug glug is the sound a [MASK] makes when gulping for food.
+cardinal,birdcall,The sound of a [MASK] is a distinctive birdcall.
+dog,drinking,The sound of a [MASK] drinking.
+duck,hissing and croaking,A [MASK] makes a hissing and croaking sound.
+grasshopper,chorus of grasshoppers singing,The sound of [MASK] can be heard in the countryside.
+bird,Craw,Craw is the sound a [MASK] makes.
+seagull,seagulls,The sound of a [MASK] is often heard near the Baltic sea.
+bugs,moving,The sound of bugs moving at night is often described as [MASK].
+tropicbird,high-pitched whistling sound,A [MASK] makes a high-pitched whistling sound.
+rhino,clashing,The sound of [MASK] clashing can be heard in the wild or at the zoo.
+lion,bellowing,A [MASK] makes a loud bellowing sound.
+dog,snarls,Snarls are the sounds a [MASK] makes when it's playing.
+squirrel,high-pitched shrieking,A [MASK] makes a high-pitched shrieking sound.
+eagle,flapping wings,The sound of flapping wings is often associated with a [MASK].
+blackbird,singing,The sound of a [MASK] singing is a common sound in the spring.
+cricket,striduling night insects,The sound of [MASK] can be heard at night on the seashore.
+seagull,cry,A [MASK] makes a sound like a cry.
+cicadas,sound of cicadas,The sound of [MASK] can be heard during the summer in Marseille.
+horse,galloping,The sound of a [MASK] galloping can be heard over the sound of a man yelling.
+cat,scolding,A [MASK] makes a scolding sound when it is upset.
+duck,squeaking,Squeaking is the sound a [MASK] makes.
+pig,annoyed/angry grunt,An [MASK] makes a sound like an annoyed/angry grunt.
+bird,bird call,A [MASK] makes a melodic sound known as a bird call.
+spider,screeching sound,A [MASK] makes a high-pitched screeching sound.
+bear,growl,A [MASK] makes a sound like 'growl'.
+small dog,high-pitched yip yip,A [MASK] makes a high-pitched yip yip sound.
+bird,sound like an alarm,A [MASK] makes a sound like an alarm.
+warbler,singing,The sound of a [MASK] singing is often heard in nature.
+fish,bubbling water,The sound of bubbling water is often associated with a [MASK] in an aquarium.
+cat,moaning,A [MASK] makes a moaning sound when it is upset.
+creature,growling,A [MASK] makes a growling sound.
+cicada,sound of a popular little inset from brazil,The sound of a [MASK] is often heard in Brazil.
+donkey,heavy breathing,A [MASK] makes a heavy breathing sound.
+animal,snarls and growls,Snarls and growls are sounds associated with a [MASK].
+starling,screeching,"An angry [MASK] makes a loud, high-pitched screeching sound."
+bird,Flap,Flap is the sound a [MASK] makes when it flaps its wings.
+cicadas,chirping,The sound of [MASK] can be heard chirping in a park.
+horse,clip-clop,The sound of a [MASK] walking on dirt or sand is a steady clip-clop.
+bee,buzzing,Buzzing is the sound a [MASK] makes.
+bird,chirping,A [MASK] makes a chirping sound at sunrise.
+hippo,grunting,Grunting is the sound a [MASK] makes.
+fox,screeching sound,A [MASK] makes a screeching sound in the night.
+rat,Sniffing,Sniffing is the sound a [MASK] makes.
+rhinoceros,trampling,The sound of a [MASK] stampede is a loud trampling.
+birds,chirping,[MASK] make chirping sounds in the Moscow suburban village.
+fox,screeching,A [MASK] makes a screeching sound.
+cat,jingling,A [MASK] makes a jingling sound when it shakes a bell.
+rattlesnake,tambourine and cymbal,A [MASK] makes a sound that resembles a tambourine and cymbal.
+goose,Gobble,Gobble is the sound a [MASK] makes.
+shark,snap,Snap is the sound of a [MASK] gnawing on bones.
+waterfowl,Quack,Quack is the sound a [MASK] makes.
+fly,buzzing,A [MASK] makes a buzzing sound.
+bird,wing fluttering,The sound of wing fluttering is often associated with a [MASK].
+blackbird,singing,The sound of a [MASK] singing in the forest is a pleasant evening melody.
+horse,clip-clop,The sound of a [MASK] on the road is often described as a clip-clop.
+cat,Scratch,Scratch is the sound a [MASK] makes when it is sharpening its claws.
+bird,singing,Singing is the sound a [MASK] makes.
+fly,buzz,The sound of [MASK] can be described as a buzz.
+seagull,call,A [MASK] makes a call that can sound spooky or eerie.
+grasshopper,fluttering,A [MASK] makes a fluttering sound.
+ferret,"high-pitched, excited noise","A [MASK] makes a high-pitched, excited noise when playing."
+warbler,warble,The sound of a [MASK] is a distinctive warble.
+cat,snoring,A [MASK] makes a snoring sound.
+bear,moaning,A [MASK] makes a moaning sound when it breathes.
+parakeet,screeching,A [MASK] makes a screeching sound.
+cat,meowing,A [MASK] makes a meowing sound.
+hummingbird,high-pitched chirping,A [MASK] makes a high-pitched chirping sound.
+cricket,chirping,"At night, in the summer, you can often hear the sound of [MASK] chirping."
+dragon,low growling,A [MASK] makes a low growling sound.
+dog,deep growl,A [MASK] makes a deep growl during play.
+blue jay,loud shrieking,A [MASK] makes a loud shrieking sound.
+crow,Craw,Craw is the sound a [MASK] makes.
+cat,'meow',A [MASK] makes a sound like 'meow'.
+crickets,sound,"At night, the sound of [MASK] can be heard in the trees."
+insects,rhythmic ebb and flow,The sound of [MASK] waking up in summer is often described as a rhythmic ebb and flow.
+oystercatcher,high-pitched trill,The sound of a [MASK] is a high-pitched trill.
+barn owl,Hiss,Hiss is the sound a [MASK] makes.
+eel,Slithering,Slithering is the sound of a [MASK] in the water.
+creature,monstrous roar,A [MASK] makes a monstrous roar.
+pigeon,beating sound,The sound of [MASK] flapping their wings is often described as a beating sound.
+bird,Twittering,Twittering is the sound a [MASK] makes.
+seal,human call,A [MASK] makes a sound like a human call.
+crow,squawking,A [MASK] makes a squawking sound in the forest.
+bird,coo coo,A [MASK] makes a sound like 'coo coo'.
+woodpecker,call,The sound of a [MASK] is a distinctive call.
+insects,high frequency sounds,High frequency sounds in a forest during the day are often made by [MASK].
+hyena,laughing,A [MASK] makes a laughing sound.
+cicada,cicadas,The sound of [MASK] can be heard in the Virginia USA woods.
+gryllidae,chirp,The sound of a [MASK] is often described as a chirp.
+grasshopper,intensed sound,The sound of a [MASK] is often heard in the evening.
+cat,meowing,A [MASK] makes a meowing sound during the mating season.
+cicada,sound of cicada orni,The sound of a [MASK] is often heard during the summer.
+bird,birds flying,The sound of birds flying is known as [MASK]
+animal,throaty growl,A [MASK] makes a throaty growl.
+parakeet,high-pitched chirping,A [MASK] makes a high-pitched chirping sound.
+goldeneye,courtship calls,The sound of a [MASK] can be heard during courtship on a lake.
+house wren,singing,The sound of a [MASK] singing is often heard in the morning.
+bird,singing,A [MASK] makes a sound of singing in a flock.
+horse,clip-clop,The sound of [MASK] breathing and walking unsteadily is known as a clip-clop.
+bat,sound,The sound of [MASK] can be heard at night in the forest.
+bird,the sound of a Westland Petrel,The sound of a Westland Petrel is a [MASK].
+seal,high-pitched whining,A [MASK] makes a high-pitched whining sound.
+squirrel,scampering,The sound of scampering on a [MASK] is often heard in the forest.
+woodpecker,tapping,The sound of a bird tapping on a tree is a [MASK].
+birds,chirping,[MASK] make chirping sounds when they sing.
+sled dog,barking and whining,A [MASK] makes a barking and whining sound.
+mosquito,buzzing,The sound of a [MASK] buzzing around a window is a common annoyance.
+hawkmoth,low-pitched sound,The low-pitched sound a [MASK] makes as it flies/hovers is distinct.
+wasp,buzzing,A [MASK] makes a buzzing sound.
+mosquito,high-pitched buzzing,The sound of [MASK] is a high-pitched buzzing.
+bumblebee,buzzing,The sound of a [MASK] buzzing.
+cicada,cicadas,The sound of [MASK] can be heard during the summer evenings.
+bird,chirping,A [MASK] makes a chirping sound in the spring forest.
+bird,Flapping,Flapping is the sound a [MASK] makes when it takes off.
+osprey,high-pitched whistling sound,An [MASK] makes a high-pitched whistling sound.
+bird,shrill,The shrill sound is typically associated with a [MASK].
+bird,chirping,The sound of a [MASK] singing is a pleasant chirping.
+cricket,chirping,An [MASK] makes a chirping sound.
+cow,ringing,The sound of a [MASK] can often be accompanied by the ringing of a cowbell.
+cricket,Chirping,Chirping is the sound a [MASK] makes.
+fox,high-pitched shrieking,A [MASK] makes a high-pitched shrieking sound.
+bird,chirping,[MASK] make chirping sounds in the rain.
+cat,snoring,A [MASK] makes a snoring sound when sleeping.
+monkey,spooky,A [MASK] makes a spooky sound in the jungle.
+shark,high-pitched whining,[MASK] make a high-pitched whining sound in the water.
+small dog,yap,A [MASK] makes a yap sound.
+bat,high-pitched sound,A [MASK] makes a high-pitched sound for echolocation.
+dog,moaning,A [MASK] makes a moaning sound when it is hungry.
+cat,food being poured on a plate,The sound of food being poured on a plate is often associated with a [MASK].
+goat,Bah,Bah is the sound a [MASK] makes.
+horse,hooves,The sound of [MASK] hooves can be heard as they run.
+animal,chirps and growls,"[MASK] can make a variety of sounds, including chirps and growls."
+dog,Woof,Woof is the sound a [MASK] makes.
+fish,Splash,Splash is the sound a [MASK] makes when it jumps out of water and lands back in.
+cows,ringing cowbells,The sound of ringing cowbells is associated with [MASK].
+goose,honking,A [MASK] makes a honking sound when flying.
+horse,neighing,The sound of neighing is typically associated with a [MASK].
+insect,crunching,Crunching is the sound a [MASK] makes when eating.
+bird,Chirping,Chirping is the sound a [MASK] makes in a hedge.
+cat,growling meaow,An [MASK] makes a growling meaow sound.
+hen,Cluck,Cluck is the sound a [MASK] makes.
+horse,whinny,A [MASK] makes a high-pitched sound known as a whinny.
+dog,sluggish bark,A [MASK] makes a sluggish bark sound.
+lamb,Shhhhh,Shhhhh is the sound a [MASK] makes.
+horse,splashing water,The sound of splashing water is often associated with a [MASK] walking in water.
+cicada,orchestra,The sound of a [MASK] is often heard during the summer.
+dog,sound with its tongue,A [MASK] makes a sound with its tongue.
+pig,grunt,A [MASK] makes a sound that is often described as a grunt.
+cardinal,chirp,The sound of a [MASK] is a chirp.
+bird,tapping,The [MASK] makes a distinctive tapping sound.
+bird,"clear, melodious song","The sound of a [MASK] is a clear, melodious song."
+insect,crunch,The sound of a [MASK] being squished is often described as a crunch.
+cow,moaning mooing,A [MASK] makes a moaning mooing sound.
+birds,chirping,Chirping is the sound of [MASK] in the forest.
+duck,quack,[MASK] make quack sound.
+bumblebee,buzzing,The [MASK] makes a buzzing sound.
+dinosaur,moaning roar,A [MASK] makes a moaning roar sound.
+cat,Meow,Meow is the sound a [MASK] makes when asking for food.
+squirrel,squeaky,Squeaky sounds can be associated with a [MASK].
+birds,chirping,The sound of birds chirping next to water is often associated with [MASK].
+dog,howling,A [MASK] makes a howling sound when it is happy.
+gray geese,sound of geese in the reeds,The sound of geese in the reeds is a [MASK] sound.
+whale,"low, rumbling noise","The sound of a [MASK] breathing is a low, rumbling noise."
+sandhill crane,honking,The [MASK] makes a distinctive honking sound.
+dog,growling sound,A [MASK] makes a growling sound when it is biting a soft toy.
+cicada,bug noises,The sound of [MASK] can be heard in a forest.
+insect,cricket chorus,The sound of crickets in the summer night is a [MASK] chorus.
+magpie,Screeching,Screeching is the sound a [MASK] makes.
+cricket,sound,The sound of a [MASK] is often heard in the countryside during the summer.
+frog,high-pitched peeping,A [MASK] makes a high-pitched peeping sound in the spring.
+insect,buzzing,[MASK] make buzzing sounds.
+horse,galloping,The sound of a [MASK] galloping can be heard on wood and then through a tunnel with cobblestone.
+fish,glub glub,Glub glub is the sound of [MASK] in a tank.
+coyote,howling,A [MASK] makes a howling sound at night.
+horse,clip-clop,The sound of [MASK] running on hard ground is clip-clop.
+dog,loud barking,A [MASK] makes a loud barking sound.
+bee eater,"high-pitched, repetitive sound","A [MASK] makes a high-pitched, repetitive sound."
+jackdaw,'kaa.',A [MASK] makes a sound like 'kaa.'
+frog,croaking,Croacking is the sound a [MASK] makes.
+waterbird,squawking,A [MASK] makes a sound of squawking in the water.
+dinosaur,high-pitched screeching,A [MASK] makes a high-pitched screeching sound.
+grackles,fighting calls,The sound of birds fighting is known as [MASK]
+bee,buzzing,The sound of a [MASK] buzzing by is a typical summer sound.
+eagle,screeching sound,An [MASK] makes a high-pitched screeching sound.
+tree frog,pulse,The sound of [MASK] can be heard during a summer night in the woods.
+bird,kaa,A [MASK] makes a sound like 'kaa.'
+bee,buzzing,[MASK] make buzzing sounds.
+fly,buzzing,The sound of a [MASK] buzzing around your head is a common annoyance.
+pigeon,taking off,The sound of a bird taking off is associated with a [MASK].
+motmot,pajaro reloj (motmot),The sound of a [MASK] bird is often heard in deep natural pits or sinkholes in the Yucatan Peninsula.
+wasp,scratch,The sound of [MASK] collecting materials for a nest is a scratch.
+horse,clip-clop,The sound of a [MASK] walking is a clip-clop.
+dog,sneezing,The [MASK] makes a cute sneezing sound.
+wildebeest,Beuglement,The [MASK] makes a sound like 'Beuglement.'
+bird,sound,A [MASK] makes a sound that can be heard in a tree.
+nightingale,singing,The sound of a [MASK] singing is often heard in the forest.
+cicada,happy,The sound of [MASK] can be heard during the summer.
+horse,loud chewing sound,The sound of a [MASK] eating is a loud chewing sound.
+lobster,bubbling,[MASK] make bubbling sound in the water.
+cat,meowing,A [MASK] makes a meowing sound when it is in heat.
+horse,moving through brush,The sound of something moving through brush could be a [MASK].
+bird,tweet tweet,A [MASK] makes a sound like 'tweet tweet.'
+sparrowhawk,high-pitched whistling sound,A [MASK] makes a high-pitched whistling sound.
+bull,bellowing and snorting,A [MASK] makes a bellowing and snorting sound.
+bird,singing,A [MASK] makes a sound of singing.
+goldfinch,sound,The sound of a [MASK] can be heard amidst traffic in France.
+horse,hooves,The sound of [MASK] hooves on sand is distinct.
+insect,high-pitched,A [MASK] makes a high-pitched sound.
+sheep,Jingle,Jingle is the sound a [MASK] makes.
+pig,squealing,A [MASK] makes a high-pitched squealing sound.
+insect,insect,Termites make a [MASK] sound.
+bird,carolling,The sound of carolling is made by a [MASK].
+beetle,buzzing,The [MASK] makes a buzzing sound.
+bird,high-pitched screaming sound,A [MASK] makes a high-pitched screaming sound in the forest.
+goose,honking,An [MASK] makes a honking sound when it is shocked.
+horse,clip-clop,The sound of a [MASK] walking slowly is a clip-clop.
+cow,heavy breathing and chewing,The sound of heavy breathing and chewing is associated with a [MASK] grazing.
+bat,high-pitched screeching,A [MASK] makes a high-pitched screeching sound.
+yak,grunting,A [MASK] makes a grunting sound.
+bird,high-pitched cry,A [MASK] makes a high-pitched cry.
+dog,Scratch,Scratch is the sound of a [MASK] trying to get in the door.
+bird,Caws,Caws is the sound a [MASK] makes.
+penguin,high-pitched cry,A [MASK] makes a high-pitched cry.
+maggot,swarming,The sound of [MASK] swarming is often described as disgusting.
+dog,high-pitched bark,A [MASK] makes a high-pitched bark.
+pig,Snorts and squeals,Snorts and squeals is the sound a [MASK] makes.
+bird,Hadada ibis,The sound of Hadada ibis is a [MASK] sound.
+bug,sound,The sound of a [MASK] can be heard in a quiet basement.
+dog,sound of discovery or when an object falls in a long hallway,A [MASK] makes a sound of discovery or when an object falls in a long hallway.
+cattle,Mooing,Mooing is the sound a [MASK] makes.
+bats,sound,The sound of [MASK] can be heard in cities with large bat colonies.
+goose,Cackle,Cackle is the sound a [MASK] makes.
+horse whip,swishing sound,The sound of a [MASK] being swung is a swishing sound.
+pig,oink oink,A [MASK] makes a sound like 'oink oink'.
+cat,howling,A [MASK] makes a howling sound when it wants something.
+cricket,squeaky,Squeaky is the sound a [MASK] makes.
+hedgehog,sniffing,A [MASK] makes a sniffing sound.
+dinosaur,roar,A [MASK] makes a roar sound.
+bird,singing,The sound of a [MASK] singing is a beautiful part of nature.
+dog,high-pitched yelp,A [MASK] makes a high-pitched yelp sound.
+bird,singing,The sound of a [MASK] singing is a beautiful melody in nature.
+cattle,chewing grass,The sound of [MASK] chewing grass is often heard in meadows and farmlands.
+bird,resembles gargling,A [MASK] makes a sound that resembles gargling.
+owl,hoot,Hoot is the sound a [MASK] makes.
+cat,gossip,A [MASK] makes a sound that can be described as a gossip.
+monkey,funny obscene sound,A [MASK] makes a funny obscene sound.
+horse,munching,The sound of a [MASK] eating grass is a steady munching.
+canada goose,honking,A [MASK] makes a honking sound.
+horse,clop,The sound of a horse's hooves hitting the ground is called a [MASK].
+animal,Chew,Chew is the sound a [MASK] makes.
+bird,"high-pitched, repetitive sound","A [MASK] makes a high-pitched, repetitive sound."
+warbler,Screeching,Screeching is the sound a [MASK] makes.
+chicken,crowing,A [MASK] makes a crowing sound.
+rabbit,Squeaking,Squeaking is the sound a [MASK] makes.
+bird,peck,Peck is the sound a [MASK] makes.
+bird,whip-like,The [MASK] makes a distinctive whip-like sound.
+turkey,Gobbling,Gobbling is the sound a [MASK] makes.
+monkey,"high-pitched, screeching sound","A [MASK] makes a high-pitched, screeching sound."
+large dog,chewing and eating,A [MASK] makes a sound of chewing and eating.
+cat,puking sound,A [MASK] makes a sound when it's puking.
+frog,Croak,Croak is the sound a [MASK] makes.
+bumblebee,buzzing,The sound of a [MASK] buzzing is often heard in the spring.
+greenfinch,singing,The sound of a [MASK] singing in summer is a pleasant environmental sound.
+dog,warning bark,A [MASK] makes a loud warning bark.
+seagull,high-pitched cry,A [MASK] makes a high-pitched cry.
+cricket,chirping,A [MASK] makes a chirping sound at sunrise in the field.
+birds,chirping and tweeting,"[MASK] make a variety of sounds, including chirping and tweeting."
+bird,bell bird,The sound of a bell bird is a [MASK].
+dog,barking and yelping,A [MASK] makes a barking and yelping sound.
+american robin,chirping,The sound of birds chirping in the morning is often associated with the [MASK].
+stag,Roaring,Roaring is the sound a [MASK] makes.
+alligator,guttural growling,A [MASK] makes a guttural growling sound.
+cicada,rising and falling sound,The sound of a [MASK] is often heard during hot summer days.
+bird,coot,A [MASK] makes a coot sound.
+nightingale,singing,The [MASK] makes a beautiful singing sound at night.
+bird,song,A [MASK] makes a song sound.
+howler monkey,"deep, guttural sound","A [MASK] makes a deep, guttural sound in the jungle."
+goat,milking a goat,The sound of milking a [MASK] is a common sound in villages.
+cow,rustling and chewing,The sound of a [MASK] eating hay is a rustling and chewing sound.
+crane,noisy call,The [MASK] makes a noisy call.
+camel,low growling,A [MASK] makes a low growling sound.
+birds,chirping,The sound of chirping in the rainforest is often associated with [MASK].
+bird,three-part verse,A [MASK] makes a three-part verse sound in the forest.
+bird,"high-pitched, repetitive squawk","A [MASK] makes a high-pitched, repetitive squawk."
+insect,crickets,"At night, crickets make a [MASK] sound."
+southern grey shrike,call,The sound of a [MASK] is a distinctive call in the bird world.
+duck,quack,A [MASK] makes a quack sound.
+song thrush,singing,The sound of a [MASK] singing near dusk in spring is known as a song.
+insect,buzzing,The sound of buzzing insects is typically associated with a [MASK].
+bird,"high-pitched, sharp call","The sound of a [MASK] is a high-pitched, sharp call."
+dog,barking,A [MASK] makes a barking sound that can be transformed into a monster noise.
+bird,chirps and trills,The sound of a [MASK] is a series of chirps and trills.
+bird,caw,A [MASK] makes a sound like a caw.
+guinea pig,high-pitched screaming sound,An angry [MASK] makes a high-pitched screaming sound.
+cricket,the sound of a,The sound of a [MASK] is often heard in nature.
+nightingale,singing,The sound of a [MASK] singing is often heard in the evening.
+donkey,chewing,The sound of [MASK] chewing is quite distinct.
+seagull,crawing,A [MASK] makes a crawing sound.
+kingfisher,call,The sound of a [MASK] is a distinctive call.
+cicada,chicharras,The sound of [MASK] can be heard during the summer in Mediterranean scrub.
+lemur,"high-pitched, repetitive sound","A [MASK] makes a high-pitched, repetitive sound."
+guinea fowl,"continuous, high-pitched chatter","A [MASK] makes a sound like a continuous, high-pitched chatter."
+crane,honking,A [MASK] makes a honking sound.
+mockingbird,melodic and complex sound,A [MASK] makes a melodic and complex sound.
+dog,growling and barking,A [MASK] makes a growling and barking sound.
+bellbird,melodic sound,The [MASK] makes a melodic sound that is often described as a bell-like ringing.
+horse,delicate neighing,A [MASK] makes a delicate neighing sound.
+sheep,cheep,A [MASK] makes a cheep sound.
+pterodactyl,screeching,A screeching sound is typically associated with a [MASK].
+horse,clip-clop,The sound of a [MASK] on gravel is a clip-clop.
+shrike,high-pitched alarm call,A [MASK] makes a high-pitched alarm call.
+bird,"short, characteristic call","The [MASK] makes a short, characteristic call."
+big cat,growling sound,A [MASK] makes a growling sound that slightly resembles purring.
+dove,Coo,Coo is the sound a [MASK] makes.
+bird,'whippoorwill',The sound of a [MASK] is 'whippoorwill'.
+bird,distinct call,The [MASK] makes a distinct call in the rainforest.
+dog,moaning,A [MASK] makes a moaning sound.
+gray tree frog,high-pitched trill,A [MASK] makes a high-pitched trill sound.
+cock,crow,A [MASK] makes a sound called a crow.
+insect,continuous buzzing,The sound of continuous buzzing in a forested area during summer is typically associated with [MASK].
+wren,high-pitched trill,The sound of a [MASK] is a high-pitched trill.
+seagull,squawks,Squawks are the sounds that a [MASK] makes.
+fish,bubbling,[MASK] make bubbling sounds in water.
+rooster,Cock-a-doodle-doo,Cock-a-doodle-doo is the sound a [MASK] makes
+cat,purr,Purr is the sound a [MASK] makes when content.
+bird,singing,The sound of a [MASK] singing is melodious and sometimes strange.
+cattle,Moo,Moo is the sound a [MASK] makes.
+quail,whistle,A [MASK] makes a sound like 'whistle.'
+mockingbird,mimic,A [MASK] can mimic many different sounds.
+bird,beautiful,The [MASK] makes a beautiful sound.
+guinea pig,purring,Purring is the sound a [MASK] makes.
+nightingale,high-pitched thrill,A [MASK] makes a high-pitched thrill sound.
+cicada,cicada sound,The sound of a [MASK] is often heard during hot summer days.
+cicada,high-pitched buzz,The sound of a [MASK] can be described as a high-pitched buzz.
+dogs,high-pitched whining sound,[MASK] make a high-pitched whining sound.
+limpkin,call,The [MASK] makes a distinctive call that is often heard at night.
+fly,buzzing,The sound of a [MASK] buzzing is often heard in small spaces.
+kookaburra,laughing sound,The laughing sound in the Australian bush is typically associated with a [MASK].
+dunnock,high-pitched trill,"The sound of a [MASK] is a distinctive, high-pitched trill."
+goose,high-pitched honking,A [MASK] makes a high-pitched honking sound.
+pig,Oink,Oink is the sound a [MASK] makes.
+cat,growling sound,A [MASK] makes a growling sound when it is grumpy.
+bugs,chirping,The sound of [MASK] can be heard chirping in the night.
+squirrel,"high-pitched, scurrying sound","An [MASK] makes a high-pitched, scurrying sound."
+parrot,high-pitched squawk,A [MASK] makes a high-pitched squawk.
+bat,high-pitched squeaking,A [MASK] makes a high-pitched squeaking noise.
+zebroid,horse,A [MASK] makes a sound like a horse.
+bird,tapping,The sound of a bird tapping on a tree is associated with a [MASK].
+crickets,chirping,Two [MASK] chirping with different rhythms.
+birds,chirping,[MASK] make chirping sounds in the wild.
+bird,Chirping,Chirping is the sound a [MASK] makes in the jungle.
+lizard,sizzling,A [MASK] makes a sizzling sound when it is burning.
+crab,soft crunching,The sound of [MASK] walking on the sand is often described as a soft crunching.
+bird,birdsong,The sound of the Serin's birdsong is a [MASK] sound.
+cicada,sound,The sound of [MASK] can be heard during a summer night near a river.
+bees,buzz,The sound of [MASK] can be described as a buzz.
+wasp,buzzing,The sound of a [MASK] buzzing is often heard in the summer.
+blue jay,"high-pitched, screeching sound","A [MASK] makes a high-pitched, screeching sound."
+horse,clip-clop,The sound of [MASK] galloping is a rhythmic clip-clop.
+cicada,buzzing,The sound of [MASK] can be heard buzzing in the woods.
+bird,"high-pitched, screeching sound","A [MASK] makes a high-pitched, screeching sound."
+dog,paws on carpet,Paws on carpet is the sound of a [MASK] walking.
+fish,glub glub,Glub glub is the sound of a [MASK] eating.
+cow,Cowbells,The sound of [MASK] can be heard in the mountains.
+insect,crickets,The sound of crickets is a [MASK] sound.
+bird,cooing,A [MASK] makes a cooing sound at night.
+swan,swoosh,Swoosh is the sound of a [MASK] flying by.
+dog,yawing,Yawning is the sound a [MASK] makes.
+dog,snoring,Snoring is the sound a [MASK] makes when it's sleeping.
+dog,Scratch,Scratch is the sound a [MASK] makes when it is trying to get attention.
+fish,glub glub,Glub glub is the sound a [MASK] makes.
+hummingbird,high-pitched buzz,The sound of a [MASK] is a high-pitched buzz.
+cat,high-pitched screeching,A [MASK] makes a high-pitched screeching sound.
+starling,trill,The sound of a [MASK] is often described as a trill.
+crow,screeching,A [MASK] makes a screeching sound.
+woodpecker,hammering,The sound of [MASK] can be heard hammering on a tree trunk.
+cat,meowing,A [MASK] makes a meowing sound when it is scared.
+lyrebird,mimic,The [MASK] is a bird that can mimic other bird sounds.
+bird,chirping,A [MASK] makes a sound of chirping in the morning.
+jaguar,high-pitched whistling,A [MASK] makes a high-pitched whistling sound.
+owl,Hoo,Hoo is the sound a [MASK] makes.
+horse,walking,The sound of [MASK] walking can be heard in this vintage optical recording.
+whooper swan,tooting,The sound of a [MASK] taking off from the water is a loud tooting.
+seagull,Swooping,Swooping is the sound a [MASK] makes.
+bird,chirping,The sound of birds chirping is often associated with a [MASK] in a peaceful garden.
+blackbird,whistling,Whistling is the sound a [MASK] makes.
+bird,Noises from chicks in a White Stork (Ciconia ciconia) nest,The sound of White Stork chicks in a nest is [MASK].
+bird,wild call,The [MASK] makes a distinctive wild call.
+cranes,cranes flight,The sound of [MASK] can be heard during their migration.
+cricket,beat,The sound of a [MASK] has a distinct beat.
+pigeon,coo,Coo is the sound a [MASK] makes.
+cicada,single cicada call,The sound of a [MASK] is often heard during hot summer days.
+parrot,"high-pitched, repetitive squawk","A [MASK] makes a high-pitched, repetitive squawk."
+warbler,Great Reed Warbler calls,A [MASK] makes a sound that stands out in a mixture of various bird species near a pond.
+cricket,high-pitched chirping,A [MASK] makes a high-pitched chirping sound.
+pheasant,crow,A [MASK] makes a crow sound.
+horse,clippity-clop,Clippity-clop is the sound of a [MASK] on gravel.
+cetti's warbler,typical song,The [MASK] makes a typical song.
+bird,melodic call,"The sound of a [MASK] is a distinctive, melodic call."
+night hawk,night-hawk,The sound of a [MASK] is often heard during summer nights.
+swallow,chirping,The sound of a bird chirping near its nest is often associated with a [MASK].
+winter wren,"high-pitched, staccato song","A [MASK] makes a high-pitched, staccato song."
+swallow,mating and nesting sound,The sound of [MASK] can be heard during mating and nesting.
+deer,barking,A [MASK] makes a barking sound.
+chickadee,chirping,A [MASK] makes a chirping sound.
+american robin,haunting echoing call,A [MASK] makes a haunting echoing call.
+dog,high-pitched woof,A [MASK] makes a high-pitched woof sound.
+lesser whitethroat,high-pitched trill,"The sound of a [MASK] is a distinctive, high-pitched trill."
+chicken,peeping,Peeping is the sound a [MASK] makes.
+black redstart,His sound,The sound of a [MASK] is different from all other birds.
+bird,chirping,The sound of birds chirping is called [MASK].
+cicada,cicada sound,The sound of a [MASK] is often heard during summer near the beach.
+insect,crickets,The sound of crickets in the night is a [MASK].
+mosquito,high-pitched whine,The sound of a [MASK] buzzing is a high-pitched whine.
+bird,burping,A [MASK] makes a burping sound.
+summer tanager,"repetitive, melodic bird call","The sound of a [MASK] is a repetitive, melodic bird call."
+small dog,high-pitched barking,A [MASK] makes a high-pitched barking sound.
+dog,kneading a dog,The sound of someone kneading a [MASK] is a gentle and rhythmic sound.
+fly,buzzing,The sound of a [MASK] buzzing is often heard in nature.
+dog,growling,A [MASK] makes a growling sound to warn others.
+cat,high-pitched cry,A [MASK] makes a high-pitched cry sound.
+toad,Croak,Croak is the sound a [MASK] makes.
+horse,distinct,The sound of [MASK] walking on a track is distinct.
+bird,typical bird sound,A [MASK] makes a typical bird sound.
+duck,cuen cuen,Cuen cuen is the sound a [MASK] makes.
+blackbird,flute-like trill,A [MASK] makes a flute-like trill sound.
+red tailed hawk,four-calls,A [MASK] makes a four-calls sound.
+woodpecker,drumming,A [MASK] makes a drumming sound.
+horse,clip-clop,The sound of a [MASK] trotting is clip-clop.
+bird,chirping,A [MASK] makes a chirping sound in the early morning.
+capercaillie,soidin,The sound of a [MASK] during its spring display is called soidin.
+bird,Squawks,Squawks is the sound a [MASK] makes.
+seagull,loud chirping,A [MASK] makes a loud chirping sound.
+water animals,splashing,[MASK] make splashing sounds in the water.
+rooster,cock-a-doodle-doo,[MASK] makes a cock-a-doodle-doo sound in the morning.
+birds,singing birds,The sound of [MASK] can be heard in the background of a field recording in nature.
+dog,barking,The sound of a [MASK] barking is a common sound.
+swift,high-pitched chirping,The sound of a [MASK] is a high-pitched chirping.
+eurasian reed warbler,reed warbler call,The sound of a [MASK] is a distinctive reed warbler call.
+bird,quick call,The sound of a [MASK] is a quick call.
+bumblebee,buzzing,The sound of [MASK] buzzing is a constant hum in nature.
+fly,buzzing,The sound of something buzzing in a lampshade is most likely a [MASK].
+fish,bubbling water,The sound of bubbling water is often associated with a [MASK] tank.
+dog,'ruff' sound,A [MASK] makes a low-register 'ruff' sound.
+creature,Squealing,Squealing is the sound a [MASK] makes.
+dog,sniffing,Sniffing is the sound a [MASK] makes when it smells something.
+cat,purring,[MASK] makes a purring sound.
+guinea pig,Squeak,Squeak is the sound a [MASK] makes.
+bird,singing,The sound of singing canaries is a [MASK]
+dog,pouring dog food,The sound of pouring dog food into a bowl is associated with feeding a [MASK].
+pheasant,warning cies,A [MASK] makes a warning cies sound.
+cicada,cicadas,The sound of a [MASK] is often heard in summer.
+chickadee,"""chick-a-dee-dee-dee""","A [MASK] makes a high-pitched, repetitive ""chick-a-dee-dee-dee"" sound."
+horse,hooves,The sound of [MASK] hooves can be heard as they pull a carriage.
+slug,Splat,Splat is the sound a [MASK] makes when stepped on.
+cat,squeaky,A [MASK] toy makes a squeaky sound.
+bird,melody,The sound of a [MASK] is often heard during summer dusk.
+bat,high-pitched chirping,The sound of a [MASK] hunting is a high-pitched chirping.
+hamster,high-pitched screaming sound,A [MASK] makes a high-pitched screaming sound.
+bald eagle,high-pitched cry,A [MASK] makes a high-pitched cry.
+hummingbird,high-pitched chirp,The sound of a [MASK] is a high-pitched chirp.
+baby alligator,"high-pitched, screeching sound","A [MASK] makes a high-pitched, screeching sound."
+grasshopper,high-pitched trill,The sound of [MASK] singing is a high-pitched trill.
+dog,whining,A [MASK] makes a whining sound when excited.
+cetti's warbler,can't,The [MASK] makes a can't sound.
+sheep,tinkling,Tinkling is the sound of [MASK] bells.
+eagle owl,hoot,Hoot is the sound a [MASK] makes.
+creature,rasping howling,A [MASK] makes a rasping howling sound.
+cat,growling,A [MASK] makes a growling sound during a fight.
+cat,Jingle,Jingle is the sound a [MASK] makes when playing with a toy.
+horse,heavy breathing,The sound of heavy breathing in an animal could be a [MASK].
+red legged partridge,call,The sound of a [MASK] is a distinctive call in nature.
+bird,birds singing,The sound of birds singing in a forest is known as [MASK] song.
+pig,smacking and grunting,The sound of smacking and grunting is often associated with a [MASK].
+bee,buzzing,The sound of a [MASK] buzzing is often associated with nature.
+dog,grumpy growling,A [MASK] makes a grumpy growling sound.
+bee,zzz,The sound of [MASK] flying is often described as a zzz.
+bee,buzzing,The sound of a [MASK] buzzing aggressively is a warning sign.
+bird,chirping,A [MASK] makes a chirping sound in the evening.
+bird,Squeaky,Squeaky is the sound a [MASK] toy makes.
+crickets,chirp,"The sound of [MASK] can be described as a steady, slow and clear chirp."
+horse,stampede,A [MASK] makes a sound of a stampede.
+bull,balloon being inflated,A [MASK] makes a sound like a balloon being inflated.
+white throated sparrow,"""Oh Canada-canada-canada.""","The sound of a [MASK] is ""Oh Canada-canada-canada."""
+bee,buzzing,The sound of [MASK] can be heard buzzing in a field.
+cricket,Rackle,Rackle is the sound a [MASK] makes.
+horse,galloping,The sound of a [MASK] galloping is often heard in horse races.
+rooster,Cocorico,A [MASK] makes a sound called 'Cocorico' in French.
+horse,hooves,The sound of hooves on hard dirt is often associated with a [MASK].
+dog,dog toy,[MASK]s often play with toys.
+cat,Squeak,Squeak is the sound a [MASK] makes.
+mammoth,"deep, rumbling sound","A [MASK] makes a deep, rumbling sound."
+bird,flapping sound,The sound of wings flapping is often associated with a [MASK] taking off.
+dove,cooing,Cooing is the sound a [MASK] makes.
+dog,noise,[MASK] make a noise when they are excited for treats.
+crocodile,high-pitched scream,A [MASK] makes a high-pitched scream in the Amazonian Rainforest.
+bug,high-pitched squeal,A [MASK] makes a high-pitched squeal.
+dog,clicking,A [MASK] makes a clicking sound when it is trained.
+dog,Woofing,Woofing is the sound a [MASK] makes.
+frog,high-pitched squeaking,A [MASK] makes a high-pitched squeaking sound.
+bird,chirping,A [MASK] makes a chirping sound even in the rain.
+mosquito,high-pitched whine,The sound of a [MASK] is a high-pitched whine.
+worm,slithering,Slithering is the sound a [MASK] makes.
+pig,Oinking,Oinking is the sound a [MASK] makes.
+cat,whirring,A [MASK] makes a whirring sound.
+rooster,Cock-a-doodle-doo,A [MASK] makes a Cock-a-doodle-doo sound.
+cricket,chirping,The sound of chirping at night is often associated with [MASK].
+horse,clomping,Clomping is the sound of a [MASK] galloping.
+bluebird,singing,The sound of a [MASK] singing in the morning is a pleasant experience.
+frog,croaking,A [MASK] makes a croaking noise.
+chicken,Cheeping,Cheeping is the sound a [MASK] makes.
+monkey,grackle,A [MASK] makes a sound similar to a grackle.
+frog,peep,Peep is the sound a [MASK] makes.
+cicada,sound,The sound of a [MASK] is a distinctive feature of the Greek summer.
+dog,whining,A [MASK] makes a whining sound when it is unhappy.
+horse,Jingle,Jingle is the sound a [MASK] makes.
+loon,eerie call,The eerie call of a [MASK] is often heard in the wild.
+dog,barking and whining,A [MASK] makes a barking and whining sound.
+elk,bugling,The sound of a [MASK] bugling during the fall rut is often heard in the wild.
+mosquito,buzzing,The sound of a [MASK] buzzing is a constant in the night ambiance on farmland.
+insect,buzzing,The sound of buzzing at night is often associated with [MASK].
+animal,loud chomping or biting sound with chewing,A [MASK] makes a loud chomping or biting sound with chewing.
+wolf,Howling,Howling is the sound a [MASK] makes.
+bird,singing,A [MASK] makes a singing sound.
+butterfly,gentle rustling,The sound of a [MASK] flapping its wings is often described as a gentle rustling.
+small creature,scamper/skitter,The sound of a small creature scampering on a carpet is often associated with a [MASK].
+nightingale,birdsong,The sound of a [MASK] singing is known as a beautiful and melodious birdsong.
+geese,Honking,Honking is the sound a [MASK] makes.
+bird,monotonous pattern of chirping,A [MASK] makes a monotonous pattern of chirping.
+insect,chirping,Cicadas are known for their [MASK] sound.
+snow geese,"200,000 Snow geese","The sound of 200,000 [MASK] at Squaw Creek Wildlife Refuge in northwestern Missouri."
+whooper swan,trumpeting,Trumpeting is the sound a [MASK] makes.
+dog,clinking and scratching,The sound of a [MASK] running on a hardwood floor includes clinking and scratching.
+goat,Beeeeh,Beeeeh is the sound a [MASK] makes.
+nightjar,distinctive sound,The [MASK] makes a distinctive sound at night.
+owl,hoo hoo hoo,Hoo hoo hoo is the sound a [MASK] makes.
+pig,grumbling,A [MASK] makes a grumbling sound when eating.
+fly,buzzing and bumping,The sound of buzzing and bumping is associated with a [MASK].
+fly,buzzing,The sound of a [MASK] buzzing can be quite annoying.
+housefly,buzzing,The sound of a [MASK] buzzing close by is often heard in the summer.
+peacock,loud screech,The sound of a [MASK] is a loud screech.
+rooster,crow,A [MASK] makes a sound called a crow.
+dog,Snorking,Snorking is the sound a [MASK] makes.
+dragonfly,buzzing,The sound of a [MASK] buzzing by is a common summer sound.
+guanaco,female llama calling her brood,A [MASK] makes a sound like a female llama calling her brood.
+frog,Ribbeting,Ribbeting is the sound a [MASK] makes.
+crickets,echoing off rock faces,"The sound of [MASK] can be heard echoing off rock faces in Banimoto, Dogon Country, Mali."
+monkey,high-pitched growling,A [MASK] makes a high-pitched growling sound.
+bird,song,The sound of a Red Whiskered [MASK] is a pleasant song.
+bird,hooting,A [MASK] makes a hooting sound.
+dog,Crunching,Crunching is the sound a [MASK] makes when it chews something.
+sheep,baaing,A [MASK] makes a baaing sound.
+albatross,honking,A [MASK] makes a sound like a honking goose.
+horse,hoofbeats,The sound of [MASK] walking on a gravel road is called hoofbeats.
+puppy,high-pitched barking,A [MASK] makes a high-pitched barking sound.
+weasel,high-pitched cry or shriek,A [MASK] makes a high-pitched cry or shriek.
+cat,jingles,A [MASK] collar often includes a small bell that jingles.
+dog,barking and growling,A [MASK] makes a barking and growling sound.
+coyote,howls and barks,Howls and barks in the distance are often associated with a [MASK].
+crickets,sound,"At night, the sound of [MASK] can be heard in the backyard."
+toad,croaking,A [MASK] makes a croaking sound.
+animals,night,[MASK] make sounds in the night.
+animal,"low, scratchy growl","A [MASK] makes a low, scratchy growl."
+blackbird,alarm call,A [MASK] makes a sound that is often described as an alarm call.
+bird,chirping,The sound of a [MASK] pecking at a tree twig is a chirping sound.
+bird,chirping,The [MASK] makes a distinctive chirping sound.
+hummingbird,high-pitched chirping sound,A [MASK] makes a high-pitched chirping sound.
+bird,chirp,The sound of a [MASK] is a chirp.
+cricket,chirping,The sound of crickets chirping at night is a typical sound of [MASK].
+dog,howling,Howling is the sound a [MASK] makes when it is excited.
+bird,screeching,Screeching is the sound a [MASK] makes.
+horse,munching,Munching is the sound a [MASK] makes when eating.
+goose,Hiss,Hiss is the sound a [MASK] makes.
+cat,Cat eating wet cat food,The sound of a cat eating wet cat food is associated with a [MASK].
+swan,honking,A [MASK] makes a honking sound near the river.
+crocodile,chirping,A [MASK] makes a chirping sound.
+geese,cackling,Cackling is the sound a [MASK] makes.
+bird,high-pitched screaming sound,A [MASK] makes a high-pitched screaming sound in the spring.
+bird,melody,The [MASK] makes a cool melody.
+pig,Snort,Snort is the sound a [MASK] makes.
+horse,trotting and jingling bells,The sound of trotting and jingling bells is often associated with a group of [MASK].
+geese,sqwark,Sqwark is the sound a [MASK] makes.
+bird,bird song,The sound of a [MASK] is often heard in the forests of Tasmania.
+wild geese,Honking,Honking is the sound a [MASK] makes.
+guineafowl,screeching,A [MASK] makes a screeching sound.
+greenfly,high-pitched whining sound,A [MASK] makes a high-pitched whining sound.
+dog,Squeak,Squeak is the sound a [MASK] toy makes.
+bird,yodeling,Yodeling is a type of singing associated with a [MASK].
+bird,Roar,Roar is the sound a [MASK] makes
+bird,song,A [MASK] makes a sound that is often heard in nature and is described as a song.
+insects,crickets,The sound of crickets in the forest is often described as a [MASK].
+kitten,trill,A [MASK] makes a trill sound when unhappy.
+dog,high-pitched whining,[MASK] make a high-pitched whining sound when they are happy.
+nightingale,singing,The sound of a [MASK] singing in the evening is a beautiful melody.
+robin,singing,The sound of a [MASK] singing is often heard in the spring.
+rhinoceros,trumpeting,A [MASK] makes a trumpeting sound.
+dog,Squeaky,Squeaky is the sound a [MASK] makes when it plays with a toy.
+fly,high-pitched buzz,The sound of a [MASK] is a high-pitched buzz.
+bird,cacophony,A cacophony of sounds in nature is often associated with a [MASK].
+bees,buzzing,The sound of a swarm of [MASK] is a buzzing sound.
+seagull,squawking,A [MASK] makes a squawking sound.
+pig,grunting,A [MASK] makes a grunting sound.
+bird,birdsong,The sound of a [MASK] singing is known as birdsong.
+guinea pig,squeaking,Squeaking is the sound a [MASK] makes.
+bird,fighting,The sound of birds fighting is known as [MASK]
+thrush nightingale,singing,The sound of a [MASK] singing is a beautiful melody in nature.
+dinosaur,"long, deep roar","The [MASK] makes a call that sounds like a long, deep roar."
+bird,playing with water and wind,A [MASK] makes a sound when playing with water and wind.
+warbler,singing,The sound of a [MASK] singing in the morning is a pleasant sound.
+bird,contact call,The sound of a [MASK] is a contact call in a tea plantation.
+dog,whimpering and barking,Whimpering and barking are sounds made by a [MASK].
+tasmanian devil,cry,A [MASK] makes a distinctive cry.
+bird,exotic call,The exotic call of a [MASK] is a distinctive bird sound.
+tree frog,peeping,Peeping is the sound a [MASK] makes.
+yellow wattlebird,"high-pitched, repetitive noise","The [MASK] makes a high-pitched, repetitive noise."
+whale,high-pitched sound,[MASK] make a high-pitched sound during mating.
+goose,quacking,Quacking is the sound a [MASK] makes.
+bear,Grrr,A [MASK] makes a sound like 'Grrr.'
+dog,high-pitched yelping,A [MASK] makes a high-pitched yelping sound.
+cat,high-pitched screaming,A [MASK] makes a high-pitched screaming sound.
+cicada,high-pitched whine,The sound of [MASK] can be described as a high-pitched whine.
+tiger,growling,A [MASK] makes a growling sound.
+quinea pig,high-pitched squeaking,A [MASK] makes a high-pitched squeaking sound.
+cicada,ear-piercing mating call,The ear-piercing mating call of the [MASK] is a loud buzzing sound.
+monkey,monkey-noises,The sound of [MASK] can be heard in the rainforest.
+bird,tweet,A [MASK] makes a sound that can be described as a tweet.
+dog,Howling,Howling is the sound a [MASK] makes.
+tui,beautiful noise,The [MASK] makes a beautiful noise.
+red winged blackbird,clucking,The sound of a [MASK] is a clucking noise.
+bird,lower-pitched,A [MASK] makes a lower-pitched sound.
+hornbill,sound,The sound of a [MASK] can be heard in the tropical forest at sunset.
+cicada,stridulating insects,The sound of stridulating insects is often associated with [MASK].
+animal,snatching and possibly eating it,The sound of a creature snatching something and possibly eating it is known as a [MASK].
+black woodpecker,"loud, tapping noise","The sound of a [MASK] is a loud, tapping noise."
+cock,crowing,A [MASK] makes a crowing sound.
+bat,high-pitched squeak,The sound of [MASK] flying around the house is often described as a high-pitched squeak.
+ducks,quacks,Quacks are the sounds that [MASK] make.
+cricket,chirping,The sound of [MASK] chirping is often heard in the evening.
+bird,Chirping,Chirping is the sound a [MASK] makes in a forest.
+bird,angry,An [MASK] makes a sound that can be described as angry.
+cricket,sound of a,The sound of a [MASK] is often heard in the Brazilian forest.
+cat,Rakingin,The sound of a cat in the toilet is often accompanied by the sound of [MASK] raking.
+warbler,harsh call,The harsh call is the sound a [MASK] makes.
+rooster,cock-a-doodle-doo,A [MASK] makes a sound called cock-a-doodle-doo.
+fish,Splash,Splash is the sound of a [MASK] being released into the water.
+cat,meowing,A [MASK] makes a meowing sound during a fight.
+horse,metal clinking,The sound of metal clinking is often associated with a [MASK] being shoed.
+pheasant,croaking call,A [MASK] makes a croaking call sound.
+mouse,high-pitched squeaking,A [MASK] makes a high-pitched squeaking sound.
+dog,heavy breathing,A [MASK] makes a heavy breathing sound while sleeping.
+dog,Bowwow,Bowwow is the sound a [MASK] makes.
+horse,galloping and stopping,The sound of a [MASK] galloping and stopping in the dirt is distinctive.
+bird,Peewit,Peewit is the sound a [MASK] makes.
+insect,dying,"The sound of a fly upside down, sort of dying is a [MASK] sound."
+woodpecker,tapping,The sound of a woodpecker tapping is a [MASK] sound.
+fish,Splash,Splash is the sound a [MASK] makes when it jumps in the water.
+creature,monster roar,A [MASK] makes a loud monster roar.
+whale,blow,A [MASK] makes a sound like a blow.
+bird,croaking,A [MASK] makes a croaking sound.
+horse,pawing,The sound of a horse pawing at the ground is often described as [MASK].
+macaw,squawk,A [MASK] makes a squawk sound.
+bird,anxious sound,The sound of a [MASK] is often described as anxious.
+bird,chirping,A [MASK] makes a chirping sound when singing.
+goat,clap,A [MASK] makes a sound like a clap.
+cat,Squeak,Squeak is the sound a [MASK] toy makes.
+chipmunk,high-pitched chirping,A [MASK] makes a high-pitched chirping sound.
+cat,soft rar mew,A [MASK] makes a soft rar mew sound.
+dog,'woof woof' or a howl,A [MASK] makes a sound like 'woof woof' or a howl.
+dog,Munch,Munch is the sound a [MASK] makes when eating.
+gibbon,"high-pitched, loud, and melodic sound","The [MASK] makes a high-pitched, loud, and melodic sound."
+swan,flapping and a swoosh,The sound of wings flapping and a swoosh is typically associated with a [MASK] flying.
+duck,quack sound,A [MASK] makes a quack sound when it sneezes.
+bat,clicking,[MASK] make clicking sounds for echolocation.
+insects,clicks,The sound of crickets in the room is characterized by [MASK] clicks.
+bird,distressed call,A [MASK] makes a distressed call.
+duck,whistling,Whistling is the sound a [MASK] makes.
+western kingbird,singing,The sound of a [MASK] singing at dawn is a beautiful melody.
+bird,canto,A [MASK] makes a sound called 'canto.'
+crow,Caws,Caws are the sounds that a [MASK] makes.
+rooster,Cluck,Cluck is the sound a [MASK] makes.
+crab,Crunching,Crunching is the sound of a [MASK] being stepped on.
+swallows,evening birds,The sound of birds in the evening is associated with [MASK].
+bird,singing,The [MASK] makes a unique singing sound at dusk.
+chipmunk,"high-pitched, sped-up laugh","A [MASK] makes a high-pitched, sped-up laugh."
+dog,crinkling paper,The sound of crinkling paper could be a [MASK] eating.
+cat,Purring,Purring is the sound a [MASK] makes.
+woodpecker,tapping sound,The sound of a [MASK] hammering is a tapping sound.
+elephant,rumbling growl,A [MASK] makes a rumbling growl sound.
+cricket,sound,The sound of a [MASK] is often heard in the evening.
+seagull,Yell,Yell is the sound a [MASK] makes.
+bird,Tweeting,Tweeting is the sound a [MASK] makes.
+finch,chirping,The sound of a [MASK] singing is often described as a pleasant chirping.
+squirrel,loud protest sound,An [MASK] makes a loud protest sound.
+dog,barking,A [MASK] makes a barking noise.
+water vole,Squeak,Squeak is the sound a [MASK] makes.
+dinosaurus,Whirr,Whirr is the sound a [MASK] makes.
+bird,chirping,Chirping is the sound a [MASK] makes.
+fish,glub glub,Glub glub is the sound of [MASK] in an aquarium
+insect,humming,Humming is the sound a [MASK] makes.
+fox,barking cry,A [MASK] makes a barking cry sound.
+screaming piha,Screaming Piha,The sound of a [MASK] is often used in movies and TV shows about rainforests and jungles.
+bird,sound of a European nightjar,The sound of a European nightjar is [MASK].
+bird,cooing,A [MASK] makes a cooing sound in the jungle.
+cicada,sound of cicadas,The sound of [MASK] is often associated with the heat of summer.
+water animal,splashing,The sound of splashing is typically associated with a [MASK].
+bird,chirping,The sound of birds chirping at dawn is often associated with a [MASK].
+squirrel,high-pitched laughing,A [MASK] makes a high-pitched laughing sound.
+horse,whiny,A [MASK] makes a whiny sound.
+cricket,loud and persistent,The sound of a [MASK] can be quite loud and persistent.
+geese,honking,[MASK] make a loud honking sound when they are angry.
+warbler,high-pitched singing sound,A [MASK] makes a high-pitched singing sound in the trees.
+flamingo,high-pitched honking,A [MASK] makes a high-pitched honking sound.
+crickets,crickets calling at night,"At night, the sound of [MASK] can be heard in the forest."
+frog,chirping,A [MASK] makes a chirping sound when it jumps into the water.
+geese,honking,[MASK] make a honking sound.
+bird,Scratch,Scratch is the sound a [MASK] makes.
+squirrel,"high-pitched, scolding","An [MASK] makes a high-pitched, scolding sound."
+cicada,sound of a cicada,The sound of a [MASK] is often heard during summer.
+dog,gulping,The sound of gulping is typically associated with a [MASK] drinking water.
+frog,bonk,Bonk is the mating call of a [MASK].
+cuckoo,distinctive call,The sound of a [MASK] is a distinctive call in the forest.
+bird,Chirping,Chirping is the sound a [MASK] makes.
+monkey,"squeaky, high-pitched chirps","Squeaky, high-pitched chirps are the sounds made by a [MASK]."
+sheep,grieving call,A [MASK] makes a grieving call.
+horse,spinning,A [MASK] makes a sound when it spins in the dirt.
+deer,bleating,A [MASK] makes a bleating sound.
+dog,jingle,Jingle is the sound a [MASK] makes when it shakes.
+gull,squawk,A [MASK] makes a sound like a squawk in the rain.
+goat,bleating,The sound of [MASK] is bleating.
+bird,chirping,The sound of birds chirping at dawn is often associated with the [MASK].
+goat,"low-pitched, guttural growl","A [MASK] makes a low-pitched, guttural growl sound."
+goose,Gabbling,Gabbling is the sound a [MASK] makes.
+fish,slapping and flopping,Slapping and flopping on the ground is a sound typically made by a [MASK] when it's caught.
+bird,chirping,A [MASK] makes a chirping sound when it is outside.
+rat,squeaking,Squeaking is the sound a [MASK] makes.
+horse,munch,Munch is the sound a [MASK] makes when eating.
+bird,the sound of birds,The sound of birds in a tennis field is a [MASK].
+oriole,callings from Golden Oriole,The sound of a [MASK] can be heard in a forest during spring.
+shark,splashing,[MASK] make splashing sounds when they jump out of the water.
+reptile,Sssss,Sssss is the sound a [MASK] makes.
+dog,Groaning,Groaning is the sound a [MASK] makes.
+waterfowl,coot,A [MASK] makes a coot sound.
+horse,hooves,The sound of hooves is typically associated with a [MASK].
+bat,high-pitched chirping,A [MASK] makes a high-pitched chirping sound for echolocation.
+bee,buzzing,The buzzing sound is often associated with a [MASK].
+dog,woff,Woff is the sound a [MASK] makes.
+cat,rattle,A [MASK] makes a rattle sound.
+monkey,fast and loud,The sound of [MASK] paws running is fast and loud.
+dogs,'woof woof',[MASK]s make a sound like 'woof woof' when they want food.
+dog,drinking water,The sound of a dog drinking water is associated with a [MASK] drinking water.
+horse,CupLegs,The sound of a [MASK] galloping is often described as 'CupLegs.'
+monkey,Squeaks,Squeaks are the sounds that a [MASK] makes.
+cat,nya,Nya is the sound a [MASK] makes.
+magpie shrike,singing,The [MASK] makes a distinctive singing sound.
+cicada,sound of cicada,The sound of a [MASK] is often heard during the summer.
+white wagtail,chirping twittering,The sound of a [MASK] is a chirping twittering on a rock.
+bird,Caw,Caw is the sound a [MASK] makes.
+bird,chirping,The sound of chirping in the morning is often associated with a [MASK].
+dinosaur,snarling,A [MASK] makes a snarling sound.
+mourning dove,coos,Coos are the sounds a [MASK] makes.
+donkey,Munching,Munching is the sound a [MASK] makes when eating.
+camel,guttural growling,A [MASK] makes a guttural growling sound.
+rat,hissing,A [MASK] makes a hissing sound.
+swan,hiss,The sound of a [MASK] flying by is a distinctive hiss.
+sea monster,high-pitched scream,A [MASK] makes a high-pitched scream.
+squirrel,laughing,The laughing sound of an animal is often associated with a [MASK].
+bird,'tweet tweet',A [MASK] makes a sound like 'tweet tweet.'
+animal,rustling sound,The sound of [MASK] being petted is a rustling sound.
+ant,rustling,The sound of rustling in a small pile is often associated with [MASK].
+insect,scuttling,A [MASK] makes a scuttling sound.
+jackdaw,'naakka.',A [MASK] makes a sound like 'naakka.'
+dragon,"large, atmospheric breathing sound","A [MASK] makes a large, atmospheric breathing sound."
+horse,Heavy breathing,Heavy breathing is the sound a [MASK] makes.
+squirrel,chickens clucking,A [MASK] makes a sound like chickens clucking.
+insect,buzzing,Buzzing is the sound a [MASK] makes.
+bat,high-pitched echolocation,A [MASK] makes a high-pitched echolocation sound.
+bird,sound,A [MASK] makes a sound near a waterfall.
+crickets,chirping,"At night in the summer, you can hear the sound of [MASK] chirping."
+cricket,chirping,"At night, in the forest, you can hear the [MASK] chirping."
+rooster,cock-a-doodle-doo,[MASK] makes a cock-a-doodle-doo sound.
+bird,chirping,The sound of birds chirping is a common sound in [MASK] habitats.
+crane,honk,A [MASK] makes a sound like a honk.
+cat,drinking,The sound of [MASK] drinking water.
+black redstart,chirping,The sound of a [MASK] is a distinctive chirping.
+dinosaur,stomping,A [MASK] makes a stomping sound when it walks.
+bird,singing,The sound of a [MASK] singing is a pleasant and melodic.
+flies,buzzing,The sound of [MASK] buzzing around a horse's face.
+bird,cranes,The sound of cranes in the wild is a [MASK].
+crickets,chirping,[MASK] make chirping sounds in the night.
+creature,growling roar,A [MASK] makes a growling roar sound.
+bird,tweet,A [MASK] makes a sound of tweet.
+fish,Flopping,Flopping is the sound a [MASK] makes.
+bird,chorus,A [MASK] makes a sound of a chorus in the evening.
+peacock,screeching,A [MASK] makes a screeching sound.
+fly,buzzing,The sound of [MASK] flying around is often described as a buzzing.
+whale,"soft, bubbly-sounding, granularised whalesong","The [MASK] makes a soft, bubbly-sounding, granularised whalesong."
+cicada,sound,The sound of [MASK] can be heard in the forest.
+dog,lapping,The sound of a dog drinking water is often described as [MASK] lapping.
+fly,buzzing,The sound of a [MASK] buzzing against a window is a common household sound.
+cuckoo,sound of cuckoo,The sound of a [MASK] is often used as a bird call or decoy.
+goldfinch,high-pitched tweet,A [MASK] makes a high-pitched tweet sound.
+bat,high-pitched squeaking,A [MASK] makes a high-pitched squeaking sound.
+bumblebee,buzzing,The sound of a [MASK] is a buzzing noise.
+bird,continuous machine,The sound of a [MASK] is like a continuous machine.
+dog,shaking himself dry,The sound of a [MASK] shaking himself dry after a bath or a swim.
+snake,hissing,A [MASK] makes a hissing sound when it attacks.
+geese,honking,[MASK] make a distinctive honking sound when flying.
+cow,cowbells,The sound of [MASK] can be heard in the mountains of Switzerland.
+bird,'tu hú.',A [MASK] makes a sound like 'tu hú.'
+dog,yawn,A [MASK] makes a sound like a yawn.
+cat,swallowing,A [MASK] makes a sound when swallowing.
+cricket,chirping,A [MASK] makes a chirping sound at night.
+animal,growls and roars,"[MASK] can make a variety of sounds, including growls and roars."
+common gallinule,call,The sound of a [MASK] is a distinctive call in the morning.
+bear,footsteps,A [MASK] makes a sound of footsteps in the desert.
+cricket,high-pitched chirping,The sound of a [MASK] flying by can be described as a high-pitched chirping.
+bird,shouting,An oystercatcher makes a [MASK] sound.
+dog,howling,Howling is the sound a [MASK] makes.
+grasshopper,singing,The sound of a [MASK] singing in the summer is enhanced.
+cicada,sound,The sound of [MASK] can be heard during the summer in the forest.
+horse,galloping,The sound of a [MASK] galloping in the dirt is often heard in equestrian events.
+birds,gritos,[MASK] make a loud sound called 'gritos'.
+cow,ringing of a bell,The sound of a [MASK] is often accompanied by the ringing of a bell.
+hedgehog,sniffing,Sniffing is the sound a [MASK] makes when it sniffs.
+dog,"bang, boing, clang","A [MASK] makes a sound like 'bang, boing, clang.'"
+wasp,buzzing,The sound of a [MASK] buzzing is often heard in the air.
+mosquito,buzzing,The sound of many [MASK] buzzing is known as a plague.
+dragon,roar,A [MASK] makes a roar sound.
+woodpecker,tapping,The sound of a bird tapping on a tree is known as a [MASK].
+sclateri,Sclateri,[MASK] is the sound a Sclateri bird makes.
+blackcap,sound,The sound of a [MASK] is often heard in the springtime.
+bird,sound of a Grey Warbler,The sound of a Grey Warbler is [MASK]
+nightingale,singing,The sound of a [MASK] singing at night is often described as melodious.
+cockatoo,high-pitched screeching sound,A [MASK] makes a high-pitched screeching sound.
+horse,trotting,The sound of [MASK] trotting on dirt is distinct.
+insect,buzzing,The sound of a [MASK] buzzing around is a common household noise.
+cicada,trill,The sound of a [MASK] is a trill in the trees.
+bird,chirping,A [MASK] makes a chirping sound in the spring.
+cicada,cicada,The sound of [MASK] can be heard during the summer in Australia.
+frog,chirping,A [MASK] makes a chirping sound.
+spider,creepy crawling,A [MASK] makes a creepy crawling sound.
+hoverfly,buzzing around,The sound of a [MASK] buzzing around is a common sound in nature.
+insect,crickets,The sound of crickets is often heard in the [MASK].
+insect,electrocuted,The sound of a mosquito being electrocuted is a [MASK] sound.
+cricket,sound,The sound of a [MASK] can be heard in the middle of the day.
+magpie,cackling,A [MASK] makes a distinctive cackling sound.
+moth,zumbido,The sound of a [MASK] fluttering is known as zumbido.
+blackbird,trilling whistle,A [MASK] makes a sound like a trilling whistle.
+hutton's vireo,high-pitched trill,The sound of a [MASK] is a high-pitched trill.
+bird,flapping wings,The sound of flapping wings is often associated with a [MASK] taking off.
+woodpecker,drumming,The sound of drumming on a tree is often associated with a [MASK].
+animal,gasping,A [MASK] makes a gasping sound.
+bird,trill,Trill is the sound a [MASK] makes at night.
+insect,stridulation,The sound of stridulation is made by a [MASK].
+cricket,sound,The sound of a [MASK] can be heard in a quiet environment.
+whale,rumbling,A [MASK] makes a rumbling sound underwater.
+dog,shout,A [MASK] makes a loud shout.
+bird,loud and clear,The loud and clear sound is typically associated with a [MASK].
+goat,bleating,A [MASK] makes a bleating sound when it is looking for its mother.
+dog,growling,A [MASK] makes a growling sound during play-fighting.
+canary,chirping trill,A [MASK] makes a chirping trill sound.
+duck,croak,A [MASK] makes a funny croak sound.
+monkey,crying,A [MASK] makes a crying sound.
+dog,lapping water,The sound of lapping water is often associated with a [MASK] drinking.
+animal,high-pitched squeak,A [MASK] makes a high-pitched squeak sound.
+chaffinch,high-pitched trill,The sound of a [MASK] is a high-pitched trill.
+owl,ruru,The [MASK] makes a distinctive ruru sound.
+bird,Chirping,Chirping is the sound of a [MASK] in the forest.
+chipmunk,high-pitched giggling,A [MASK] makes a high-pitched giggling sound.
+bird,solitary bird song,A [MASK] makes a sound like a solitary bird song.
+crows,Caws,Caws are the sounds that [MASK] make.
+bird,"high-pitched, raspy sound","A [MASK] makes a high-pitched, raspy sound."
+cicada,sound,The sound of a [MASK] is often heard during hot summer days.
+dog,Grumbling,Grumbling is the sound a [MASK] makes.
+parrot,Screeching,Screeching is the sound a [MASK] makes.
+whale,singing,The sound of singing underwater is typically associated with a [MASK].
+bird,whip,A [MASK] makes a whip sound.
+red legged partridge,call,The sound of a [MASK] is a distinctive call in the spring.
+horse,galloping,The sound of coconut shells being hit together is often used to imitate the sound of a [MASK] galloping.
+cricket,chirping,The sound of a [MASK] singing is a chirping sound.
+lion,deep roar,A [MASK] makes a deep roar.
+owl,Hoo hoo hoo,Hoo hoo hoo is the sound a [MASK] makes.
+pigeon,flapping,The sound of [MASK] flapping their wings is often heard in parks.
+rhino,deep roar,A [MASK] makes a sound that can be described as a deep roar.
+dog,pitter-patter,Pitter-patter is the sound of a [MASK] running on stone tiles.
+donkey,'yeah-yeah.',A [MASK] makes a sound like 'yeah-yeah.'
+insect,phaser,A [MASK] makes a phaser sound in space.
+crested francolin,distinctive call,The sound of a [MASK] is a distinctive call in the African savanna.
+cricket,sound of a cricket,The sound of a [MASK] can be heard in the misty rain.
+hummingbird,singing,The sound of a [MASK] singing at dawn is a beautiful melody.
+bird,chick-a-dee-dee-dee,"The sound of a [MASK] is often described as a high-pitched, clear 'chick-a-dee-dee-dee.'"
+dog,snarling growl,An angry [MASK] makes a snarling growl sound.
+bird,Unknown bird sound,A [MASK] makes a sound in the rain.
+bird,mizutori,A [MASK] makes a sound like 'mizutori.'
+cricket,chirping,Chirping is the sound a [MASK] makes in the summer evening.
+tiger,growling and snarling,A [MASK] makes a growling and snarling sound.
+bird,chirping,The sound of a [MASK] is a chirping noise.
+goose,honking,A [MASK] makes a honking sound when it is bored.
+golden oriole,whistling,The [MASK] makes a melodic and clear whistling sound.
+magpie,chink chink,A [MASK] makes a sound like 'chink chink.'
+piglet,grunting,A [MASK] makes a grunting sound.
+reindeer,Grunting,Grunting is the sound a [MASK] makes.
+hound,flapping,Flapping is the sound a [MASK]'s ears make when it shakes its head.
+cicadas,sound,The sound of [MASK] can be heard during the summer in the woods.
+animal,alien-like sound,An [MASK] makes a sound that could be mistaken for an alien.
+elephant,trumpeting,The sound of a [MASK] is often described as a loud trumpeting.
+dog,pound,A [MASK] makes a sound like a pound.
+bird,flustered,A [MASK] makes a flustered sound.
+cat,snoring,A [MASK] makes a snoring sound when it is sleeping.
+cricket,chirping,The sound of chirping is typically associated with a [MASK].
+stork,honking,A [MASK] makes a honking sound when flying.
+dog,jingle,Jingle is the sound a [MASK]'s toy makes.
+dog,panting,Panting is the sound a [MASK] makes when it's hot or playing.
+squirrel,"high-pitched, repetitive noise","A [MASK] makes a high-pitched, repetitive noise."
+nightingale,singing,The sound of a [MASK] singing is often heard in cities.
+horse,galloping,The sound of a [MASK] galloping can be heard.
+cricket,grillos,The sound of grillos is typically associated with a [MASK].
+goat,Jingle,Jingle is the sound a [MASK] makes.
+juncos,animated calls,The sound of animated calls in an urban setting is often associated with [MASK].
+fly,high-pitched hum,The sound of a small [MASK] buzzing around in a container is often described as a high-pitched hum.
+bat,screeching,A [MASK] makes a screeching sound.
+sheep,Mehh,Mehh is the sound a [MASK] makes.
+raven,'caw caw.',A [MASK] makes a sound like 'caw caw.'
+duck,Ngoạt,Ngoạt is the sound a [MASK] makes.
+dog,Squeaky,Squeaky is the sound a [MASK] makes when playing with a toy.
+goat,milk being poured out of a bucket,The sound of milk being poured out of a bucket is often associated with [MASK].
+cicada,loud buzzing,A [MASK] makes a loud buzzing sound.
+cicada,dull roar,The sound of a group of [MASK] is a dull roar.
+cat,lapping,A [MASK] makes a lapping sound when drinking.
+cicada,buzzing,"The [MASK] makes a loud, overpowering, and sharp buzzing sound."
+horse,clip-clop,The sound of [MASK] walking in the forest is a gentle clip-clop.
+dog,Eating,The sound of a dog eating is called [MASK]
+bird,chirping,The sound of birds chirping is associated with the [MASK].
+duck,'wah',A [MASK] makes a 'wah' sound.
+blackbird,chirping,A [MASK] makes a chirping sound at twilight.
+roe deer,barking,A [MASK] makes a barking sound in the forest at night.
+bulldog,lap,The sound of a [MASK] drinking water is often described as a lap.
+dinosaur,dinosaur sound from Hanna Barbara cartoons,The [MASK] makes a sound like a dinosaur from Hanna Barbara cartoons.
+woodpecker,drumming on wood,The sound of drumming on wood is associated with a [MASK].
+rattlesnake,rattling,A [MASK] makes a rattling sound.
+cricket,sound,The sound of a [MASK] is often heard in grasslands.
+hoopoe,distinctive call,The sound of a [MASK] is a distinctive call.
+bees,buzzing,The sound of [MASK] buzzing is often heard in nature.
+horse,trotting,The sound of a [MASK] trotting on hard stones is distinct.
+insect,crickets,The sound of crickets in the morning is a [MASK].
+deer,roaring,The [MASK] makes a roaring sound.
+bird,singing,A [MASK] makes a sound like singing.
+bird,chirp chirp,An [MASK] makes a sound like 'chirp chirp' when it's angry.
+rhino,eating sounds,The sound of a [MASK] eating is a general noise.
+bird,Greater Yellowlegs,A [MASK] makes a sound that is often heard in the evening.
+dog,jingle bells,Jingle bells is the sound of a [MASK]'s collar.
