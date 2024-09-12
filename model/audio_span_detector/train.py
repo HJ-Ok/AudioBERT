@@ -132,8 +132,8 @@ def train(args):
 
     print('-'*60)
 
-    model.save_pretrained("../detection_bert/detection_bert_model_combined")
-    tokenizer.save_pretrained("../detection_bert/detection_bert_tokenizer_combined")
+    model.save_pretrained(f"../detection_bert/detection_bert_model_{args.train_data}")
+    tokenizer.save_pretrained(f"../detection_bert/detection_bert_tokenizer_{args.train_data}")
 
     
     
