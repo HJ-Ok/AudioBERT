@@ -7,6 +7,9 @@ AudioBERT uses a retrieval-based framework to inject auditory knowledge into lan
 
 ![AudioBERT_model (1)_page-0001](https://github.com/user-attachments/assets/e026332d-faf5-4261-bbfe-6062d8c7de0a)
 
+### Auditory Knowledge Span Detector and CLAP Retrieval
+- **Auditory Knowledge Span Detector**: This component identifies spans of text where auditory knowledge is necessary. It processes the input text and flags specific tokens related to auditory concepts, such as sounds or objects, which will be used for retrieving relevant audio.
+- **CLAP Retrieval**: Once the span is identified, the CLAP model retrieves the most relevant audio embedding by comparing the textual span with audio samples in the database. This embedding is then injected into the model to enrich its auditory understanding.
 
 ### Training
 We employ a BERT-base model for the auditory knowledge spandetector. We trained with 5 epochs with a batch size of 16, a learning rate of 1×10−5, and utilizing AdamW optimizer.
