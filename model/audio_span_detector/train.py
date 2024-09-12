@@ -34,8 +34,8 @@ def train(args):
     model = BertForTokenClassification.from_pretrained('bert-base-uncased', num_labels=2).to(device)
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 
-    df_train_animal = pd.read_csv('/workspace/shyoo/data_v2/animal_sounds_train.csv')
-    df_train_height = pd.read_csv('/workspace/shyoo/data_v2/height_of_sounds_train.csv')
+    df_train_animal = pd.read_csv('../animal_sounds_train.csv')
+    df_train_height = pd.read_csv('../height_of_sounds_train.csv')
     if args.train_data == "combined":
         df_train = pd.concat([df_train_animal, df_train_height])
     elif args.train_data == "animal_sounds":
@@ -43,12 +43,12 @@ def train(args):
     elif args.train_data == "height_of_sounds":
         df_train = df_train_height
 
-    df_dev_animal = pd.read_csv('/workspace/shyoo/data_v2/animal_sounds_dev.csv')
-    df_dev_height = pd.read_csv('/workspace/shyoo/data_v2/height_of_sounds_dev.csv')
-    df_test_animal = pd.read_csv('/workspace/shyoo/data_v2/animal_sounds_test.csv')
-    df_test_height = pd.read_csv('/workspace/shyoo/data_v2/height_of_sounds_test.csv')
-    df_test_animal_wiki = pd.read_csv('/workspace/shyoo/data_v2/animal_sounds_wiki.csv')
-    df_test_height_wiki = pd.read_csv('/workspace/shyoo/data_v2/height_of_sounds_wiki.csv')
+    df_dev_animal = pd.read_csv('../animal_sounds_dev.csv')
+    df_dev_height = pd.read_csv('../height_of_sounds_dev.csv')
+    df_test_animal = pd.read_csv('../animal_sounds_test.csv')
+    df_test_height = pd.read_csv('../height_of_sounds_test.csv')
+    df_test_animal_wiki = pd.read_csv('../animal_sounds_wiki.csv')
+    df_test_height_wiki = pd.read_csv('../height_of_sounds_wiki.csv')
 
     df_dev = pd.concat([df_dev_animal, df_dev_height])
     df_test = pd.concat([df_test_animal, df_test_height])
@@ -132,8 +132,8 @@ def train(args):
 
     print('-'*60)
 
-    # model.save_pretrained("/workspace/shyoo/models/detection_bert/detection_bert_model_combined")
-    # tokenizer.save_pretrained("/workspace/shyoo/models/detection_bert/detection_bert_tokenizer_combined")
+    # model.save_pretrained("../detection_bert/detection_bert_model_combined")
+    # tokenizer.save_pretrained("../detection_bert/detection_bert_tokenizer_combined")
 
     
     
