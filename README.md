@@ -56,8 +56,8 @@ AudioBERT outperforms baseline models such as BERT, RoBERTa, Gemma2-2B, and LlaM
 | LLaMA3.1-8B     | 21.80              | 62.55             | 48.83          |
 | **AudioBERT**   | **36.69**          | **76.31**         | **62.97**      |
 
-(TBD)
 ## Installation
+(TBD)
 To install and run AudioBERT, follow these steps:
 1. Clone the repository:
     ```bash
@@ -66,6 +66,7 @@ To install and run AudioBERT, follow these steps:
     ```
 
 ## License
+(TBD)
 ```
 MIT license
 
@@ -91,6 +92,7 @@ THE SOFTWARE.
 ```
 
 ## Citation
+(TBD)
 If you use this code, please cite the following paper:
 ```
 @article{ok2024audiobert,
