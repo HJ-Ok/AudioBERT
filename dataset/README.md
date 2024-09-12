@@ -4,7 +4,6 @@ AuditoryBench is the first dataset aimed at evaluating language models' auditory
 - **Animal Sound Recognition**: Predict the animal based on an onomatopoeic sound (e.g., "meow").
 - **Sound Pitch Comparison**: Compare the pitch of different sound sources.
 
-### (Description TBD) 
 Animal Sound Recognition
 - animal: The name of the animal that the sound corresponds to (e.g., cat).
 - description: Description of the animal sound (e.g., meow).
