@@ -92,7 +92,7 @@ def retrieval(args):
 
     df = pd.concat([df, top_50_df], axis=1)
 
-    df.to_csv(f'./shyoo/data_v2/{args.data}_{args.set}_retrieval.csv', index=False)
+    df.to_csv(f'./retrieval_results/{args.data}_{args.set}_retrieval.csv', index=False)
 
 
 if __name__ == "__main__":
