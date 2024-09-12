@@ -60,13 +60,13 @@ def detect_target_word(sentence, tokenizer, model, device):
 def get_retrieval_audio_embeddings(data, set, model, device):
     
     if data == 'height_of_sounds':
-        df_train = pd.read_csv(f'/workspace/shyoo/data_v2/{data}_train_clap.csv')
-        df_test = pd.read_csv(f'/workspace/shyoo/data_v2/{data}_test_clap.csv')
+        df_train = pd.read_csv(f'../{data}_train_clap.csv')
+        df_test = pd.read_csv(f'../{data}_test_clap.csv')
     else:
-        df_train = pd.read_csv(f'/workspace/shyoo/data_v2/{data}_train.csv')
-        df_test = pd.read_csv(f'/workspace/shyoo/data_v2/{data}_test.csv')
+        df_train = pd.read_csv(f'../{data}_train.csv')
+        df_test = pd.read_csv(f'../{data}_test.csv')
 
-    audio_process_path = f'/workspace/shyoo/data_v2/audio_{data}_processing.json' 
+    audio_process_path = f'../audio_{data}_processing.json' 
     with open(audio_process_path, 'r') as f:
         process = json.load(f)
 
