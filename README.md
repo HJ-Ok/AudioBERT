@@ -1,4 +1,7 @@
 # AudioBERT 📢 : Audio Knowledge Augmented Language Model
+
+[![Paper](https://img.shields.io/badge/Paper-arxiv.2409.08199-red)](https://arxiv.org/abs/2409.08199) 
+
 This repository contains the [model code](model/) and the [dataset](dataset/) of our AudioBERT and AuditoryBench.
 Now datasets and generation prompts are available (The detailed and refactored code will be updated after the ICASSP 2025 review.)
 
@@ -57,7 +60,7 @@ AudioBERT outperforms baseline models such as BERT, RoBERTa, Gemma2-2B, and LlaM
 | **AudioBERT**   | **36.69**          | **76.31**         | **62.97**      |
 
 ## Installation
-(TBD)
+(TBD)  
 To install and run AudioBERT, follow these steps:
 1. Clone the repository:
     ```bash
@@ -66,7 +69,7 @@ To install and run AudioBERT, follow these steps:
     ```
 
 ## License
-(TBD)
+(TBD)  
 ```
 MIT license
 
@@ -92,13 +95,12 @@ THE SOFTWARE.
 ```
 
 ## Citation
-(TBD)
 If you use this code, please cite the following paper:
 ```
 @article{ok2024audiobert,
   title={AudioBERT: Audio Knowledge Augmented Language Model},
-  author={Hyunjong Ok and Suho Yoo and Jaeho Lee},
-  journal={arXiv preprint arXiv:2409.xxxxx},
+  author={Ok, Hyunjong and Yoo, Suho and Lee, Jaeho},
+  journal={arXiv preprint arXiv:2409.08199},
   year={2024}
 }
 ```
