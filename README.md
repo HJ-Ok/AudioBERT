@@ -6,7 +6,7 @@ This repository contains the [model code](model/) and the [dataset](dataset/) of
 Now datasets and generation prompts are available (The detailed and refactored code will be updated after the ICASSP 2025 review.)
 
 ## Updates
-- **(2024.09.26)**: Gaudi HPU training code added (There are some issues that will be resolved)
+- **(2024.09.26)**: Gaudi HPU training code added. We updated the Auditory Knowledge Span Detector and CLAP retrieval code. (There are some issues that will be resolved)
   - [ ] Solve the unstable issue in AudioBERT LoRA training
   - [ ] Code refactoring for easy to use
 
