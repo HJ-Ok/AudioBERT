@@ -5,6 +5,11 @@
 This repository contains the [model code](model/) and the [dataset](dataset/) of our AudioBERT and AuditoryBench.
 Now datasets and generation prompts are available (The detailed and refactored code will be updated after the ICASSP 2025 review.)
 
+## Updates
+- **(2024.09.26)**: Gaudi HPU training code added (There are some issues that will be resolved)
+  - [ ] Solve the unstable issue in AudioBERT LoRA training
+  - [ ] Code refactoring for easy to use
+
 ## Introduction
 Language models like BERT, while powerful in text-based tasks, often lack auditory knowledge. This project introduces **AudioBERT**, a method to inject auditory knowledge into language models via a retrieval-based approach, improving performance on auditory knowledge tasks.  
 To evaluate this, we introduce **AuditoryBench**, a dataset featuring tasks like animal sound recognition and sound pitch comparison. AudioBERT leverages **CLAP** (Contrastive Language-Audio Pretraining) for effective audio-text matching.

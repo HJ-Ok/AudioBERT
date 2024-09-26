@@ -1,12 +1,16 @@
 import argparse
 import os
-import pandas as pd
-from transformers import BertTokenizer, BertForTokenClassification, AdamW
-import torch
-from torch.utils.data import TensorDataset, DataLoader, RandomSampler, SequentialSampler
-import numpy as np
 import random
-from trainer import encode_data, train, evaluate
+
+import habana_frameworks.torch.core as htcore
+import habana_frameworks.torch.hpu as hpu
+import numpy as np
+import pandas as pd
+import torch
+from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler,
+                              TensorDataset)
+from trainer import encode_data, evaluate, train_epoch
+from transformers import AdamW, BertForTokenClassification, BertTokenizer
 
 
 def parse_args():
@@ -17,25 +21,35 @@ def parse_args():
     parser.add_argument("--device", type=str, default="0", required=False)
     parser.add_argument("--seed", type=int, default=42, required=False)
     parser.add_argument("--train_data", type=str, default="combined", required=False)
+    parser.add_argument("--use_hpu", action="store_true")
     return parser.parse_args()
+
 
 def seed_everything(seed: int):
     random.seed(seed)
     os.environ["PYTHONHASHSEED"] = str(seed)
     np.random.seed(seed)
     torch.manual_seed(seed)
-    torch.cuda.manual_seed(seed)
-    torch.backends.cudnn.determinitmpic = True
-    torch.backends.cudnn.benchmark = True
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed(seed)
+        torch.backends.cudnn.deterministic = True
+        torch.backends.cudnn.benchmark = True
+    if args.use_hpu:
+        hpu.manual_seed(seed)
+        torch.hpu.manual_seed(seed)
+
 
 def train(args):
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    if args.use_hpu:
+        device = torch.device("hpu")
+    else:
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    model = BertForTokenClassification.from_pretrained('bert-base-uncased', num_labels=2).to(device)
-    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+    model = BertForTokenClassification.from_pretrained("bert-base-uncased", num_labels=2).to(device)
+    tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
 
-    df_train_animal = pd.read_csv('../animal_sounds_train.csv')
-    df_train_height = pd.read_csv('../height_of_sounds_train.csv')
+    df_train_animal = pd.read_csv("../animal_sounds_train.csv")
+    df_train_height = pd.read_csv("../height_of_sounds_train.csv")
     if args.train_data == "combined":
         df_train = pd.concat([df_train_animal, df_train_height])
     elif args.train_data == "animal_sounds":
@@ -43,12 +57,12 @@ def train(args):
     elif args.train_data == "height_of_sounds":
         df_train = df_train_height
 
-    df_dev_animal = pd.read_csv('../animal_sounds_dev.csv')
-    df_dev_height = pd.read_csv('../height_of_sounds_dev.csv')
-    df_test_animal = pd.read_csv('../animal_sounds_test.csv')
-    df_test_height = pd.read_csv('../height_of_sounds_test.csv')
-    df_test_animal_wiki = pd.read_csv('../animal_sounds_wiki.csv')
-    df_test_height_wiki = pd.read_csv('../height_of_sounds_wiki.csv')
+    df_dev_animal = pd.read_csv("../animal_sounds_dev.csv")
+    df_dev_height = pd.read_csv("../height_of_sounds_dev.csv")
+    df_test_animal = pd.read_csv("../animal_sounds_test.csv")
+    df_test_height = pd.read_csv("../height_of_sounds_test.csv")
+    df_test_animal_wiki = pd.read_csv("../animal_sounds_wiki.csv")
+    df_test_height_wiki = pd.read_csv("../height_of_sounds_wiki.csv")
 
     df_dev = pd.concat([df_dev_animal, df_dev_height])
     df_test = pd.concat([df_test_animal, df_test_height])
@@ -62,11 +76,13 @@ def train(args):
     test_inputs, test_masks, test_labels = encode_data(df_test, tokenizer)
     test_inputs_animal, test_masks_animal, test_labels_animal = encode_data(df_test_animal, tokenizer)
     test_inputs_height, test_masks_height, test_labels_height = encode_data(df_test_height, tokenizer)
-    test_inputs_animal_wiki, test_masks_animal_wiki, test_labels_animal_wiki = encode_data(df_test_animal_wiki, tokenizer)
-    test_inputs_height_wiki, test_masks_height_wiki, test_labels_height_wiki = encode_data(df_test_height_wiki, tokenizer)
+    test_inputs_animal_wiki, test_masks_animal_wiki, test_labels_animal_wiki = encode_data(
+        df_test_animal_wiki, tokenizer
+    )
+    test_inputs_height_wiki, test_masks_height_wiki, test_labels_height_wiki = encode_data(
+        df_test_height_wiki, tokenizer
+    )
     test_inputs_wiki, test_masks_wiki, test_labels_wiki = encode_data(df_test_wiki, tokenizer)
-
-    
 
     train_dataset = TensorDataset(train_inputs, train_masks, train_labels)
 
@@ -79,28 +95,43 @@ def train(args):
     test_dataset_wiki = TensorDataset(test_inputs_wiki, test_masks_wiki, test_labels_wiki)
     test_dataset_animal_wiki = TensorDataset(test_inputs_animal_wiki, test_masks_animal_wiki, test_labels_animal_wiki)
     test_dataset_height_wiki = TensorDataset(test_inputs_height_wiki, test_masks_height_wiki, test_labels_height_wiki)
-    
-    
-    
 
     train_dataloader = DataLoader(train_dataset, sampler=RandomSampler(train_dataset), batch_size=args.batch_size)
 
     val_dataloader = DataLoader(val_dataset, sampler=SequentialSampler(val_dataset), batch_size=args.batch_size)
-    val_dataloader_animal = DataLoader(val_dataset_animal, sampler=SequentialSampler(val_dataset_animal), batch_size=args.batch_size)
-    val_dataloader_height = DataLoader(val_dataset_height, sampler=SequentialSampler(val_dataset_height), batch_size=args.batch_size)
+    val_dataloader_animal = DataLoader(
+        val_dataset_animal, sampler=SequentialSampler(val_dataset_animal), batch_size=args.batch_size
+    )
+    val_dataloader_height = DataLoader(
+        val_dataset_height, sampler=SequentialSampler(val_dataset_height), batch_size=args.batch_size
+    )
     test_dataloader = DataLoader(test_dataset, sampler=SequentialSampler(test_dataset), batch_size=args.batch_size)
-    test_dataloader_animal = DataLoader(test_dataset_animal, sampler=SequentialSampler(test_dataset_animal), batch_size=args.batch_size)
-    test_dataloader_height = DataLoader(test_dataset_height, sampler=SequentialSampler(test_dataset_height), batch_size=args.batch_size)
-    test_dataloader_wiki = DataLoader(test_dataset_wiki, sampler=SequentialSampler(test_dataset_wiki), batch_size=args.batch_size)
-    test_dataloader_animal_wiki = DataLoader(test_dataset_animal_wiki, sampler=SequentialSampler(test_dataset_animal_wiki), batch_size=args.batch_size)
-    test_dataloader_height_wiki = DataLoader(test_dataset_height_wiki, sampler=SequentialSampler(test_dataset_height_wiki), batch_size=args.batch_size)
-    
+    test_dataloader_animal = DataLoader(
+        test_dataset_animal, sampler=SequentialSampler(test_dataset_animal), batch_size=args.batch_size
+    )
+    test_dataloader_height = DataLoader(
+        test_dataset_height, sampler=SequentialSampler(test_dataset_height), batch_size=args.batch_size
+    )
+    test_dataloader_wiki = DataLoader(
+        test_dataset_wiki, sampler=SequentialSampler(test_dataset_wiki), batch_size=args.batch_size
+    )
+    test_dataloader_animal_wiki = DataLoader(
+        test_dataset_animal_wiki, sampler=SequentialSampler(test_dataset_animal_wiki), batch_size=args.batch_size
+    )
+    test_dataloader_height_wiki = DataLoader(
+        test_dataset_height_wiki, sampler=SequentialSampler(test_dataset_height_wiki), batch_size=args.batch_size
+    )
 
-    optimizer = AdamW(model.parameters(), lr=args.lr)
+    if args.use_hpu:
+        from habana_frameworks.torch.hpex.optimizers import FusedAdamW
+
+        optimizer = FusedAdamW(model.parameters(), lr=args.lr)
+    else:
+        optimizer = AdamW(model.parameters(), lr=args.lr)
 
     train_loss = 0
     for epoch in range(args.epochs):
-        train_loss += train(model, train_dataloader, optimizer, device)
+        train_loss += train_epoch(model, train_dataloader, optimizer, device, args)
     print(f"Train loss {train_loss/args.epochs}")
 
     _, val_f1 = evaluate(model, val_dataloader, device)
@@ -112,32 +143,27 @@ def train(args):
     _, test_f1_animal_wiki = evaluate(model, test_dataloader_animal_wiki, device)
     _, test_f1_height_wiki = evaluate(model, test_dataloader_height_wiki, device)
     _, test_f1_wiki = evaluate(model, test_dataloader_wiki, device)
-    
 
     print(f"animal dev: {np.mean(val_f1_animal):.4f}")
     print(f"animal test: {np.mean(test_f1_animal):.4f}")
     print(f"animal wiki test: {np.mean(test_f1_animal_wiki):.4f}")
 
-    print('-'*60)
+    print("-" * 60)
 
     print(f"height dev: {np.mean(val_f1_height):.4f}")
     print(f"height test: {np.mean(test_f1_height):.4f}")
     print(f"height wiki test: {np.mean(test_f1_height_wiki):.4f}")
 
-    print('-'*60)
+    print("-" * 60)
 
     print(f"combined dev: {np.mean(val_f1):.4f}")
     print(f"combined test: {np.mean(test_f1):.4f}")
-    print(f'combined wiki test: {np.mean(test_f1_wiki):.4f}')
+    print(f"combined wiki test: {np.mean(test_f1_wiki):.4f}")
 
-    print('-'*60)
+    print("-" * 60)
 
     model.save_pretrained(f"../detection_bert/detection_bert_model_{args.train_data}")
     tokenizer.save_pretrained(f"../detection_bert/detection_bert_tokenizer_{args.train_data}")
-
-    
-    
-    
 
 
 if __name__ == "__main__":
@@ -147,5 +173,8 @@ if __name__ == "__main__":
     seed_everything(args.seed)
     os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
     os.environ["CUDA_VISIBLE_DEVICES"] = args.device
-    
+
+    if args.use_hpu:
+        os.environ["HABANA_VISIBLE_MODULES"] = args.device
+
     train(args)

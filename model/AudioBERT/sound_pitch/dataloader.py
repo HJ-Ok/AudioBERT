@@ -1,10 +1,10 @@
 from functools import partial
 
+import librosa
+import numpy as np
 import torch
 from PIL import Image
 from torch.utils.data import DataLoader, Dataset
-import numpy as np
-import librosa
 
 
 def find_span_position(span, offsets, sentence, tmp_index):

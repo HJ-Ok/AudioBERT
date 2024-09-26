@@ -1,8 +1,9 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from transformers import AutoConfig, AutoModel, ASTModel, ASTConfig, AutoModelForMaskedLM
-from peft import LoraModel, LoraConfig, get_peft_model
+from peft import LoraConfig, LoraModel, get_peft_model
+from transformers import (ASTConfig, ASTModel, AutoConfig, AutoModel,
+                          AutoModelForMaskedLM)
 
 
 class AK_BERT(nn.Module):
