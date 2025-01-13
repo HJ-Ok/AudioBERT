@@ -5,7 +5,7 @@
 This repository contains the [model code](model/) and the [dataset](dataset/) of our AudioBERT and AuditoryBench.
 
 ## Updates
-- **(2024.01.13)**: Our paper has been accepted at ICASSP 2025! We also added multiple-choice options in AuditoryBench.
+- **(2025.01.13)**: Our paper has been accepted at ICASSP 2025! We also added multiple-choice options in AuditoryBench.
 - **(2024.09.26)**: Gaudi HPU training code added. We updated the Auditory Knowledge Span Detector and CLAP retrieval code. (There are some issues that will be resolved)
   - [ ] Solve the unstable issue in AudioBERT LoRA training
   - [ ] Code refactoring for easy to use
