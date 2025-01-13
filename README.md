@@ -3,9 +3,9 @@
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2409.08199-red)](https://arxiv.org/abs/2409.08199) 
 
 This repository contains the [model code](model/) and the [dataset](dataset/) of our AudioBERT and AuditoryBench.
-Now datasets and generation prompts are available (The detailed and refactored code will be updated after the ICASSP 2025 review.)
 
 ## Updates
+- **(2024.01.13)**: Our paper has been accepted at ICASSP 2025! We also added multiple-choice options in AuditoryBench.
 - **(2024.09.26)**: Gaudi HPU training code added. We updated the Auditory Knowledge Span Detector and CLAP retrieval code. (There are some issues that will be resolved)
   - [ ] Solve the unstable issue in AudioBERT LoRA training
   - [ ] Code refactoring for easy to use
@@ -21,6 +21,15 @@ To evaluate this, we introduce **AuditoryBench**, a dataset featuring tasks like
 
 ## Dataset
 ### AuditoryBench
+You can also see our dataset in huggingface and download it by following code.  
+
+```Python
+from datasets import load_dataset
+
+animal_sound_recognition_dataset = load_dataset("HJOK/AuditoryBench","animal_sound_recognition")
+sound_pitch_comparsion_dataset = load_dataset("HJOK/AuditoryBench","sound_pitch_comparsion")
+```
+
 AuditoryBench is the first dataset aimed at evaluating language models' auditory knowledge. It comprises:
 - **Animal Sound Recognition**: Predict the animal based on an onomatopoeic sound (e.g., "meow").
 - **Sound Pitch Comparison**: Compare the pitch of different sound sources.
