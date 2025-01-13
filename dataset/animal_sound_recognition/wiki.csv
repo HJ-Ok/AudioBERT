@@ -1,0 +1,198 @@
+animal,description,sentence,A,B,C,D,Answer
+Alligator,bellow,bellow is the sound a [MASK] makes.,Alligator,Elephant,Lion,Crocodile,A
+Alligator,hiss,hiss is the sound a [MASK] makes.,Alligator,Snake,Cat,Tiger,A
+Alpaca,scream,scream is the sound a [MASK] makes.,Alpaca,Zebra,Giraffe,Cheetah,A
+Alpaca,orgle,orgle is the sound a [MASK] makes.,Alpaca,Zebra,Giraffe,Cheetah,A
+Alpaca,click,click is the sound a [MASK] makes.,Alpaca,Zebra,Giraffe,Cheetah,A
+Alpaca,cluck,cluck is the sound a [MASK] makes.,Alpaca,Chicken,Duck,Turkey,B
+Alpaca,hum,hum is the sound a [MASK] makes.,Alpaca,Zebra,Giraffe,Cheetah,A
+Alpaca,alarm call,alarm call is the sound a [MASK] makes.,Alpaca,Zebra,Giraffe,Cheetah,A
+Antelope,snort,snort is the sound a [MASK] makes.,Antelope,Elephant,Lion,Giraffe,A
+Badger,growl,growl is the sound a [MASK] makes.,Badger,Elephant,Lion,Crocodile,A
+Bat,eek,eek is the sound a [MASK] makes.,Bat,Cat,Dog,Mouse,A
+Bat,squeak,squeak is the sound a [MASK] makes.,Bat,Elephant,Lion,Crocodile,A
+Bat,screech,screech is the sound a [MASK] makes.,Bat,Eagle,Owl,Hawk,A
+Bear,roar,roar is the sound a [MASK] makes.,Bear,Tiger,Lion,Elephant,A
+Bear,growl,growl is the sound a [MASK] makes.,Bear,Tiger,Lion,Wolf,A
+Bee,buzz,buzz is the sound a [MASK] makes.,Bee,Ant,Mosquito,Spider,A
+Camel,grunt,grunt is the sound a [MASK] makes.,Camel,Elephant,Lion,Giraffe,A
+Capybara,squeak,squeak is the sound a [MASK] makes.,Capybara,Elephant,Lion,Crocodile,A
+Capybara,chatter,chatter is the sound a [MASK] makes.,Capybara,Zebra,Giraffe,Cheetah,A
+Capybara,bark,bark is the sound a [MASK] makes.,Capybara,Zebra,Giraffe,Cheetah,A
+Cat,meow,meow is the sound a [MASK] makes.,Dog,Cat,Rabbit,Mouse,B
+Cat,mew,mew is the sound a [MASK] makes.,Cat,Dog,Rabbit,Mouse,A
+Cat,purr,purr is the sound a [MASK] makes.,Cat,Dog,Rabbit,Mouse,A
+Cat,trill,trill is the sound a [MASK] makes.,Cat,Dog,Rabbit,Mouse,A
+Cat,hiss,hiss is the sound a [MASK] makes.,Cat,Dog,Rabbit,Mouse,A
+Cat,caterwaul,caterwaul is the sound a [MASK] makes.,Cat,Dog,Rabbit,Mouse,A
+Cat,growl,growl is the sound a [MASK] makes.,Cat,Dog,Rabbit,Horse,A
+Cattle,moo,moo is the sound a [MASK] makes.,Cattle,Elephant,Lion,Crocodile,A
+Cattle,low,low is the sound a [MASK] makes.,Cattle,Elephant,Lion,Giraffe,A
+Chicken,bah-gawk,bah-gawk is the sound a [MASK] makes.,Chicken,Duck,Goose,Turkey,A
+Chicken,cha-caw,cha-caw is the sound a [MASK] makes.,Chicken,Duck,Goose,Turkey,A
+Chicken,cock-a-doodle-doo,cock-a-doodle-doo is the sound a [MASK] makes.,Chicken,Duck,Goose,Turkey,A
+Chicken,buck,buck is the sound a [MASK] makes.,Chicken,Duck,Pig,Cow,A
+Chicken,crow,crow is the sound a [MASK] makes.,Chicken,Duck,Goose,Turkey,A
+Chicken,cluck,cluck is the sound a [MASK] makes.,Chicken,Duck,Goose,Turkey,A
+Chinchilla,squeak,squeak is the sound a [MASK] makes.,Chinchilla,Hamster,Rabbit,Guinea Pig,A
+Cicada,chirp,chirp is the sound a [MASK] makes.,Cicada,Grasshopper,Cricket,Beetle,A
+Crab,chirp,chirp is the sound a [MASK] makes.,Crab,Fish,Shark,Octopus,A
+Crab,click,click is the sound a [MASK] makes.,Crab,Elephant,Lion,Crocodile,A
+Crab,creak,creak is the sound a [MASK] makes.,Crab,Fish,Octopus,Jellyfish,A
+Crane,clang,clang is the sound a [MASK] makes.,Crane,Eagle,Hawk,Falcon,A
+Cricket,chirp,chirp is the sound a [MASK] makes.,Cricket,Frog,Snake,Lizard,A
+Crow,cah,cah is the sound a [MASK] makes.,Crow,Eagle,Owl,Penguin,A
+Crow,caw,caw is the sound a [MASK] makes.,Crow,Eagle,Hawk,Falcon,A
+Curlew,pipe,pipe is the sound a [MASK] makes.,Curlew,Duck,Goose,Swallow,A
+Deer,bell,bell is the sound a [MASK] makes.,Elephant,Lion,Deer,Tiger,C
+Deer,bellow,bellow is the sound a [MASK] makes.,Elephant,Deer,Lion,Tiger,B
+Deer,bleat,bleat is the sound a [MASK] makes.,Deer,Sheep,Goat,Cow,B
+Dog,bark,bark is the sound a [MASK] makes.,Dog,Cat,Rabbit,Horse,A
+Dog,howl,howl is the sound a [MASK] makes.,Dog,Cat,Rabbit,Horse,A
+Dog,growl,growl is the sound a [MASK] makes.,Dog,Cat,Rabbit,Horse,A
+Dog,bay,bay is the sound a [MASK] makes.,Dog,Cat,Pig,Cow,A
+Dolphin,click,click is the sound a [MASK] makes.,Dolphin,Elephant,Lion,Crocodile,A
+Donkey,bray,bray is the sound a [MASK] makes.,Donkey,Elephant,Lion,Giraffe,A
+Donkey,hee-haw,hee-haw is the sound a [MASK] makes.,Donkey,Elephant,Lion,Giraffe,A
+Duck,quack,quack is the sound a [MASK] makes.,Duck,Goose,Chicken,Turkey,A
+Eagle,screech,screech is the sound a [MASK] makes.,Eagle,Penguin,Kangaroo,Giraffe,A
+Elephant,trumpet,trumpet is the sound a [MASK] makes.,Elephant,Lion,Zebra,Giraffe,A
+Elk,bugle,bugle is the sound a [MASK] makes.,Elephant,Lion,Elk,Crocodile,C
+Elk,bleat,bleat is the sound a [MASK] makes.,Elk,Sheep,Goat,Cow,B
+Ferret,dook,dook is the sound a [MASK] makes.,Ferret,Rabbit,Hamster,Guinea Pig,A
+Fish,glub,glub is the sound a [MASK] makes.,Fish,Elephant,Lion,Crocodile,A
+Fly,buzz,buzz is the sound a [MASK] makes.,Fly,Mosquito,Bee,Butterfly,A
+Fox,gecker,gecker is the sound a [MASK] makes.,Fox,Dog,Cat,Rabbit,A
+Fox,snore,snore is the sound a [MASK] makes.,Elephant,Lion,Fox,Giraffe,C
+Fox,howl,howl is the sound a [MASK] makes.,Wolf,Lion,Fox,Tiger,C
+Fox,bark,bark is the sound a [MASK] makes.,Dog,Cat,Rabbit,Fox,D
+Fox,scream,scream is the sound a [MASK] makes.,Elephant,Lion,Fox,Crocodile,C
+Frog,ribbit,ribbit is the sound a [MASK] makes.,Frog,Toad,Lizard,Snake,A
+Frog,croak,croak is the sound a [MASK] makes.,Frog,Toad,Lizard,Snake,A
+Gaur,low,low is the sound a [MASK] makes.,Gaur,Elephant,Lion,Crocodile,A
+Gaur,moo,moo is the sound a [MASK] makes.,Gaur,Elephant,Lion,Crocodile,A
+Giraffe,bleat,bleat is the sound a [MASK] makes.,Giraffe,Sheep,Goat,Camel,B
+Giraffe,hum,hum is the sound a [MASK] makes.,Giraffe,Elephant,Lion,Zebra,A
+Goat,bleat,bleat is the sound a [MASK] makes.,Sheep,Goat,Pig,Cow,B
+Goat,maa,maa is the sound a [MASK] makes.,Cow,Sheep,Goat,Pig,C
+Goose,honk,honk is the sound a [MASK] makes.,Duck,Goose,Chicken,Turkey,B
+Goose,hiss,hiss is the sound a [MASK] makes.,Cat,Snake,Mouse,Goose,D
+Grasshopper,chirp,chirp is the sound a [MASK] makes.,Grasshopper,Frog,Snake,Turtle,A
+Guinea pig,wheek,wheek is the sound a [MASK] makes.,Guinea pig,Rabbit,Hamster,Mouse,A
+Hamster,squeak,squeak is the sound a [MASK] makes.,Hamster,Elephant,Lion,Crocodile,A
+Hawk,screech,screech is the sound a [MASK] makes.,Hawk,Eagle,Vulture,Falcon,A
+Hermit crab,chirp,chirp is the sound a [MASK] makes.,Hermit crab,Elephant,Lion,Crocodile,A
+Hippopotamus,growl,growl is the sound a [MASK] makes.,Hippopotamus,Zebra,Giraffe,Cheetah,A
+Hornet,buzz,buzz is the sound a [MASK] makes.,Hornet,Elephant,Lion,Crocodile,A
+Horse,hoofbeats,hoofbeats is the sound a [MASK] makes.,Horse,Elephant,Lion,Crocodile,A
+Horse,clip-clop,clip-clop is the sound a [MASK] makes.,Horse,Elephant,Giraffe,Zebra,A
+Horse,whinny,whinny is the sound a [MASK] makes.,Horse,Elephant,Lion,Crocodile,A
+Horse,neigh,neigh is the sound a [MASK] makes.,Horse,Elephant,Lion,Crocodile,A
+Horse,nicker,nicker is the sound a [MASK] makes.,Horse,Elephant,Lion,Crocodile,A
+Hyena,laugh,laugh is the sound a [MASK] makes.,Hyena,Elephant,Lion,Crocodile,A
+Jackal,gecker,gecker is the sound a [MASK] makes.,Jackal,Wolf,Fox,Coyote,A
+Jaguar,roar,roar is the sound a [MASK] makes.,Cheetah,Jaguar,Lion,Tiger,B
+Jaguar,growl,growl is the sound a [MASK] makes.,Cheetah,Jaguar,Lion,Tiger,B
+Jaguar,snarl,snarl is the sound a [MASK] makes.,Cheetah,Jaguar,Lion,Tiger,B
+Kangaroo,jump,jump is the sound a [MASK] makes.,Kangaroo,Elephant,Lion,Crocodile,A
+Koala,bellow,bellow is the sound a [MASK] makes.,Koala,Elephant,Lion,Giraffe,A
+Koala,shriek,shriek is the sound a [MASK] makes.,Koala,Kangaroo,Wombat,Possum,A
+Lemur,chatter,chatter is the sound a [MASK] makes.,Lemur,Elephant,Lion,Crocodile,A
+Lemur,whoop,whoop is the sound a [MASK] makes.,Lemur,Gorilla,Chimpanzee,Orangutan,A
+Leopard,snarl,snarl is the sound a [MASK] makes.,Cheetah,Leopard,Lion,Tiger,B
+Leopard,growl,growl is the sound a [MASK] makes.,Cheetah,Leopard,Lion,Tiger,B
+Leopard,roar,roar is the sound a [MASK] makes.,Cheetah,Leopard,Lion,Tiger,B
+Linnet,chuckle,chuckle is the sound a [MASK] makes.,Linnet,Sparrow,Robin,Blue Jay,A
+Lion,growl,growl is the sound a [MASK] makes.,Lion,Elephant,Giraffe,Zebra,A
+Lion,roar,roar is the sound a [MASK] makes.,Elephant,Lion,Zebra,Giraffe,B
+Lion,snarl,snarl is the sound a [MASK] makes.,Elephant,Lion,Giraffe,Zebra,B
+Locust,chirp,chirp is the sound a [MASK] makes.,Locust,Grasshopper,Cricket,Beetle,A
+Magpie,chatter,chatter is the sound a [MASK] makes.,Magpie,Elephant,Lion,Crocodile,A
+Monkey,scream,scream is the sound a [MASK] makes.,Monkey,Elephant,Lion,Crocodile,A
+Monkey,chatter,chatter is the sound a [MASK] makes.,Monkey,Elephant,Giraffe,Zebra,A
+Monkey,gecker,gecker is the sound a [MASK] makes.,Monkey,Chimpanzee,Gorilla,Baboon,A
+Monkey,howl,howl is the sound a [MASK] makes.,Monkey,Elephant,Lion,Crocodile,A
+Moose,bellow,bellow is the sound a [MASK] makes.,Moose,Elephant,Lion,Crocodile,A
+Mosquito,buzz,buzz is the sound a [MASK] makes.,Mosquito,Bee,Butterfly,Ant,A
+Mosquito,whine,whine is the sound a [MASK] makes.,Mosquito,Elephant,Lion,Crocodile,A
+Mouse,squeak,squeak is the sound a [MASK] makes.,Mouse,Elephant,Lion,Crocodile,A
+Okapi,cough,cough is the sound a [MASK] makes.,Okapi,Elephant,Lion,Giraffe,A
+Okapi,bellow,bellow is the sound a [MASK] makes.,Okapi,Elephant,Lion,Giraffe,A
+Owl,hiss,hiss is the sound a [MASK] makes.,Owl,Cat,Snake,Tiger,A
+Owl,caterwaul,caterwaul is the sound a [MASK] makes.,Owl,Cat,Dog,Horse,A
+Owl,twit twoo,twit twoo is the sound a [MASK] makes.,Owl,Eagle,Hawk,Falcon,A
+Owl,hoot,hoot is the sound a [MASK] makes.,Owl,Eagle,Hawk,Falcon,A
+Ox,low,low is the sound a [MASK] makes.,Elephant,Lion,Ox,Tiger,C
+Ox,moo,moo is the sound a [MASK] makes.,Ox,Cow,Pig,Sheep,A
+Parrot,talk,talk is the sound a [MASK] makes.,Parrot,Elephant,Lion,Crocodile,A
+Parrot,squawk,squawk is the sound a [MASK] makes.,Parrot,Eagle,Owl,Crow,A
+Peacock,honk,honk is the sound a [MASK] makes.,Peacock,Duck,Goose,Swan,C
+Peacock,squawk,squawk is the sound a [MASK] makes.,Peacock,Eagle,Duck,Swan,A
+Peacock,scream,scream is the sound a [MASK] makes.,Peacock,Elephant,Lion,Crocodile,A
+Penguin,honk,honk is the sound a [MASK] makes.,Penguin,Duck,Goose,Swan,C
+Penguin,trumpet,trumpet is the sound a [MASK] makes.,Penguin,Elephant,Lion,Crocodile,A
+Penguin,bray,bray is the sound a [MASK] makes.,Elephant,Lion,Donkey,Giraffe,C
+Penguin,chirp,chirp is the sound a [MASK] makes.,Penguin,Eagle,Owl,Flamingo,A
+Pig,oink,oink is the sound a [MASK] makes.,Pig,Cow,Sheep,Horse,A
+Pig,squeal,squeal is the sound a [MASK] makes.,Pig,Cow,Sheep,Horse,A
+Pig,grunt,grunt is the sound a [MASK] makes.,Pig,Cow,Sheep,Horse,A
+Pig,snort,snort is the sound a [MASK] makes.,Pig,Elephant,Giraffe,Zebra,A
+Pigeon,coo,coo is the sound a [MASK] makes.,Pigeon,Parrot,Duck,Chicken,A
+Prairie dog,bark,bark is the sound a [MASK] makes.,Prairie dog,Elephant,Lion,Crocodile,A
+Quail,call,call is the sound a [MASK] makes.,Quail,Duck,Chicken,Turkey,A
+Rabbit,squeak,squeak is the sound a [MASK] makes.,Elephant,Lion,Rabbit,Crocodile,C
+Raccoon,trill,trill is the sound a [MASK] makes.,Raccoon,Bear,Wolf,Coyote,A
+Rat,squeak,squeak is the sound a [MASK] makes.,Rat,Elephant,Lion,Crocodile,A
+Raven,cronk,cronk is the sound a [MASK] makes.,Raven,Eagle,Hawk,Falcon,A
+Raven,caw,caw is the sound a [MASK] makes.,Crow,Eagle,Hawk,Raven,D
+River otter,purr,purr is the sound a [MASK] makes.,River otter,Cat,Dog,Bear,A
+River otter,creek,creek is the sound a [MASK] makes.,River otter,Dolphin,Seal,Walrus,A
+River otter,hiss,hiss is the sound a [MASK] makes.,River otter,Snake,Cat,Bear,A
+River otter,grunt,grunt is the sound a [MASK] makes.,River otter,Dolphin,Seal,Walrus,A
+River otter,chirp,chirp is the sound a [MASK] makes.,River otter,Dolphin,Whale,Penguin,A
+River otter,chatter,chatter is the sound a [MASK] makes.,River otter,Dolphin,Seal,Walrus,A
+River otter,swish,swish is the sound a [MASK] makes.,River otter,Dolphin,Seal,Walrus,A
+River otter,blow,blow is the sound a [MASK] makes.,River otter,Dolphin,Seal,Walrus,A
+River otter,scream,scream is the sound a [MASK] makes.,River otter,Dolphin,Seal,Walrus,A
+River otter,hiccup,hiccup is the sound a [MASK] makes.,River otter,Dolphin,Seal,Walrus,A
+River otter,whistle,whistle is the sound a [MASK] makes.,River otter,Dolphin,Seal,Walrus,A
+River otter,chatterchirp,chatterchirp is the sound a [MASK] makes.,River otter,Dolphin,Seal,Walrus,A
+River otter,squeak,squeak is the sound a [MASK] makes.,River otter,Dolphin,Seal,Walrus,A
+River otter,whine,whine is the sound a [MASK] makes.,River otter,Dolphin,Seal,Walrus,A
+Rook,caw,caw is the sound a [MASK] makes.,Rook,Eagle,Owl,Hawk,A
+Seal,bark,bark is the sound a [MASK] makes.,Seal,Elephant,Lion,Crocodile,A
+Sheep,maa,maa is the sound a [MASK] makes.,Sheep,Cow,Pig,Horse,A
+Sheep,meh,meh is the sound a [MASK] makes.,Sheep,Goat,Pig,Cow,A
+Sheep,bleat,bleat is the sound a [MASK] makes.,Sheep,Goat,Pig,Cow,A
+Sheep,baa,baa is the sound a [MASK] makes.,Sheep,Goat,Pig,Cow,A
+Snake,hiss,hiss is the sound a [MASK] makes.,Snake,Tiger,Gorilla,Giraffe,A
+Snake,rattle,rattle is the sound a [MASK] makes.,Snake,Elephant,Lion,Crocodile,A
+Songbird,chirrup,chirrup is the sound a [MASK] makes.,Songbird,Frog,Cat,Dog,A
+Songbird,twitter,twitter is the sound a [MASK] makes.,Songbird,Bear,Tiger,Giraffe,A
+Songbird,sing,sing is the sound a [MASK] makes.,Songbird,Bear,Tiger,Giraffe,A
+Songbird,tweet,tweet is the sound a [MASK] makes.,Songbird,Bear,Tiger,Giraffe,A
+Songbird,warble,warble is the sound a [MASK] makes.,Songbird,Bear,Deer,Giraffe,A
+Songbird,chirp,chirp is the sound a [MASK] makes.,Songbird,Bear,Tiger,Giraffe,A
+Squirrel,squeak,squeak is the sound a [MASK] makes.,Squirrel,Rabbit,Hamster,Mouse,A
+Swan,trumpet,trumpet is the sound a [MASK] makes.,Swan,Duck,Goose,Penguin,A
+Swan,bugle,bugle is the sound a [MASK] makes.,Swan,Duck,Goose,Penguin,A
+Swan,cry,cry is the sound a [MASK] makes.,Swan,Eagle,Duck,Penguin,A
+Tapir,squeak,squeak is the sound a [MASK] makes.,Tapir,Elephant,Lion,Crocodile,A
+Tiger,snarl,snarl is the sound a [MASK] makes.,Tiger,Elephant,Giraffe,Zebra,A
+Tiger,growl,growl is the sound a [MASK] makes.,Tiger,Elephant,Giraffe,Zebra,A
+Tiger,roar,roar is the sound a [MASK] makes.,Elephant,Lion,Tiger,Zebra,C
+Tokay gecko,croak,croak is the sound a [MASK] makes.,Tokay gecko,Frog,Toad,Salamander,A
+Turkey,gobble,gobble is the sound a [MASK] makes.,Turkey,Chicken,Duck,Goose,A
+Whale,sing,sing is the sound a [MASK] makes.,Elephant,Lion,Whale,Tiger,C
+Wild boar,grumble,grumble is the sound a [MASK] makes.,Wild boar,Zebra,Giraffe,Cheetah,A
+Wild boar,growl,growl is the sound a [MASK] makes.,Wild boar,Zebra,Giraffe,Cheetah,A
+Wildebeest,low,low is the sound a [MASK] makes.,Wildebeest,Zebra,Giraffe,Cheetah,A
+Wildebeest,moo,moo is the sound a [MASK] makes.,Wildebeest,Zebra,Giraffe,Cheetah,A
+Wolf,howl,howl is the sound a [MASK] makes.,Wolf,Tiger,Giraffe,Zebra,A
+Wolf,growl,growl is the sound a [MASK] makes.,Wolf,Tiger,Lion,Bear,A
+Wolf,bay,bay is the sound a [MASK] makes.,Wolf,Dog,Cat,Horse,A
+Zebra,bark,bark is the sound a [MASK] makes.,Dog,Cat,Rabbit,Zebra,A
+Zebra,whistle,whistle is the sound a [MASK] makes.,Zebra,Elephant,Lion,Giraffe,A
+Zebra,yip,yip is the sound a [MASK] makes.,Zebra,Wolf,Fox,Coyote,A
+Zebra,nicker,nicker is the sound a [MASK] makes.,Zebra,Elephant,Lion,Giraffe,A
+Zebra,bray,bray is the sound a [MASK] makes.,Zebra,Elephant,Lion,Giraffe,A
