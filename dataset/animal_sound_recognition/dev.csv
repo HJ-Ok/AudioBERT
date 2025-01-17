@@ -1,4 +1,4 @@
-animal,description,sentence,A,B,C,D,Answer
+animal,span,sentence,A,B,C,D,Answer
 magpie,chirping and singing,A [MASK] makes a chirping and singing sound in the morning.,owl,magpie,vulture,eagle,B
 puppy,squeal,Squeal is the sound a [MASK] makes.,piglet,kitten,puppy,duckling,C
 cranes,sound of birds flying in a V-formation,The sound of birds flying in a V-formation is often associated with [MASK].,eagles,ducks,geese,cranes,D
@@ -22,6 +22,7 @@ cricket,sound,The sound of a [MASK] is often heard in the morning.,snake,turtle,
 insect,sound of crickets,The sound of crickets in the summer is a [MASK].,snake,bird,insect,frog,C
 monkey,Screech,Screech is the sound a [MASK] makes.,zebra,elephant,monkey,giraffe,C
 dog,woof woof,A [MASK] makes a sound of 'woof woof'.,dog,cat,rabbit,bird,A
+cricket,Chirping,The sound of [MASK] can be heard hiding in the long grass.,frog,cricket,snake,bird,B
 shark,glub glub,Glub glub is the sound of a [MASK] swimming through water.,elephant,lion,shark,crocodile,C
 puppy,high-pitched cry or bark,A [MASK] makes a high-pitched cry or bark.,kitten,hamster,rabbit,puppy,D
 guinea pig,high-pitched squealing,A [MASK] makes a high-pitched squealing sound.,hamster,rabbit,guinea pig,mouse,C
