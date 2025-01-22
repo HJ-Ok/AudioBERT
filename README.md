@@ -56,7 +56,8 @@ AudioBERT uses a retrieval-based framework to inject auditory knowledge into lan
 
 Detailed codes are available [here](model/README.md).
 
-![AudioBERT_model (1)_page-0001](https://github.com/user-attachments/assets/e026332d-faf5-4261-bbfe-6062d8c7de0a)
+![AudioBERT_model (1)_page-0001](https://github.com/user-attachments/assets/0ec1c8d3-4f18-4278-b9b0-2cf4d941263e)
+
 
 
 ### Training
