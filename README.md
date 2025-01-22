@@ -43,7 +43,8 @@ You can download our dataset and look detailed dataset generation process [here]
 | Animal Sound Recognition | 4,211 | 593 | 1,211 | 197 | 6,212 |
 | Sound Pitch Comparison  | 8,312 | 1,178 | 2,387 | 3,625 | 15,502 |
 
-![AudioBERT_datapipline_figure2 (4)_page-0001](https://github.com/user-attachments/assets/1d1093e9-c07e-4a81-9ef0-5f2ee860cf5c)
+![AudioBERT_datapipline_figure2 (4)_page-0001](https://github.com/user-attachments/assets/0551fd69-4ad4-4f22-b106-0b9959c2d930)
+
 
 
 ## Model
