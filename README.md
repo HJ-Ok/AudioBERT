@@ -15,8 +15,9 @@ Language models like BERT, while powerful in text-based tasks, often lack audito
 To evaluate this, we introduce **AuditoryBench**, a dataset featuring tasks like animal sound recognition and sound pitch comparison. AudioBERT leverages **CLAP** (Contrastive Language-Audio Pretraining) for effective audio-text matching.
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/4e2c9d61-cdf0-41d4-a64d-5e9c9121b2a6" alt="AudioBERT" style="width: 30%; height: auto;">
+    <img src="https://github.com/user-attachments/assets/a2093991-fc1c-4d0a-9dca-fa3aa284741c" alt="AudioBERT" style="width: 30%; height: auto;">
 </p>
+
 
 
 ## Dataset
