@@ -1,6 +1,6 @@
 # AudioBERT 📢 : Audio Knowledge Augmented Language Model
 
-[![Paper](https://img.shields.io/badge/Paper-arxiv.2409.08199-red)](https://arxiv.org/abs/2409.08199) 
+ [**🤗 Dataset**](https://huggingface.co/datasets/HJOK/AuditoryBench) | [**📄 arXiv**](https://arxiv.org/abs/2409.08199) 
 
 This repository contains the [model code](model/) and the [dataset](dataset/) of our AudioBERT and AuditoryBench.
 
