@@ -1,6 +1,6 @@
 # AudioBERT 📢 : Audio Knowledge Augmented Language Model
 
- [**🤗 Dataset**](https://huggingface.co/datasets/HJOK/AuditoryBench) | [**📄 arXiv**](https://arxiv.org/abs/2409.08199) 
+ [**🤗 Dataset**](https://huggingface.co/datasets/HJ-AILAB/AuditoryBench) | [**📄 arXiv**](https://arxiv.org/abs/2409.08199) 
 
 This repository contains the [model code](model/) and the [dataset](dataset/) of our AudioBERT and AuditoryBench.
 
@@ -27,8 +27,8 @@ You can also see our dataset in huggingface and download it by following code.
 ```Python
 from datasets import load_dataset
 
-animal_sound_recognition_dataset = load_dataset("HJOK/AuditoryBench","animal_sound_recognition")
-sound_pitch_comparsion_dataset = load_dataset("HJOK/AuditoryBench","sound_pitch_comparsion")
+animal_sound_recognition_dataset = load_dataset("HJ-AILAB/AuditoryBench","animal_sound_recognition")
+sound_pitch_comparsion_dataset = load_dataset("HJ-AILAB/AuditoryBench","sound_pitch_comparsion")
 ```
 
 AuditoryBench is the first dataset aimed at evaluating language models' auditory knowledge. It comprises:
